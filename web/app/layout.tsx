@@ -1,0 +1,40 @@
+import type { Metadata } from "next";
+import { Inter } from "next/font/google";
+import "./globals.css";
+import { ClerkProvider } from "@clerk/nextjs";
+import { GlobalProvider } from "@/context/GlobalContext";
+import ThemeScript from "@/components/ThemeScript";
+import LayoutWrapper from "@/components/LayoutWrapper";
+
+// Use Inter font with swap display for better loading
+const font = Inter({
+  subsets: ["latin"],
+  display: "swap",
+  fallback: ["system-ui", "sans-serif"],
+});
+
+export const metadata: Metadata = {
+  title: "ExamTutor - AI-Powered Exam Preparation Platform",
+  description: "AI-powered exam preparation and study assistant",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <ClerkProvider>
+      <html lang="en" suppressHydrationWarning>
+        <head>
+          <ThemeScript />
+        </head>
+        <body className={font.className}>
+          <GlobalProvider>
+            <LayoutWrapper>{children}</LayoutWrapper>
+          </GlobalProvider>
+        </body>
+      </html>
+    </ClerkProvider>
+  );
+}
