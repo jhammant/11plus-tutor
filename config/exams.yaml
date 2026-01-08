@@ -1,0 +1,211 @@
+# Exam Configuration for ExamTutor
+
+eleven_plus:
+  providers:
+    gl_assessment:
+      name: "GL Assessment"
+      market_share: 0.70
+      format: "multiple_choice"
+      regions:
+        - Kent
+        - Buckinghamshire
+        - Birmingham
+        - Lincolnshire
+        - Warwickshire
+        - Medway
+        - Northern Ireland
+      subjects:
+        verbal_reasoning:
+          question_count: 80
+          time_minutes: 45
+          question_types:
+            - synonyms
+            - antonyms
+            - analogies
+            - odd_one_out
+            - code_words
+            - letter_sequences
+            - hidden_words
+            - compound_words
+            - cloze_passages
+            - shuffled_sentences
+            - word_connections
+            - letter_codes
+            - number_codes
+            - word_matrices
+            - logical_deduction
+            - alphabet_position
+            - word_ladders
+            - anagrams
+            - word_pairs
+            - missing_letters
+            - double_meanings
+
+        non_verbal_reasoning:
+          question_count: 80
+          time_minutes: 45
+          question_types:
+            - sequences
+            - matrices
+            - analogies
+            - odd_one_out
+            - rotations
+            - reflections
+            - transformations
+            - paper_folding
+            - nets_and_cubes
+            - embedded_shapes
+            - code_breakers
+            - spatial_reasoning
+
+        mathematics:
+          question_count: 50
+          time_minutes: 45
+          topics:
+            - number_operations
+            - fractions_decimals_percentages
+            - ratio_proportion
+            - algebra_basics
+            - geometry_shapes
+            - measurement
+            - data_handling
+            - word_problems
+            - sequences_patterns
+            - time_money
+
+        english:
+          question_count: 50
+          time_minutes: 45
+          sections:
+            - comprehension
+            - spelling
+            - punctuation
+            - grammar
+            - vocabulary
+
+    cem:
+      name: "CEM (Durham University)"
+      market_share: 0.25
+      format: "integrated_timed_sections"
+      regions:
+        - Berkshire
+        - Bexley
+        - Gloucestershire
+        - Shropshire
+        - Walsall
+        - Wolverhampton
+      characteristics:
+        - integrated_papers
+        - rapid_section_changes
+        - unpredictable_weighting
+        - broader_vocabulary
+      papers:
+        paper_1:
+          name: "English & Verbal Reasoning"
+          time_minutes: 45
+        paper_2:
+          name: "Maths & Non-Verbal Reasoning"
+          time_minutes: 45
+
+gcse:
+  exam_boards:
+    aqa:
+      name: "AQA"
+      market_share: 0.40
+      base_url: "https://www.aqa.org.uk"
+      specifications:
+        english_language:
+          code: "8700"
+          papers: 2
+          assessment: "100% exam"
+        english_literature:
+          code: "8702"
+          papers: 2
+          assessment: "100% exam"
+        mathematics:
+          code: "8300"
+          papers: 3
+          calculator_papers: [2, 3]
+          non_calculator_papers: [1]
+        combined_science:
+          code: "8464"
+          papers: 6
+        biology:
+          code: "8461"
+          papers: 2
+        chemistry:
+          code: "8462"
+          papers: 2
+        physics:
+          code: "8463"
+          papers: 2
+        history:
+          code: "8145"
+        geography:
+          code: "8035"
+        computer_science:
+          code: "8525"
+
+    edexcel:
+      name: "Pearson Edexcel"
+      market_share: 0.35
+      base_url: "https://qualifications.pearson.com"
+      specifications:
+        mathematics:
+          code: "1MA1"
+          papers: 3
+        english_language:
+          code: "1EN0"
+        english_literature:
+          code: "1ET0"
+        biology:
+          code: "1BI0"
+        chemistry:
+          code: "1CH0"
+        physics:
+          code: "1PH0"
+        combined_science:
+          code: "1SC0"
+
+    ocr:
+      name: "OCR"
+      market_share: 0.15
+      base_url: "https://www.ocr.org.uk"
+      owner: "Cambridge Assessment"
+      specifications:
+        computer_science:
+          code: "J277"
+        mathematics:
+          code: "J560"
+
+  grading:
+    england:
+      scale: "9-1"
+      pass_grades:
+        standard: 4
+        strong: 5
+      grade_mapping:
+        9: "A* (top)"
+        8: "A*/A"
+        7: "A"
+        6: "B"
+        5: "B/C (strong pass)"
+        4: "C (standard pass)"
+        3: "D/E"
+        2: "E/F"
+        1: "F/G"
+    wales_ni:
+      scale: "A*-G"
+
+key_stages:
+  ks2:
+    ages: "7-11"
+    years: "3-6"
+    culminates_in: "SATs, 11+"
+  ks3:
+    ages: "11-14"
+    years: "7-9"
+  ks4:
+    ages: "14-16"
+    years: "10-11"
+    culminates_in: "GCSEs"

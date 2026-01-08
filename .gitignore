@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Node (frontend)
+web/node_modules/
+web/.next/
+web/out/
+web/.vercel
+
+# Data (large files)
+data/oak_content/
+data/papers/
+*.pdf
+
+# Build artifacts
+*.pyc
+*.pyo
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
