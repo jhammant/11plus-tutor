@@ -1,0 +1,19 @@
+{
+  "id": "15f761e6-b89e-49b2-bc48-e6b5909beaf3",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, silent, generous) (dark, loud, selfish)",
+  "options": [
+    "bright & dark",
+    "bright & loud",
+    "silent & dark",
+    "silent & selfish",
+    "generous & loud"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "Bright and dark are direct opposites in meaning, representing opposite levels of light.",
+  "created_at": "2026-01-08T18:52:12.629675"
+}

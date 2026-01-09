@@ -1,0 +1,19 @@
+{
+  "id": "553d9964-98fa-42b9-8070-5514df37ebbd",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "BRIGHT is to DARK as NOISE is to ___",
+  "options": [
+    "CHAOS",
+    "VOLUME",
+    "SILENCE",
+    "ECHO",
+    "HUM"
+  ],
+  "correct_answer": "SILENCE",
+  "correct_index": 2,
+  "explanation": "The relationship is one of opposites: bright and dark are opposite qualities, just as noise (sound) and silence are opposites.",
+  "created_at": "2026-01-08T18:52:56.964302"
+}

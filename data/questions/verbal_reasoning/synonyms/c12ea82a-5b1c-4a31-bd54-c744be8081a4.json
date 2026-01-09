@@ -1,0 +1,19 @@
+{
+  "id": "c12ea82a-5b1c-4a31-bd54-c744be8081a4",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(brisk, gloomy, tremor) (rapid, somber, quake)",
+  "options": [
+    "brisk & rapid",
+    "brisk & somber",
+    "gloomy & rapid",
+    "gloomy & quake",
+    "tremor & somber"
+  ],
+  "correct_answer": "brisk & rapid",
+  "correct_index": 0,
+  "explanation": "\u2018Brisk\u2019 and \u2018rapid\u2019 both mean quick or fast, making them synonyms. The other pairings do not share the same meaning.",
+  "created_at": "2026-01-08T18:42:58.751378"
+}

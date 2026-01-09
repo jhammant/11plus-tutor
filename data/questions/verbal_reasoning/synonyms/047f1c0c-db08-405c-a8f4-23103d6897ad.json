@@ -1,0 +1,19 @@
+{
+  "id": "047f1c0c-db08-405c-a8f4-23103d6897ad",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(rapid, gloomy, mirth) (swift, cheerful, somber)",
+  "options": [
+    "rapid & swift",
+    "rapid & cheerful",
+    "gloomy & swift",
+    "gloomy & somber",
+    "mirth & cheerful"
+  ],
+  "correct_answer": "rapid & swift",
+  "correct_index": 0,
+  "explanation": "\u2018Rapid\u2019 and \u2018swift\u2019 both mean moving quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:56:37.450743"
+}

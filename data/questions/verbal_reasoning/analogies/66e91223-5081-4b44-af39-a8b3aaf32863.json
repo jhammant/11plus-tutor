@@ -1,0 +1,19 @@
+{
+  "id": "66e91223-5081-4b44-af39-a8b3aaf32863",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "BRIGHT is to DARK as HOT is to ___",
+  "options": [
+    "WARM",
+    "COOL",
+    "COLD",
+    "CHILLY",
+    "FREEZING"
+  ],
+  "correct_answer": "COLD",
+  "correct_index": 2,
+  "explanation": "The relationship is opposite in meaning. 'BRIGHT' and 'DARK' are opposites, just as 'HOT' and 'COLD' are opposites.",
+  "created_at": "2026-01-08T18:50:57.809095"
+}

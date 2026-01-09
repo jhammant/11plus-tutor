@@ -1,0 +1,19 @@
+{
+  "id": "b201f824-7e5b-4a9e-aab6-8650a74c9add",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "Which of the following fractions is equivalent to 3/8 when expressed with a denominator of 24?",
+  "options": [
+    "9/24",
+    "6/24",
+    "12/24",
+    "15/24",
+    "18/24"
+  ],
+  "correct_answer": "9/24",
+  "correct_index": 0,
+  "explanation": "To find an equivalent fraction with denominator 24, multiply both numerator and denominator of 3/8 by the same number. Since 8 \u00d7 3 = 24, multiply the numerator 3 by 3 as well: 3 \u00d7 3 = 9. Therefore, 3/8 = 9/24.",
+  "created_at": "2026-01-08T19:01:24.871369"
+}

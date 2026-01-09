@@ -1,0 +1,19 @@
+{
+  "id": "8318ca34-268a-4b43-9259-ba3243ded734",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\n3, 5, 9, 11, 15, ___",
+  "options": [
+    "17",
+    "18",
+    "16",
+    "19",
+    "20"
+  ],
+  "correct_answer": "17",
+  "correct_index": 0,
+  "explanation": "The pattern alternates between adding 2 and adding 4: 3+2=5, 5+4=9, 9+2=11, 11+4=15, so the next step is 15+2=17.",
+  "created_at": "2026-01-08T18:37:47.842553"
+}

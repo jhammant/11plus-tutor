@@ -1,0 +1,19 @@
+{
+  "id": "27c9189e-80e9-4b9d-bd08-d438a2cf296c",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(rapid, bright, silent) (swift, luminous, noisy)",
+  "options": [
+    "rapid & swift",
+    "rapid & luminous",
+    "bright & swift",
+    "bright & noisy",
+    "silent & luminous"
+  ],
+  "correct_answer": "rapid & swift",
+  "correct_index": 0,
+  "explanation": "\u2018Rapid\u2019 and \u2018swift\u2019 both mean moving quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:53:25.964472"
+}

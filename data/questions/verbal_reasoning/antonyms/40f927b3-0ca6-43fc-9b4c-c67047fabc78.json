@@ -1,0 +1,19 @@
+{
+  "id": "40f927b3-0ca6-43fc-9b4c-c67047fabc78",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, ancient, fragile) (dark, modern, sturdy)",
+  "options": [
+    "bright & dark",
+    "bright & modern",
+    "ancient & dark",
+    "ancient & sturdy",
+    "fragile & modern"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "Bright and dark are direct opposites in meaning, representing opposite levels of light. The other pairs do not have such a clear antonym relationship.",
+  "created_at": "2026-01-08T18:45:20.176995"
+}

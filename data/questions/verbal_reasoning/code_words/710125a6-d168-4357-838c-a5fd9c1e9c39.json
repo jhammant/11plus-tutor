@@ -1,0 +1,19 @@
+{
+  "id": "710125a6-d168-4357-838c-a5fd9c1e9c39",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If BRIGHT is coded as EULJKW, what is the code for TARGET?",
+  "options": [
+    "WDUJHW",
+    "UDFKHV",
+    "XEVLIX",
+    "VCTGJV",
+    "YFWMIZ"
+  ],
+  "correct_answer": "WDUJHW",
+  "correct_index": 0,
+  "explanation": "Each letter is shifted forward by three places in the alphabet (wrapping from Z to A). Applying this to TARGET: T\u2192W, A\u2192D, R\u2192U, G\u2192J, E\u2192H, T\u2192W, giving WDUJHW.",
+  "created_at": "2026-01-08T18:41:43.575132"
+}

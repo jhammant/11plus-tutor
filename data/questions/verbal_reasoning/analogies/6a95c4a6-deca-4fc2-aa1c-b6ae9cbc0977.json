@@ -1,0 +1,19 @@
+{
+  "id": "6a95c4a6-deca-4fc2-aa1c-b6ae9cbc0977",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "Cat is to Kitten as Dog is to ___",
+  "options": [
+    "Puppy",
+    "Cub",
+    "Foal",
+    "Calf",
+    "Chick"
+  ],
+  "correct_answer": "Puppy",
+  "correct_index": 0,
+  "explanation": "A cat produces a young cat called a kitten. Similarly, a dog produces a young dog called a puppy. The relationship is the adult animal to its offspring.",
+  "created_at": "2026-01-08T18:43:39.647633"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "401ac8eb-c548-4378-855e-d9022fa10311",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, ancient, expand) (dark, modern, shrink)",
+  "options": [
+    "bright & dark",
+    "bright & modern",
+    "ancient & dark",
+    "ancient & shrink",
+    "expand & modern"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "\u2018Bright\u2019 means full of light, while \u2018dark\u2019 means lacking light. They are direct opposites, making them the correct antonym pair.",
+  "created_at": "2026-01-08T18:54:48.235833"
+}

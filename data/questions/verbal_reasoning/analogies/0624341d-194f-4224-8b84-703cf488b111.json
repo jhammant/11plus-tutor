@@ -1,0 +1,19 @@
+{
+  "id": "0624341d-194f-4224-8b84-703cf488b111",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "Teacher is to School as Doctor is to ___",
+  "options": [
+    "Hospital",
+    "Clinic",
+    "University",
+    "Pharmacy",
+    "Laboratory"
+  ],
+  "correct_answer": "Hospital",
+  "correct_index": 0,
+  "explanation": "A teacher works in a school, just as a doctor works in a hospital. Both pairs describe the professional and their primary workplace.",
+  "created_at": "2026-01-08T18:42:13.979400"
+}

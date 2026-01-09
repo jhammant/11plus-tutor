@@ -1,0 +1,19 @@
+{
+  "id": "1764e315-4c8e-4867-84cc-723ad9d7105d",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "Which of the following fractions is equivalent to \\(\\frac{3}{8} + \\frac{1}{4}\\)?",
+  "options": [
+    "\\frac{5}{8}",
+    "\\frac{7}{12}",
+    "\\frac{2}{3}",
+    "\\frac{3}{5}",
+    "\\frac{1}{2}"
+  ],
+  "correct_answer": "\\frac{5}{8}",
+  "correct_index": 0,
+  "explanation": "First convert \\(\\frac{1}{4}\\) to a fraction with denominator 8: \\(\\frac{1}{4}=\\frac{2}{8}\\). Then add the fractions: \\(\\frac{3}{8}+\\frac{2}{8}=\\frac{5}{8}\\). Therefore the equivalent fraction is \\(\\frac{5}{8}\\), which is option 0.",
+  "created_at": "2026-01-08T18:53:08.354531"
+}

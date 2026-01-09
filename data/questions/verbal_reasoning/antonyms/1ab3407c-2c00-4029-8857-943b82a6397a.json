@@ -1,0 +1,19 @@
+{
+  "id": "1ab3407c-2c00-4029-8857-943b82a6397a",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, ancient, smooth) (dark, modern, rough)",
+  "options": [
+    "bright & dark",
+    "bright & modern",
+    "ancient & dark",
+    "ancient & rough",
+    "smooth & modern"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "Bright and dark are direct opposites, representing opposite levels of light. The other pairs do not have such a clear antonym relationship.",
+  "created_at": "2026-01-08T18:58:03.301083"
+}

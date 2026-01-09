@@ -1,0 +1,19 @@
+{
+  "id": "59f7cf08-8732-4fc3-ab74-fd27e05ca554",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If MATH is coded as OCVJ, what is the code for WORD?",
+  "options": [
+    "YQTF",
+    "XPSU",
+    "ZRUH",
+    "WOSF",
+    "VNRD"
+  ],
+  "correct_answer": "YQTF",
+  "correct_index": 0,
+  "explanation": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to WORD: W\u2192Y, O\u2192Q, R\u2192T, D\u2192F, giving YQTF.",
+  "created_at": "2026-01-08T18:39:45.897707"
+}

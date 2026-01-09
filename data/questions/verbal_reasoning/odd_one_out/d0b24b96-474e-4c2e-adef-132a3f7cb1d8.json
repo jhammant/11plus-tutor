@@ -1,0 +1,19 @@
+{
+  "id": "d0b24b96-474e-4c2e-adef-132a3f7cb1d8",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nEagle, Sparrow, Penguin, Hawk, Albatross",
+  "options": [
+    "Eagle",
+    "Sparrow",
+    "Penguin",
+    "Hawk",
+    "Albatross"
+  ],
+  "correct_answer": "Penguin",
+  "correct_index": 2,
+  "explanation": "Penguin is the odd one out because the other four birds (Eagle, Sparrow, Hawk, Albatross) can fly, whereas a penguin cannot.",
+  "created_at": "2026-01-08T18:50:25.886411"
+}

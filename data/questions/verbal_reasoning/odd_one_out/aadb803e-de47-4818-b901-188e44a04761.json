@@ -1,0 +1,19 @@
+{
+  "id": "aadb803e-de47-4818-b901-188e44a04761",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\ncandle, lantern, torch, lamp, river",
+  "options": [
+    "candle",
+    "lantern",
+    "torch",
+    "lamp",
+    "river"
+  ],
+  "correct_answer": "river",
+  "correct_index": 4,
+  "explanation": "River is the odd one out because the other four words (candle, lantern, torch, lamp) are all sources of light, whereas river is a body of water.",
+  "created_at": "2026-01-08T18:51:02.612759"
+}

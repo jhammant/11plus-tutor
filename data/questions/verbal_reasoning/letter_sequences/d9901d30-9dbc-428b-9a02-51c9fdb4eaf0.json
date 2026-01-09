@@ -1,0 +1,19 @@
+{
+  "id": "d9901d30-9dbc-428b-9a02-51c9fdb4eaf0",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAB, DE, GH, JK, ___",
+  "options": [
+    "LM",
+    "MN",
+    "NO",
+    "OP",
+    "PQ"
+  ],
+  "correct_answer": "LM",
+  "correct_index": 0,
+  "explanation": "Each pair skips one letter between the two letters and then moves forward by three positions: AB (skip C), DE (skip F), GH (skip I), JK (skip M). The next start after J is L, skipping K, giving LM.",
+  "created_at": "2026-01-08T18:39:31.272828"
+}

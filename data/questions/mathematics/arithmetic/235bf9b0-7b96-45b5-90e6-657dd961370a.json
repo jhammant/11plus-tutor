@@ -1,0 +1,19 @@
+{
+  "id": "235bf9b0-7b96-45b5-90e6-657dd961370a",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "Three classes at a school each order 24 new textbooks that cost \u00a32.50 each. After the total price is calculated, the supplier gives a 10% discount on the whole order. Later, the school returns 12 of the textbooks and receives a full refund for those books. How much money does the school finally spend on the textbooks?",
+  "options": [
+    "132",
+    "150",
+    "138",
+    "126",
+    "140"
+  ],
+  "correct_answer": "132",
+  "correct_index": 0,
+  "explanation": "First find the total number of books: 3 \u00d7 24 = 72 books.\nCost before discount: 72 \u00d7 \u00a32.50 = \u00a3180.\nDiscount of 10%: 10% of \u00a3180 = \u00a318, so discounted price = \u00a3180 \u2013 \u00a318 = \u00a3162.\nThe school returns 12 books: 12 \u00d7 \u00a32.50 = \u00a330 refunded.\nFinal amount spent: \u00a3162 \u2013 \u00a330 = \u00a3132.",
+  "created_at": "2026-01-08T18:58:30.167295"
+}

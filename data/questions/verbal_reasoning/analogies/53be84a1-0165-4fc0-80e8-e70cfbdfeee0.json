@@ -1,0 +1,19 @@
+{
+  "id": "53be84a1-0165-4fc0-80e8-e70cfbdfeee0",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "PUPIL is to SCHOOL as PLAYER is to ___",
+  "options": [
+    "TEAM",
+    "FIELD",
+    "COACH",
+    "MATCH",
+    "SPORT"
+  ],
+  "correct_answer": "TEAM",
+  "correct_index": 0,
+  "explanation": "A pupil attends a school, just as a player belongs to a team. The relationship is 'member of' or 'part of an organisation'. Therefore the correct answer is TEAM.",
+  "created_at": "2026-01-08T18:55:31.648201"
+}

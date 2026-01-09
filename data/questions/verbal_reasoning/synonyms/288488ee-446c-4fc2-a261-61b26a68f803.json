@@ -1,0 +1,19 @@
+{
+  "id": "288488ee-446c-4fc2-a261-61b26a68f803",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(swift, dull, bright) (fast, tedious, luminous)",
+  "options": [
+    "swift & fast",
+    "swift & tedious",
+    "dull & fast",
+    "dull & luminous",
+    "bright & tedious"
+  ],
+  "correct_answer": "swift & fast",
+  "correct_index": 0,
+  "explanation": "The words 'swift' and 'fast' both mean moving quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:57:16.570336"
+}

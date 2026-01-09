@@ -1,0 +1,19 @@
+{
+  "id": "9e82f4e4-5288-4cd5-82a6-6fbd8d99b46d",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, gentle, noisy) (dark, harsh, silent)",
+  "options": [
+    "bright & dark",
+    "bright & harsh",
+    "gentle & dark",
+    "gentle & silent",
+    "noisy & harsh"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "\u2018Bright\u2019 means full of light or cheerful, while \u2018dark\u2019 means lacking light or gloomy. These two words are direct opposites, making them the correct antonym pair.",
+  "created_at": "2026-01-08T18:56:42.682500"
+}

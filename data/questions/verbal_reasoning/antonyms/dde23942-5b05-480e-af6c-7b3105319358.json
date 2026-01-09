@@ -1,0 +1,19 @@
+{
+  "id": "dde23942-5b05-480e-af6c-7b3105319358",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(happy, cold, fast) (sad, hot, slow)",
+  "options": [
+    "happy & sad",
+    "happy & hot",
+    "cold & sad",
+    "cold & slow",
+    "fast & hot"
+  ],
+  "correct_answer": "happy & sad",
+  "correct_index": 0,
+  "explanation": "These words are antonyms because 'happy' means feeling pleasure or joy, while 'sad' means feeling sorrow or unhappiness; they represent opposite emotional states.",
+  "created_at": "2026-01-08T18:59:20.816100"
+}

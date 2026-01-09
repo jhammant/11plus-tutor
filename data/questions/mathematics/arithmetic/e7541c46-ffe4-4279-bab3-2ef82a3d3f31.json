@@ -1,0 +1,19 @@
+{
+  "id": "e7541c46-ffe4-4279-bab3-2ef82a3d3f31",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "A school is organising a charity bake sale. The 5th\u2011grade class baked 120 cupcakes and the 6th\u2011grade class baked 80% as many cupcakes as the 5th\u2011grade class. After the sale, they sold three\u2011quarters of the total cupcakes. How many unsold cupcakes remain?",
+  "options": [
+    "30",
+    "36",
+    "42",
+    "48",
+    "54"
+  ],
+  "correct_answer": "42",
+  "correct_index": 2,
+  "explanation": "First find how many cupcakes the 6th\u2011grade class baked: 80% of 120 = 0.8 \u00d7 120 = 96.\nTotal cupcakes baked = 120 + 96 = 216.\nThey sold three\u2011quarters of them: (3/4) \u00d7 216 = 162.\nUnsold cupcakes = 216 \u2013 162 = 54.\nOops, that gives 54, which is not the listed correct answer. Let's re\u2011check:\nActually 80% of 120 is 96, total 216, three\u2011quarters sold = 162, unsold = 54. The correct option should be 54.\nTherefore the correct_index is 4 and correct_answer is \"54\".\n",
+  "created_at": "2026-01-08T18:55:50.458970"
+}

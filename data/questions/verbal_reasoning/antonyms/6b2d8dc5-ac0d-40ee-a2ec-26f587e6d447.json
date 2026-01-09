@@ -1,0 +1,19 @@
+{
+  "id": "6b2d8dc5-ac0d-40ee-a2ec-26f587e6d447",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, ancient, swift) (dull, modern, slow)",
+  "options": [
+    "bright & dull",
+    "bright & modern",
+    "ancient & dull",
+    "ancient & slow",
+    "swift & modern"
+  ],
+  "correct_answer": "bright & dull",
+  "correct_index": 0,
+  "explanation": "These words are antonyms because 'bright' means giving a lot of light or being vivid, while 'dull' means lacking brightness or vividness.",
+  "created_at": "2026-01-08T18:52:52.759946"
+}

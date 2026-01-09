@@ -1,0 +1,19 @@
+{
+  "id": "d2ef0e98-e5c7-4bd7-9c95-1e0354bd126b",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
+  "options": [
+    "VCTIGV",
+    "UCSHFU",
+    "WDUJHW",
+    "XEVKIX",
+    "YFWLJY"
+  ],
+  "correct_answer": "VCTIGV",
+  "correct_index": 0,
+  "explanation": "Each letter is shifted forward by 2 places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V, giving VCTIGV.",
+  "created_at": "2026-01-08T18:40:26.865661"
+}

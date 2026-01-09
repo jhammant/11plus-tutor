@@ -1,0 +1,19 @@
+{
+  "id": "ca52a2ea-b6f4-4fd0-8da7-c1c584a0b95f",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "Teacher is to Classroom as Chef is to ___",
+  "options": [
+    "Kitchen",
+    "Library",
+    "Studio",
+    "Garden",
+    "Office"
+  ],
+  "correct_answer": "Kitchen",
+  "correct_index": 0,
+  "explanation": "A teacher works in a classroom, just as a chef works in a kitchen. Both pairs describe the typical place where each professional carries out their main duties.",
+  "created_at": "2026-01-08T18:54:52.100011"
+}

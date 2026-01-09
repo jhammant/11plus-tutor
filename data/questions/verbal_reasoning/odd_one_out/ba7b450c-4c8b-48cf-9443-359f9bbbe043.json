@@ -1,0 +1,19 @@
+{
+  "id": "ba7b450c-4c8b-48cf-9443-359f9bbbe043",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nletter, coffee, bottle, apple, garden",
+  "options": [
+    "letter",
+    "coffee",
+    "bottle",
+    "apple",
+    "garden"
+  ],
+  "correct_answer": "garden",
+  "correct_index": 4,
+  "explanation": "The first four words (letter, coffee, bottle, apple) each contain a double letter, while 'garden' does not.",
+  "created_at": "2026-01-08T18:58:54.347096"
+}

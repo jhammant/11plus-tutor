@@ -1,0 +1,19 @@
+{
+  "id": "e9958739-7386-471a-bcee-cb393e70d78c",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAZ, BY, CX, DW, ___",
+  "options": [
+    "EV",
+    "VE",
+    "FW",
+    "XF",
+    "DU"
+  ],
+  "correct_answer": "EV",
+  "correct_index": 0,
+  "explanation": "Each pair moves one step inward from the ends of the alphabet: A\u2011Z, B\u2011Y, C\u2011X, D\u2011W, so the next is E\u2011V.",
+  "created_at": "2026-01-08T18:38:52.220739"
+}

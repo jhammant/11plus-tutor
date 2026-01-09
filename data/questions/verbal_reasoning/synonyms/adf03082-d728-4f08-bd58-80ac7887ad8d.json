@@ -1,0 +1,19 @@
+{
+  "id": "adf03082-d728-4f08-bd58-80ac7887ad8d",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(rapid, gloomy, generous) (swift, cheerful, stingy)",
+  "options": [
+    "rapid & swift",
+    "rapid & cheerful",
+    "gloomy & swift",
+    "gloomy & stingy",
+    "generous & cheerful"
+  ],
+  "correct_answer": "rapid & swift",
+  "correct_index": 0,
+  "explanation": "These words are synonyms because 'rapid' and 'swift' both mean moving or acting quickly.",
+  "created_at": "2026-01-08T18:49:30.589685"
+}

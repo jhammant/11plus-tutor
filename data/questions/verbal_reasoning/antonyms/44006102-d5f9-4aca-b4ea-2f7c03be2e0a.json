@@ -1,0 +1,19 @@
+{
+  "id": "44006102-d5f9-4aca-b4ea-2f7c03be2e0a",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, gentle, increase) (dark, harsh, decrease)",
+  "options": [
+    "bright & dark",
+    "bright & harsh",
+    "gentle & dark",
+    "gentle & decrease",
+    "increase & harsh"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "\u2018Bright\u2019 and \u2018dark\u2019 are direct opposites, representing opposite levels of light. The other pairs do not have a clear antonym relationship.",
+  "created_at": "2026-01-08T18:51:33.510135"
+}

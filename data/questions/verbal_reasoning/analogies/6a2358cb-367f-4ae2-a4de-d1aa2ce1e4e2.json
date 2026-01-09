@@ -1,0 +1,19 @@
+{
+  "id": "6a2358cb-367f-4ae2-a4de-d1aa2ce1e4e2",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "Author is to Book as Composer is to ___",
+  "options": [
+    "Song",
+    "Symphony",
+    "Music",
+    "Score",
+    "Melody"
+  ],
+  "correct_answer": "Music",
+  "correct_index": 2,
+  "explanation": "An author creates a book, just as a composer creates music. The relationship is 'creator' to their creation.",
+  "created_at": "2026-01-08T18:50:20.778483"
+}

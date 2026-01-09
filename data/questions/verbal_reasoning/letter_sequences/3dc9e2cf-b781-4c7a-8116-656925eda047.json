@@ -1,0 +1,19 @@
+{
+  "id": "3dc9e2cf-b781-4c7a-8116-656925eda047",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAB, DE, GH, JK, ___",
+  "options": [
+    "LM",
+    "KL",
+    "MN",
+    "NO",
+    "OP"
+  ],
+  "correct_answer": "LM",
+  "correct_index": 0,
+  "explanation": "Each pair skips two letters: AB (+3) \u2192 DE (+3) \u2192 GH (+3) \u2192 JK (+3). The next pair is LM.",
+  "created_at": "2026-01-08T18:38:40.017126"
+}

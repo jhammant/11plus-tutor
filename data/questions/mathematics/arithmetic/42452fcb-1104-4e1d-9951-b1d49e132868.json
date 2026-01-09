@@ -1,0 +1,19 @@
+{
+  "id": "42452fcb-1104-4e1d-9951-b1d49e132868",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "A garden contains a total of 560 flowers. One quarter of them are roses and the remaining flowers are tulips. The gardener wants to plant all the tulips in rows, with each row containing exactly 10 tulips. How many rows of tulips will he need?",
+  "options": [
+    "42",
+    "38",
+    "45",
+    "40",
+    "36"
+  ],
+  "correct_answer": "42",
+  "correct_index": 0,
+  "explanation": "First find the number of roses: (1/4) \u00d7 560 = 140. Subtract this from the total to get the tulips: 560 \u2013 140 = 420 tulips. Each row holds 10 tulips, so divide: 420 \u00f7 10 = 42 rows. Hence the correct answer is 42.",
+  "created_at": "2026-01-08T18:56:31.244407"
+}

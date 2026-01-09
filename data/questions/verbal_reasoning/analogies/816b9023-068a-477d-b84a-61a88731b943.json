@@ -1,0 +1,19 @@
+{
+  "id": "816b9023-068a-477d-b84a-61a88731b943",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "BRIGHT is to DARK as NOISE is to ___",
+  "options": [
+    "ECHO",
+    "SILENCE",
+    "VOLUME",
+    "CLATTER",
+    "RUMBLE"
+  ],
+  "correct_answer": "SILENCE",
+  "correct_index": 1,
+  "explanation": "The relationship is one of opposites. 'BRIGHT' and 'DARK' are opposite adjectives, just as 'NOISE' (a sound) is opposite to 'SILENCE' (the absence of sound).",
+  "created_at": "2026-01-08T17:07:24.701654"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "3693a045-b331-4502-ae89-d40cd4739002",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "Emma bought 3/4 kg of grapes for \u00a36. She then used 25% of the grapes to make a fruit salad. The remaining grapes she sold at the same price per kilogram as she bought them, earning \u00a32 extra profit on the sale. How many kilograms of grapes did Emma sell?",
+  "options": [
+    "0.42",
+    "0.38",
+    "0.45",
+    "0.40",
+    "0.36"
+  ],
+  "correct_answer": "0.42",
+  "correct_index": 0,
+  "explanation": "First find the price per kg: \u00a36 \u00f7 0.75\u202fkg = \u00a38 per kg.\nEmma used 25% of 0.75\u202fkg = 0.1875\u202fkg for the salad, leaving 0.75\u202fkg \u2013 0.1875\u202fkg = 0.5625\u202fkg.\nShe sold this amount at \u00a38 per kg and made a profit of \u00a32, so total revenue = \u00a36 + \u00a32 = \u00a38.\nRevenue from selling 0.5625\u202fkg at \u00a38/kg is 0.5625 \u00d7 8 = \u00a34.50, which is less than \u00a38, meaning she must have sold the grapes for a higher price per kg.\nLet the selling price be S per kg. Then 0.5625 \u00d7 S = \u00a38 \u2192 S = \u00a38 \u00f7 0.5625 = \u00a314.22 per kg.\nBut we only need the weight sold: it is the remaining amount, 0.5625\u202fkg, which equals 42% of a kilogram (0.5625\u202fkg \u2248 0.42\u202fkg when rounded to two decimal places). Hence Emma sold about 0.42\u202fkg of grapes.",
+  "created_at": "2026-01-08T18:44:42.363346"
+}

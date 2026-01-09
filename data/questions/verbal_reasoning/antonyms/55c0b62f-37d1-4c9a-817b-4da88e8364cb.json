@@ -1,0 +1,19 @@
+{
+  "id": "55c0b62f-37d1-4c9a-817b-4da88e8364cb",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, swift, ancient) (dark, slow, modern)",
+  "options": [
+    "bright & dark",
+    "bright & slow",
+    "swift & dark",
+    "swift & modern",
+    "ancient & slow"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "These words are antonyms because 'bright' means full of light or shining, while 'dark' means lacking light; they represent opposite ends of the same spectrum.",
+  "created_at": "2026-01-08T18:43:04.353734"
+}

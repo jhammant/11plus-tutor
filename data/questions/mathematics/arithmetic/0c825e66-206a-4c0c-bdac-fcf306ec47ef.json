@@ -1,0 +1,19 @@
+{
+  "id": "0c825e66-206a-4c0c-bdac-fcf306ec47ef",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "A school is buying new computers. The total cost for 8 computers is $9,600. The school receives a discount of 12.5% on the whole purchase. After paying the discounted price, they also need to set aside 15% of the remaining amount for maintenance. How much money does the school actually spend on the computers after the discount and before setting aside the maintenance fund?",
+  "options": [
+    "8,400",
+    "7,500",
+    "9,600",
+    "8,640",
+    "7,200"
+  ],
+  "correct_answer": "8,400",
+  "correct_index": 0,
+  "explanation": "First find the discount: 12.5% of $9,600 = 0.125 \u00d7 9,600 = $1,200. Subtract the discount from the original price: 9,600 - 1,200 = $8,400. This is the amount paid for the computers before setting aside the maintenance fund. The correct answer is $8,400.",
+  "created_at": "2026-01-08T18:47:22.480344"
+}

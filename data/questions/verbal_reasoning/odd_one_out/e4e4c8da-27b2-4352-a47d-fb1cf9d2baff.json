@@ -1,0 +1,19 @@
+{
+  "id": "e4e4c8da-27b2-4352-a47d-fb1cf9d2baff",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nApple, Banana, Cherry, Grape, Carrot",
+  "options": [
+    "Apple",
+    "Banana",
+    "Cherry",
+    "Grape",
+    "Carrot"
+  ],
+  "correct_answer": "Carrot",
+  "correct_index": 4,
+  "explanation": "Carrot is the odd one out because Apple, Banana, Cherry and Grape are all fruits, whereas Carrot is a vegetable.",
+  "created_at": "2026-01-08T17:07:33.542957"
+}

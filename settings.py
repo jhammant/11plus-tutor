@@ -26,9 +26,9 @@ class Settings(BaseSettings):
     oak_api_base: str = "https://open-api.thenational.academy"
     oak_api_version: str = "v1"
 
-    # Server Configuration
-    backend_port: int = 8001
-    frontend_port: int = 3782
+    # Server Configuration (different from AIEducator)
+    backend_port: int = 8002
+    frontend_port: int = 3783
 
     # Database
     database_url: str = "sqlite:///./examtutor.db"

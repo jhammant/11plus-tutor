@@ -1,0 +1,19 @@
+{
+  "id": "bdee780e-0180-482e-941e-4ffd52d1d378",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\ncrimson, emerald, sapphire, amber, circle",
+  "options": [
+    "crimson",
+    "emerald",
+    "sapphire",
+    "amber",
+    "circle"
+  ],
+  "correct_answer": "circle",
+  "correct_index": 4,
+  "explanation": "crimson, emerald, sapphire and amber are all names of colours, whereas 'circle' is a shape, making it the odd one out.",
+  "created_at": "2026-01-08T18:51:43.173789"
+}

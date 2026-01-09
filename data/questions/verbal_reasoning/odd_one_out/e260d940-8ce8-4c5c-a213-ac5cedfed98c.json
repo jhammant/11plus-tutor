@@ -1,0 +1,19 @@
+{
+  "id": "e260d940-8ce8-4c5c-a213-ac5cedfed98c",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nbaker, driver, painter, teacher, elephant",
+  "options": [
+    "baker",
+    "driver",
+    "painter",
+    "teacher",
+    "elephant"
+  ],
+  "correct_answer": "elephant",
+  "correct_index": 4,
+  "explanation": "Elephant is the odd one out because the other four are occupations, while elephant is an animal.",
+  "created_at": "2026-01-08T18:54:17.812050"
+}

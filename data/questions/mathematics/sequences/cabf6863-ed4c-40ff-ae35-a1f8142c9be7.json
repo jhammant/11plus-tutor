@@ -1,0 +1,19 @@
+{
+  "id": "cabf6863-ed4c-40ff-ae35-a1f8142c9be7",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "sequences",
+  "difficulty": 3,
+  "question_text": "What number should replace the question mark?\n4, 9, 19, 39, ?",
+  "options": [
+    "69",
+    "78",
+    "79",
+    "80",
+    "81"
+  ],
+  "correct_answer": "79",
+  "correct_index": 2,
+  "explanation": "Each term is obtained by multiplying the previous term by 2 and then subtracting 1: \n4 \u2192 4\u00d72\u20111 = 7 (but we have 9, so actually pattern is \u00d72+1). Let's check: 4\u00d72+1=9, 9\u00d72+1=19, 19\u00d72+1=39, 39\u00d72+1=79. Thus the missing number is 79.",
+  "created_at": "2026-01-08T18:37:19.406246"
+}

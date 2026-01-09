@@ -1,0 +1,19 @@
+{
+  "id": "540ed964-9ef0-4e1c-8d52-bc0abc89f037",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If BRIGHT is coded as DTKIJV, what is the code for FRIEND?",
+  "options": [
+    "HTKGPF",
+    "GSKFOE",
+    "HSLJQE",
+    "FTLHOE",
+    "GTKMPE"
+  ],
+  "correct_answer": "HTKGPF",
+  "correct_index": 0,
+  "explanation": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to FRIEND: F\u2192H, R\u2192T, I\u2192K, E\u2192G, N\u2192P, D\u2192F, giving HTKGPF.",
+  "created_at": "2026-01-08T18:40:05.003192"
+}

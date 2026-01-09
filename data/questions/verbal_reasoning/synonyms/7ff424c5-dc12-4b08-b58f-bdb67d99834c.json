@@ -1,0 +1,19 @@
+{
+  "id": "7ff424c5-dc12-4b08-b58f-bdb67d99834c",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(rapid, diligent, gloomy) (swift, meticulous, cheerful)",
+  "options": [
+    "rapid & swift",
+    "rapid & meticulous",
+    "diligent & swift",
+    "diligent & cheerful",
+    "gloomy & meticulous"
+  ],
+  "correct_answer": "rapid & swift",
+  "correct_index": 0,
+  "explanation": "\u2018Rapid\u2019 and \u2018swift\u2019 both mean moving quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:55:22.669338"
+}

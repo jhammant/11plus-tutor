@@ -1,0 +1,19 @@
+{
+  "id": "abd58609-26d0-4523-b096-f6d8aa152152",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAB, DE, GH, KL, ___",
+  "options": [
+    "MN",
+    "OP",
+    "NO",
+    "LM",
+    "PQ"
+  ],
+  "correct_answer": "OP",
+  "correct_index": 1,
+  "explanation": "Each pair starts three letters after the previous pair's first letter (A \u2192 D \u2192 G \u2192 K). The pairs are consecutive letters, so after KL the next pair is OP.",
+  "created_at": "2026-01-08T18:37:27.526975"
+}

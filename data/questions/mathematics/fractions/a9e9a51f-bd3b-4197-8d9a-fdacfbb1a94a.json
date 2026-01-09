@@ -1,0 +1,19 @@
+{
+  "id": "a9e9a51f-bd3b-4197-8d9a-fdacfbb1a94a",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "Which of the following fractions is equivalent to \\(\\frac{2}{6} + \\frac{1}{4}\\)?",
+  "options": [
+    "7/12",
+    "5/8",
+    "2/5",
+    "3/7",
+    "1/2"
+  ],
+  "correct_answer": "7/12",
+  "correct_index": 0,
+  "explanation": "First simplify the fractions where possible. \\(\\frac{2}{6}=\\frac{1}{3}\\). Now add \\(\\frac{1}{3}\\) and \\(\\frac{1}{4}\\). Find a common denominator: the least common multiple of 3 and 4 is 12.\n\nConvert each fraction:\n- \\(\\frac{1}{3}=\\frac{4}{12}\\)\n- \\(\\frac{1}{4}=\\frac{3}{12}\\)\n\nAdd them: \\(\\frac{4}{12}+\\frac{3}{12}=\\frac{7}{12}\\).\n\nTherefore the fraction equivalent to the sum is \\(\\frac{7}{12}\\), which is option 0.",
+  "created_at": "2026-01-08T19:01:16.441022"
+}

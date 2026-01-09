@@ -1,0 +1,19 @@
+{
+  "id": "1ed52405-6fc9-4ade-b9dc-fbbcdc94dd71",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\n3, 6, 11, 18, 27, ___",
+  "options": [
+    "36",
+    "38",
+    "40",
+    "42",
+    "44"
+  ],
+  "correct_answer": "38",
+  "correct_index": 1,
+  "explanation": "The differences between terms are 3, 5, 7, 9 \u2013 increasing by 2 each time. The next difference will be 11, so 27 + 11 = 38.",
+  "created_at": "2026-01-08T18:40:38.432616"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bd5fd26f-d0e3-43bb-8714-85396f07f664",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If BRIGHT is coded as VJKITD, what is the code for TARGET?",
+  "options": [
+    "VGTICV",
+    "VGTCIV",
+    "VGITCV",
+    "VCGTIV",
+    "VTGCIV"
+  ],
+  "correct_answer": "VGITCV",
+  "correct_index": 2,
+  "explanation": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B) and then the whole string is reversed. Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V gives VCTIGV; reversing yields VGITCV.",
+  "created_at": "2026-01-08T18:37:38.632540"
+}

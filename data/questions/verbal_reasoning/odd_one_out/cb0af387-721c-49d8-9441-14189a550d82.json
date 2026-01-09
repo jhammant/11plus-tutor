@@ -1,0 +1,19 @@
+{
+  "id": "cb0af387-721c-49d8-9441-14189a550d82",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nLion, Tiger, Elephant, Giraffe, Apple",
+  "options": [
+    "Lion",
+    "Tiger",
+    "Elephant",
+    "Giraffe",
+    "Apple"
+  ],
+  "correct_answer": "Apple",
+  "correct_index": 4,
+  "explanation": "Apple is the odd one out because the other four are animals, while Apple is a fruit.",
+  "created_at": "2026-01-08T19:00:56.050481"
+}

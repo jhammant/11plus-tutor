@@ -1,0 +1,19 @@
+{
+  "id": "70aa4544-0f1d-47d7-b25e-bc3e83c863cd",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If MATH is coded as OCVJ, what is the code for BOOK?",
+  "options": [
+    "DQQM",
+    "DQQL",
+    "DPQL",
+    "DQQN",
+    "DPQM"
+  ],
+  "correct_answer": "DQQM",
+  "correct_index": 0,
+  "explanation": "Each letter is shifted forward by 2 places in the alphabet (A\u2192C, B\u2192D, \u2026). Applying this to BOOK: B\u2192D, O\u2192Q, O\u2192Q, K\u2192M, giving DQQM.",
+  "created_at": "2026-01-08T18:37:02.444151"
+}

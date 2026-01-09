@@ -1,0 +1,19 @@
+{
+  "id": "8bf6f992-0255-46f5-bd1f-cbf0fd048e01",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nlisten, silent, enlist, tinsel, stone",
+  "options": [
+    "listen",
+    "silent",
+    "enlist",
+    "tinsel",
+    "stone"
+  ],
+  "correct_answer": "stone",
+  "correct_index": 4,
+  "explanation": "The first four words are all anagrams of each other (they contain the same letters rearranged). \"Stone\" does not share this property, making it the odd one out.",
+  "created_at": "2026-01-08T18:49:46.501987"
+}

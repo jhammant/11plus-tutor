@@ -1,0 +1,19 @@
+{
+  "id": "31997566-6a4b-4435-9e91-21fba1fffd2d",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAT, BU, CV, DW, ___",
+  "options": [
+    "EX",
+    "EV",
+    "FX",
+    "EW",
+    "DX"
+  ],
+  "correct_answer": "EX",
+  "correct_index": 0,
+  "explanation": "Each pair moves forward one letter in the alphabet for each position: A\u2192B\u2192C\u2192D\u2192E and T\u2192U\u2192V\u2192W\u2192X.",
+  "created_at": "2026-01-08T18:41:47.413163"
+}

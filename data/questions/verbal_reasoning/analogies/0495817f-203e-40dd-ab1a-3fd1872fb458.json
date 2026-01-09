@@ -1,0 +1,19 @@
+{
+  "id": "0495817f-203e-40dd-ab1a-3fd1872fb458",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "Bird is to Nest as Bee is to ___",
+  "options": [
+    "Hive",
+    "Flower",
+    "Honey",
+    "Comb",
+    "Stinger"
+  ],
+  "correct_answer": "Hive",
+  "correct_index": 0,
+  "explanation": "A bird lives in a nest, just as a bee lives in a hive. The relationship is the dwelling place of the animal.",
+  "created_at": "2026-01-08T18:54:13.430789"
+}

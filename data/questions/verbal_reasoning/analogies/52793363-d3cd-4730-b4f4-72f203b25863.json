@@ -1,0 +1,19 @@
+{
+  "id": "52793363-d3cd-4730-b4f4-72f203b25863",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "Cat is to Kitten as Dog is to ___",
+  "options": [
+    "Puppy",
+    "Cub",
+    "Foal",
+    "Calf",
+    "Chick"
+  ],
+  "correct_answer": "Puppy",
+  "correct_index": 0,
+  "explanation": "A cat is an adult animal and a kitten is its young. Similarly, a dog is the adult form and a puppy is the young form of the same species.",
+  "created_at": "2026-01-08T18:47:05.009383"
+}

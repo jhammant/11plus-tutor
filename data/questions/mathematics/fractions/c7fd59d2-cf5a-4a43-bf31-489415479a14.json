@@ -1,0 +1,19 @@
+{
+  "id": "c7fd59d2-cf5a-4a43-bf31-489415479a14",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "Calculate the result of subtracting \\(\\frac{1}{6}\\) from \\(\\frac{3}{4}\\). Which fraction is equivalent to the answer?",
+  "options": [
+    "\\(\\frac{7}{12}\\)",
+    "\\(\\frac{5}{12}\\)",
+    "\\(\\frac{2}{3}\\)",
+    "\\(\\frac{1}{2}\\)",
+    "\\(\\frac{3}{8}\\)"
+  ],
+  "correct_answer": "\\(\\frac{7}{12}\\)",
+  "correct_index": 0,
+  "explanation": "First find a common denominator for \\(\\frac{3}{4}\\) and \\(\\frac{1}{6}\\). The least common multiple of 4 and 6 is 12.\n\nConvert each fraction:\n- \\(\\frac{3}{4} = \\frac{3 \\times 3}{4 \\times 3} = \\frac{9}{12}\\)\n- \\(\\frac{1}{6} = \\frac{1 \\times 2}{6 \\,\\times 2} = \\frac{2}{12}\\)\n\nNow subtract:\n\\[ \\frac{9}{12} - \\frac{2}{12} = \\frac{7}{12}. \\]\n\nSo the answer is \\(\\frac{7}{12}\\), which corresponds to option 0.",
+  "created_at": "2026-01-08T18:56:20.037065"
+}

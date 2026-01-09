@@ -1,0 +1,19 @@
+{
+  "id": "c66f6b73-ea95-4052-897f-acbaa32d6718",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "Cat is to Kitten as Dog is to ___",
+  "options": [
+    "Puppy",
+    "Cub",
+    "Calf",
+    "Chick",
+    "Foal"
+  ],
+  "correct_answer": "Puppy",
+  "correct_index": 0,
+  "explanation": "The relationship is that the first word is an adult animal and the second word is its young. A cat's young is a kitten, so a dog's young is a puppy.",
+  "created_at": "2026-01-08T18:57:26.718611"
+}

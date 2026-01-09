@@ -1,0 +1,19 @@
+{
+  "id": "52aa3d73-afb9-440b-99cd-640d393aad4d",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nlisten, silent, enlist, tinsel, apple",
+  "options": [
+    "listen",
+    "silent",
+    "enlist",
+    "tinsel",
+    "apple"
+  ],
+  "correct_answer": "apple",
+  "correct_index": 4,
+  "explanation": "listen, silent, enlist and tinsel are all anagrams of each other, while apple does not share this property.",
+  "created_at": "2026-01-08T17:07:36.883674"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "d0ef0530-4b0b-43a0-8cad-90067331f233",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nLion, Tiger, Leopard, Eagle, Cheetah",
+  "options": [
+    "Lion",
+    "Tiger",
+    "Leopard",
+    "Eagle",
+    "Cheetah"
+  ],
+  "correct_answer": "Eagle",
+  "correct_index": 3,
+  "explanation": "Eagle is the odd one out because the others are all land mammals, whereas Eagle is a bird.",
+  "created_at": "2026-01-08T18:54:57.415297"
+}

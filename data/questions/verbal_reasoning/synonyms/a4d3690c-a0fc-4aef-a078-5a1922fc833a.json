@@ -1,0 +1,19 @@
+{
+  "id": "a4d3690c-a0fc-4aef-a078-5a1922fc833a",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(rapid, ancient, joyful) (swift, elderly, sad)",
+  "options": [
+    "rapid & swift",
+    "ancient & elderly",
+    "joyful & sad",
+    "rapid & elderly",
+    "ancient & swift"
+  ],
+  "correct_answer": "rapid & swift",
+  "correct_index": 0,
+  "explanation": "\u2018Rapid\u2019 and \u2018swift\u2019 both mean moving or acting quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:58:36.350761"
+}

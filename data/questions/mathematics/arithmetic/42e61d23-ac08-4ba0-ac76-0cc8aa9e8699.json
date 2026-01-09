@@ -1,0 +1,19 @@
+{
+  "id": "42e61d23-ac08-4ba0-ac76-0cc8aa9e8699",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "A school needs to buy 240 notebooks for an upcoming project. The notebooks are sold in packs of 12, and each pack costs $15. If the school buys more than 200 notebooks, they receive a 10% discount on the total price. How much will the school pay for the notebooks?",
+  "options": [
+    "270",
+    "285",
+    "300",
+    "255",
+    "260"
+  ],
+  "correct_answer": "270",
+  "correct_index": 0,
+  "explanation": "First find how many packs are needed: 240 \u00f7 12 = 20 packs. The regular cost is 20 \u00d7 $15 = $300. Because more than 200 notebooks are bought, a 10% discount applies: 10% of $300 = $30. Subtract the discount: $300 - $30 = $270. So the school pays $270.",
+  "created_at": "2026-01-08T17:07:55.450215"
+}

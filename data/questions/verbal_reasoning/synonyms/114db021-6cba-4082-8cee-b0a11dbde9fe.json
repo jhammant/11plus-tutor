@@ -1,0 +1,19 @@
+{
+  "id": "114db021-6cba-4082-8cee-b0a11dbde9fe",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(swift, broad, silent) (quick, narrow, quiet)",
+  "options": [
+    "swift & quick",
+    "swift & narrow",
+    "broad & quick",
+    "broad & quiet",
+    "silent & narrow"
+  ],
+  "correct_answer": "swift & quick",
+  "correct_index": 0,
+  "explanation": "\u2018Swift\u2019 and \u2018quick\u2019 both mean moving at high speed, making them synonyms.",
+  "created_at": "2026-01-08T18:48:12.107064"
+}

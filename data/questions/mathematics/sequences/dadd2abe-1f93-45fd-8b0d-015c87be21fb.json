@@ -1,0 +1,19 @@
+{
+  "id": "dadd2abe-1f93-45fd-8b0d-015c87be21fb",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\n3, 7, 12, 18, ___",
+  "options": [
+    "23",
+    "24",
+    "25",
+    "26",
+    "27"
+  ],
+  "correct_answer": "25",
+  "correct_index": 2,
+  "explanation": "The differences between terms increase by 1 each time: 7\u20113 = 4, 12\u20117 = 5, 18\u201112 = 6. The next difference should be 7, so 18 + 7 = 25.",
+  "created_at": "2026-01-08T18:36:48.823676"
+}

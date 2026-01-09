@@ -1,0 +1,19 @@
+{
+  "id": "cf1fdec1-c425-4554-91ed-86eaca1e51aa",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(generous, ancient, bright) (stingy, modern, dull)",
+  "options": [
+    "generous & stingy",
+    "generous & modern",
+    "ancient & stingy",
+    "ancient & dull",
+    "bright & modern"
+  ],
+  "correct_answer": "generous & stingy",
+  "correct_index": 0,
+  "explanation": "Generous means giving freely, while stingy means unwilling to give or spend; they are direct opposites.",
+  "created_at": "2026-01-08T18:50:53.625973"
+}

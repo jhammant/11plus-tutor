@@ -1,0 +1,19 @@
+{
+  "id": "4025cf5f-b907-48de-8d4a-b6b8a922cf5c",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "A school orders 120 new books for its library. Exactly 25% of the books are novels and the rest are textbooks. After a month, the school sells half of the novels and one\u2011third of the textbooks to raise funds for a trip. How many books remain in the library?",
+  "options": [
+    "75",
+    "80",
+    "85",
+    "90",
+    "95"
+  ],
+  "correct_answer": "75",
+  "correct_index": 0,
+  "explanation": "First find how many novels and textbooks were ordered.\n- Novels: 25% of 120 = 0.25 \u00d7 120 = 30 novels.\n- Textbooks: 120 \u2013 30 = 90 textbooks.\nNow calculate how many are sold:\n- Half of the novels: 30 \u00f7 2 = 15 novels sold, leaving 30 \u2013 15 = 15 novels.\n- One\u2011third of the textbooks: 90 \u00f7 3 = 30 textbooks sold, leaving 90 \u2013 30 = 60 textbooks.\nAdd the remaining books: 15 novels + 60 textbooks = 75 books left.\nTherefore, the correct answer is 75.",
+  "created_at": "2026-01-08T18:54:37.458776"
+}

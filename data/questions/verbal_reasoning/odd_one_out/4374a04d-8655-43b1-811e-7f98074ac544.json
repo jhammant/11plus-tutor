@@ -1,0 +1,19 @@
+{
+  "id": "4374a04d-8655-43b1-811e-7f98074ac544",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nbaker, driver, painter, teacher, apple",
+  "options": [
+    "baker",
+    "driver",
+    "painter",
+    "teacher",
+    "apple"
+  ],
+  "correct_answer": "apple",
+  "correct_index": 4,
+  "explanation": "Apple is the odd one out because the other four words are all occupations (professions), while 'apple' is a fruit.",
+  "created_at": "2026-01-08T18:56:50.939914"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "f2a06fcc-7e9f-43ab-81cb-c156376c61e2",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "What is the result of adding \\(\\frac{3}{8}\\) and \\(\\frac{1}{4}\\)? Choose the equivalent fraction from the options below.",
+  "options": [
+    "\\frac{5}{8}",
+    "\\frac{7}{12}",
+    "\\frac{2}{3}",
+    "\\frac{1}{2}",
+    "\\frac{3}{4}"
+  ],
+  "correct_answer": "\\frac{5}{8}",
+  "correct_index": 0,
+  "explanation": "First, convert \\(\\frac{1}{4}\\) to a fraction with denominator 8: \\(\\frac{1}{4}=\\frac{2}{8}\\). Then add the numerators: \\(\\frac{3}{8}+\\frac{2}{8}=\\frac{5}{8}\\). The equivalent fraction is therefore \\(\\frac{5}{8}\\), which is option 0.",
+  "created_at": "2026-01-08T18:51:50.598984"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "6dcb9614-31ea-478c-a147-8458aec65793",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(rapid, bright, silent) (quick, loud, dull)",
+  "options": [
+    "rapid & quick",
+    "rapid & loud",
+    "bright & quick",
+    "bright & dull",
+    "silent & loud"
+  ],
+  "correct_answer": "rapid & quick",
+  "correct_index": 0,
+  "explanation": "\u2018Rapid\u2019 and \u2018quick\u2019 both mean fast or moving with speed, making them synonyms.",
+  "created_at": "2026-01-08T18:51:28.620730"
+}

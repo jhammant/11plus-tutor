@@ -1,0 +1,19 @@
+{
+  "id": "216ef90f-b200-49f9-9bd2-91aea96bfa84",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nlisten, hear, see, smell, taste",
+  "options": [
+    "listen",
+    "hear",
+    "see",
+    "smell",
+    "taste"
+  ],
+  "correct_answer": "listen",
+  "correct_index": 0,
+  "explanation": "The words 'hear', 'see', 'smell' and 'taste' are the names of the five basic senses. 'Listen' is an active verb describing how we use the sense of hearing, making it the odd one out.",
+  "created_at": "2026-01-08T18:59:31.654967"
+}

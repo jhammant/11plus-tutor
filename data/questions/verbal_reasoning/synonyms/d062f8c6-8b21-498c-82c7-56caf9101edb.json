@@ -1,0 +1,19 @@
+{
+  "id": "d062f8c6-8b21-498c-82c7-56caf9101edb",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(swift, barren, gleam) (rapid, desolate, shine)",
+  "options": [
+    "swift & rapid",
+    "swift & desolate",
+    "barren & rapid",
+    "barren & shine",
+    "gleam & desolate"
+  ],
+  "correct_answer": "swift & rapid",
+  "correct_index": 0,
+  "explanation": "The words 'swift' and 'rapid' both mean moving quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:42:04.632292"
+}

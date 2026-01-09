@@ -1,0 +1,19 @@
+{
+  "id": "703afab5-9e35-4cb1-b3f7-fc5388dea59b",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "What fraction is equivalent to the sum \\(\\frac{3}{8} + \\frac{1}{4}\\)?",
+  "options": [
+    "\\frac{5}{8}",
+    "\\frac{7}{12}",
+    "\\frac{2}{3}",
+    "\\frac{1}{2}",
+    "\\frac{3}{4}"
+  ],
+  "correct_answer": "\\frac{5}{8}",
+  "correct_index": 0,
+  "explanation": "First, express both fractions with a common denominator. The denominator 8 works for both:\n\\[ \\frac{1}{4}=\\frac{2}{8}. \\]\nNow add the numerators: \n\\[ \\frac{3}{8}+\\frac{2}{8}=\\frac{5}{8}. \\]\nTherefore, the sum is \\(\\frac{5}{8}\\), which matches option 0.",
+  "created_at": "2026-01-08T18:52:29.551862"
+}

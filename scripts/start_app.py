@@ -16,9 +16,9 @@ PROJECT_ROOT = Path(__file__).parent.parent
 BACKEND_DIR = PROJECT_ROOT / "src" / "api"
 FRONTEND_DIR = PROJECT_ROOT / "web"
 
-# Ports
-BACKEND_PORT = 8001
-FRONTEND_PORT = 3782
+# Ports (different from AIEducator which uses 8001/3782)
+BACKEND_PORT = 8002
+FRONTEND_PORT = 3783
 
 # Process handles
 processes = []

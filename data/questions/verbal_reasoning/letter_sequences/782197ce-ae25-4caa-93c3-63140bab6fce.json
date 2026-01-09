@@ -1,0 +1,19 @@
+{
+  "id": "782197ce-ae25-4caa-93c3-63140bab6fce",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAB, CD, EF, GH, ___",
+  "options": [
+    "IJ",
+    "HI",
+    "JK",
+    "GI",
+    "IK"
+  ],
+  "correct_answer": "IJ",
+  "correct_index": 0,
+  "explanation": "Each pair consists of two consecutive letters and each new pair starts two places further in the alphabet: AB (A\u2011B), then skip C\u2011D to start at C, giving CD, then EF, GH, so the next pair is IJ.",
+  "created_at": "2026-01-08T18:40:09.677829"
+}

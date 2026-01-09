@@ -1,0 +1,19 @@
+{
+  "id": "26153200-9cd7-4e6d-b5d4-b86961459e19",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\n3, 6, 12, 24, ___",
+  "options": [
+    "48",
+    "36",
+    "30",
+    "42",
+    "60"
+  ],
+  "correct_answer": "48",
+  "correct_index": 0,
+  "explanation": "Each term is multiplied by 2. 24 \u00d7 2 = 48.",
+  "created_at": "2026-01-08T18:38:54.910622"
+}

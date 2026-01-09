@@ -1,0 +1,19 @@
+{
+  "id": "dd2be594-b85c-48b8-bdb2-7e2d6ebf34e5",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "A school bought a total of 120 books. One quarter of them were novels and the rest were textbooks. The school then sold 30% of the novels and gave away 5 textbooks. How many books does the school have left?",
+  "options": [
+    "106",
+    "108",
+    "112",
+    "100",
+    "102"
+  ],
+  "correct_answer": "106",
+  "correct_index": 0,
+  "explanation": "First find how many novels were bought: 1/4 of 120 = 30 novels. The remaining books are textbooks: 120 - 30 = 90 textbooks.\n\nThe school sold 30% of the novels: 0.30 \u00d7 30 = 9 novels sold. Novels left = 30 - 9 = 21.\n\nThey gave away 5 textbooks, so textbooks left = 90 - 5 = 85.\n\nTotal books remaining = novels left + textbooks left = 21 + 85 = 106.",
+  "created_at": "2026-01-08T18:43:48.702920"
+}

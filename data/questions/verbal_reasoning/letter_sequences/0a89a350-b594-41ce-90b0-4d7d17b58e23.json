@@ -1,0 +1,19 @@
+{
+  "id": "0a89a350-b594-41ce-90b0-4d7d17b58e23",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAB, BD, CF, DH, ___",
+  "options": [
+    "EI",
+    "FJ",
+    "EJ",
+    "DJ",
+    "FK"
+  ],
+  "correct_answer": "EJ",
+  "correct_index": 2,
+  "explanation": "The first letters progress alphabetically: A, B, C, D, E. The second letters increase by two each time: B, D, F, H, J. Therefore the next pair is EJ.",
+  "created_at": "2026-01-08T18:38:00.102556"
+}

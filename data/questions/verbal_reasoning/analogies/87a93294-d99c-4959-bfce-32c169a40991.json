@@ -1,0 +1,19 @@
+{
+  "id": "87a93294-d99c-4959-bfce-32c169a40991",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "AUTHOR is to BOOK as CHEF is to ___",
+  "options": [
+    "RECIPE",
+    "KITCHEN",
+    "MEAL",
+    "SPICE",
+    "MENU"
+  ],
+  "correct_answer": "MEAL",
+  "correct_index": 2,
+  "explanation": "An author creates a book, just as a chef creates a meal. The relationship is 'creator' to 'product'.",
+  "created_at": "2026-01-08T18:58:08.752641"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "0d14b72b-52fa-4366-b91c-caed4532c858",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAB, CD, EF, GH, ___",
+  "options": [
+    "IJ",
+    "HI",
+    "JK",
+    "GI",
+    "IK"
+  ],
+  "correct_answer": "IJ",
+  "correct_index": 0,
+  "explanation": "Each pair moves forward by two letters in the alphabet: A\u2011B, C\u2011D, E\u2011F, G\u2011H, so the next is I\u2011J.",
+  "created_at": "2026-01-08T18:36:55.856425"
+}

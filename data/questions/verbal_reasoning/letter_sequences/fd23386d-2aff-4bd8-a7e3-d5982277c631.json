@@ -1,0 +1,19 @@
+{
+  "id": "fd23386d-2aff-4bd8-a7e3-d5982277c631",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAZ, BY, CX, DW, ___",
+  "options": [
+    "EV",
+    "EX",
+    "FU",
+    "DV",
+    "EW"
+  ],
+  "correct_answer": "EV",
+  "correct_index": 0,
+  "explanation": "The first letters progress forward through the alphabet (A, B, C, D, E\u2026) while the second letters move backward (Z, Y, X, W, V\u2026). Therefore the next pair is E followed by V, i.e., EV.",
+  "created_at": "2026-01-08T18:39:17.119291"
+}

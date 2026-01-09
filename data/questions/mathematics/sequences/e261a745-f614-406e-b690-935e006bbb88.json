@@ -1,0 +1,19 @@
+{
+  "id": "e261a745-f614-406e-b690-935e006bbb88",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\n4, 9, 19, 39, ___",
+  "options": [
+    "71",
+    "77",
+    "79",
+    "81",
+    "83"
+  ],
+  "correct_answer": "79",
+  "correct_index": 2,
+  "explanation": "Each term is obtained by multiplying the previous term by 2 and then adding 1: 4\u00d72+1=9, 9\u00d72+1=19, 19\u00d72+1=39, so next is 39\u00d72+1=79.",
+  "created_at": "2026-01-08T18:37:31.767684"
+}

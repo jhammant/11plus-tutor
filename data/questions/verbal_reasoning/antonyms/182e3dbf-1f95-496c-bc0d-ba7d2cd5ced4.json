@@ -1,0 +1,19 @@
+{
+  "id": "182e3dbf-1f95-496c-bc0d-ba7d2cd5ced4",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, ancient, quiet) (dark, modern, noisy)",
+  "options": [
+    "bright & dark",
+    "bright & modern",
+    "ancient & dark",
+    "ancient & noisy",
+    "quiet & modern"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "\u2018Bright\u2019 means full of light, while \u2018dark\u2019 means lacking light. These two words are direct opposites, making them antonyms.",
+  "created_at": "2026-01-08T17:07:14.641565"
+}

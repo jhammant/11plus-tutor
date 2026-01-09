@@ -1,0 +1,19 @@
+{
+  "id": "a152c870-d71e-4080-870c-a6b45fbd4ca1",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(rapid, ancient, gleeful) (swift, old-fashioned, joyful)",
+  "options": [
+    "rapid & swift",
+    "ancient & old-fashioned",
+    "gleeful & joyful",
+    "rapid & old-fashioned",
+    "ancient & swift"
+  ],
+  "correct_answer": "rapid & swift",
+  "correct_index": 0,
+  "explanation": "\u2018Rapid\u2019 and \u2018swift\u2019 both mean moving quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:43:28.823371"
+}

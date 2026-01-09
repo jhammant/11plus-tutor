@@ -1,0 +1,19 @@
+{
+  "id": "3e96171a-4cf8-4805-86ff-6ce75231d99c",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "PUPPY is to DOG as KITTEN is to ___",
+  "options": [
+    "CAT",
+    "RABBIT",
+    "HORSE",
+    "MOUSE",
+    "BIRD"
+  ],
+  "correct_answer": "CAT",
+  "correct_index": 0,
+  "explanation": "A puppy grows into a dog, just as a kitten grows into a cat. Both pairs show a young animal and its adult form.",
+  "created_at": "2026-01-08T18:49:00.595982"
+}

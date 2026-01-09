@@ -1,0 +1,19 @@
+{
+  "id": "4cadfdb4-7ebc-44de-9fa1-3bb8e83c9113",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "A school bought 120 notebooks for the new term. On the first day, they sold 30% of the notebooks. The next day they sold one\u2011fourth of the remaining notebooks. The rest were packed into boxes that each hold exactly 6 notebooks. How many notebooks are left unpacked after all the full boxes have been filled?",
+  "options": [
+    "3",
+    "5",
+    "7",
+    "9",
+    "12"
+  ],
+  "correct_answer": "3",
+  "correct_index": 0,
+  "explanation": "First day sales: 30% of 120 = 0.30 \u00d7 120 = 36 notebooks.\nRemaining after day 1: 120 \u2013 36 = 84 notebooks.\nSecond day sales: one\u2011fourth of 84 = 84 \u00f7 4 = 21 notebooks.\nRemaining after day 2: 84 \u2013 21 = 63 notebooks.\nThese are packed into boxes of 6. Number of full boxes = 63 \u00f7 6 = 10 remainder 3.\nSo after filling all possible full boxes, 3 notebooks are left unpacked.",
+  "created_at": "2026-01-08T18:49:25.272665"
+}

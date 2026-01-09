@@ -1,0 +1,19 @@
+{
+  "id": "266d4533-ecad-45d2-b969-4b3c7dfb8bcc",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, ancient, expand) (dim, modern, shrink)",
+  "options": [
+    "bright & dim",
+    "bright & modern",
+    "ancient & dim",
+    "ancient & shrink",
+    "expand & modern"
+  ],
+  "correct_answer": "bright & dim",
+  "correct_index": 0,
+  "explanation": "Bright and dim are antonyms because they represent opposite levels of light intensity.",
+  "created_at": "2026-01-08T18:46:16.614337"
+}

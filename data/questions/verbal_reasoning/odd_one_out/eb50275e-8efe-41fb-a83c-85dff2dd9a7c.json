@@ -1,0 +1,19 @@
+{
+  "id": "eb50275e-8efe-41fb-a83c-85dff2dd9a7c",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nLion, Tiger, Leopard, Cheetah, Elephant",
+  "options": [
+    "Lion",
+    "Tiger",
+    "Leopard",
+    "Cheetah",
+    "Elephant"
+  ],
+  "correct_answer": "Elephant",
+  "correct_index": 4,
+  "explanation": "Elephant is the odd one out because the other four are all big cats (members of the Felidae family), while Elephant is a mammal from the Elephantidae family.",
+  "created_at": "2026-01-08T18:48:26.459879"
+}

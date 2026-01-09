@@ -1,0 +1,19 @@
+{
+  "id": "ccb3f004-8867-47a9-82e4-e516429d7cb8",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nApple, Banana, Carrot, Grape, Tomato",
+  "options": [
+    "Apple",
+    "Banana",
+    "Carrot",
+    "Grape",
+    "Tomato"
+  ],
+  "correct_answer": "Carrot",
+  "correct_index": 2,
+  "explanation": "Carrot is the odd one out because the other four are fruits (Apple, Banana, Grape, Tomato), while Carrot is a vegetable.",
+  "created_at": "2026-01-08T19:00:31.323425"
+}

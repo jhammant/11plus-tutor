@@ -1,0 +1,19 @@
+{
+  "id": "9291b0c6-5ea1-453f-9d00-c08caeb8aa89",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "PUPIL is to SCHOOL as PATIENT is to ___",
+  "options": [
+    "clinic",
+    "hospital",
+    "pharmacy",
+    "laboratory",
+    "ward"
+  ],
+  "correct_answer": "hospital",
+  "correct_index": 1,
+  "explanation": "A pupil attends school for education, just as a patient goes to a hospital for medical care. The relationship is 'place where the person receives the main service they need.'",
+  "created_at": "2026-01-08T17:07:27.519553"
+}

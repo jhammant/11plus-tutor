@@ -1,0 +1,19 @@
+{
+  "id": "0afcda93-ccf0-4621-8612-57dbf40b9bc3",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If WORD is coded as YQTF, what is the code for SMART?",
+  "options": [
+    "UOCTV",
+    "UOCUW",
+    "UOCTU",
+    "VODTV",
+    "UOCTW"
+  ],
+  "correct_answer": "UOCTV",
+  "correct_index": 0,
+  "explanation": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to SMART: S\u2192U, M\u2192O, A\u2192C, R\u2192T, T\u2192V, giving UOCTV.",
+  "created_at": "2026-01-08T18:38:08.856687"
+}

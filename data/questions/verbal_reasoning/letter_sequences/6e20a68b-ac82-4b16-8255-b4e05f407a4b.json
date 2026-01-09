@@ -1,0 +1,19 @@
+{
+  "id": "6e20a68b-ac82-4b16-8255-b4e05f407a4b",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAB, DE, GH, JK, ___",
+  "options": [
+    "MN",
+    "LM",
+    "NO",
+    "KL",
+    "OP"
+  ],
+  "correct_answer": "MN",
+  "correct_index": 0,
+  "explanation": "Both letters in each pair advance by three places in the alphabet: A\u2192D\u2192G\u2192J\u2192M and B\u2192E\u2192H\u2192K\u2192N. Therefore the next pair is MN.",
+  "created_at": "2026-01-08T18:41:28.169151"
+}

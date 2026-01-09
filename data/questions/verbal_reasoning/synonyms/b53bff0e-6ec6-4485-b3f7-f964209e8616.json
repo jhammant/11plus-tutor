@@ -1,0 +1,19 @@
+{
+  "id": "b53bff0e-6ec6-4485-b3f7-f964209e8616",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(rapid, gentle, obscure) (swift, harsh, vague)",
+  "options": [
+    "rapid & swift",
+    "rapid & harsh",
+    "gentle & swift",
+    "gentle & vague",
+    "obscure & harsh"
+  ],
+  "correct_answer": "rapid & swift",
+  "correct_index": 0,
+  "explanation": "\u2018Rapid\u2019 and \u2018swift\u2019 both mean moving or acting quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:44:48.676121"
+}

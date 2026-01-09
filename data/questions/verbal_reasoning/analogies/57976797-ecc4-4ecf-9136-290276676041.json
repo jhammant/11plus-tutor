@@ -1,0 +1,19 @@
+{
+  "id": "57976797-ecc4-4ecf-9136-290276676041",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "CAMP is to TENT as SCHOOL is to ___",
+  "options": [
+    "classroom",
+    "library",
+    "teacher",
+    "lesson",
+    "exam"
+  ],
+  "correct_answer": "classroom",
+  "correct_index": 0,
+  "explanation": "A tent is a shelter used at a camp, just as a classroom is the primary place where learning happens at a school. The relationship is 'primary location associated with the activity'.",
+  "created_at": "2026-01-08T18:44:58.251993"
+}

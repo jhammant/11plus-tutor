@@ -1,0 +1,19 @@
+{
+  "id": "87a1b5f5-d536-482c-afa5-f8809aa55115",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, narrow, silent) (dark, wide, noisy)",
+  "options": [
+    "bright & dark",
+    "bright & wide",
+    "narrow & dark",
+    "narrow & noisy",
+    "silent & wide"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "These words are antonyms because 'bright' means full of light, while 'dark' means lacking light, making them direct opposites.",
+  "created_at": "2026-01-08T18:53:30.698094"
+}

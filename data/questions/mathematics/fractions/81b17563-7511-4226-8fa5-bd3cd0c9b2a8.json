@@ -1,0 +1,19 @@
+{
+  "id": "81b17563-7511-4226-8fa5-bd3cd0c9b2a8",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "What is the simplest form of the fraction that results from adding \\(\\frac{3}{8}\\) and \\(\\frac{1}{4}\\)?",
+  "options": [
+    "\\(\\frac{5}{8}\\)",
+    "\\(\\frac{7}{12}\\)",
+    "\\(\\frac{2}{3}\\)",
+    "\\(\\frac{1}{2}\\)",
+    "\\(\\frac{3}{5}\\)"
+  ],
+  "correct_answer": "\\(\\frac{5}{8}\\)",
+  "correct_index": 0,
+  "explanation": "First, write the fractions with a common denominator. The least common denominator of 8 and 4 is 8.\n\\[ \\frac{1}{4}=\\frac{2}{8} \\]\nNow add:\n\\[ \\frac{3}{8}+\\frac{2}{8}=\\frac{5}{8}. \\]\nThe fraction \\(\\frac{5}{8}\\) is already in its simplest form, so the correct answer is option 0.",
+  "created_at": "2026-01-08T19:00:01.186023"
+}

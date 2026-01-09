@@ -1,0 +1,19 @@
+{
+  "id": "a1d3d1ae-361e-4388-8960-834a83d6f091",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "synonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are closest in meaning.\n(swift, gloomy, ancient) (rapid, cheerful, old)",
+  "options": [
+    "swift & rapid",
+    "swift & cheerful",
+    "gloomy & rapid",
+    "gloomy & old",
+    "ancient & cheerful"
+  ],
+  "correct_answer": "swift & rapid",
+  "correct_index": 0,
+  "explanation": "\u2018Swift\u2019 and \u2018rapid\u2019 both mean moving quickly, making them synonyms.",
+  "created_at": "2026-01-08T18:54:04.441256"
+}

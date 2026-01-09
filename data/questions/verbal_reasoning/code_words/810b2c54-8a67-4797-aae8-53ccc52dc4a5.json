@@ -1,0 +1,19 @@
+{
+  "id": "810b2c54-8a67-4797-aae8-53ccc52dc4a5",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If WORD is coded as YQTF, what is the code for HOUSE?",
+  "options": [
+    "JQWUG",
+    "JWVUF",
+    "KQVWG",
+    "IQTVF",
+    "JRWTG"
+  ],
+  "correct_answer": "JQWUG",
+  "correct_index": 0,
+  "explanation": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026). Applying this to HOUSE: H\u2192J, O\u2192Q, U\u2192W, S\u2192U, E\u2192G, giving JQWUG.",
+  "created_at": "2026-01-08T18:36:53.348989"
+}

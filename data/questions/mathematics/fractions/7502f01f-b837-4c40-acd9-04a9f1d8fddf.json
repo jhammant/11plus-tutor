@@ -1,0 +1,19 @@
+{
+  "id": "7502f01f-b837-4c40-acd9-04a9f1d8fddf",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "Which fraction is equivalent to \\(\\frac{3}{8} + \\frac{1}{4}\\)?",
+  "options": [
+    "5/8",
+    "3/4",
+    "7/8",
+    "1/2",
+    "1/4"
+  ],
+  "correct_answer": "5/8",
+  "correct_index": 0,
+  "explanation": "First change the fractions to have a common denominator. The denominator 8 works for both: \\(\\frac{1}{4}=\\frac{2}{8}\\). Then add the numerators: \\(\\frac{3}{8}+\\frac{2}{8}=\\frac{5}{8}\\). Therefore the equivalent fraction is 5/8, which is option 0.",
+  "created_at": "2026-01-08T18:58:20.741894"
+}

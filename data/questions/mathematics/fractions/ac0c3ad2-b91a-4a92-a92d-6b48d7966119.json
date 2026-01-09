@@ -1,0 +1,19 @@
+{
+  "id": "ac0c3ad2-b91a-4a92-a92d-6b48d7966119",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "fractions",
+  "difficulty": 3,
+  "question_text": "Calculate the sum and choose the equivalent fraction: What is \\(\\frac{3}{8} + \\frac{1}{4}\\)?",
+  "options": [
+    "\\frac{5}{8}",
+    "\\frac{1}{2}",
+    "\\frac{7}{12}",
+    "\\frac{3}{10}",
+    "\\frac{2}{3}"
+  ],
+  "correct_answer": "\\frac{5}{8}",
+  "correct_index": 0,
+  "explanation": "First, convert \\(\\frac{1}{4}\\) to a fraction with denominator 8: \\(\\frac{1}{4}=\\frac{2}{8}\\). Then add the fractions: \\(\\frac{3}{8}+\\frac{2}{8}=\\frac{5}{8}\\). Therefore, the sum is \\(\\frac{5}{8}\\), which matches option 0.",
+  "created_at": "2026-01-08T19:01:02.735756"
+}

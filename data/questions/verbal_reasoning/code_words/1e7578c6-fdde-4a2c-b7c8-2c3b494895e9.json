@@ -1,0 +1,19 @@
+{
+  "id": "1e7578c6-fdde-4a2c-b7c8-2c3b494895e9",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "code_words",
+  "difficulty": 3,
+  "question_text": "If CAT is coded as ZXQ, what is the code for DOG?",
+  "options": [
+    "ALD",
+    "BME",
+    "CNG",
+    "DPH",
+    "EQI"
+  ],
+  "correct_answer": "ALD",
+  "correct_index": 0,
+  "explanation": "The rule is: each letter is shifted three places backwards in the alphabet (with wrap\u2011around). C\u2192Z, A\u2192X, T\u2192Q. Applying the same shift to DOG gives D\u2192A, O\u2192L, G\u2192D, so the code is ALD.",
+  "created_at": "2026-01-08T18:40:49.847423"
+}

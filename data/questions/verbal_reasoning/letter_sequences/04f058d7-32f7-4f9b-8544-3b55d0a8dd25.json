@@ -1,0 +1,19 @@
+{
+  "id": "04f058d7-32f7-4f9b-8544-3b55d0a8dd25",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "letter_sequences",
+  "difficulty": 3,
+  "question_text": "What comes next in the sequence?\nAR, BT, CV, DW, ___",
+  "options": [
+    "EX",
+    "EY",
+    "EU",
+    "EV",
+    "EW"
+  ],
+  "correct_answer": "EX",
+  "correct_index": 0,
+  "explanation": "Each pair moves forward two letters in the alphabet for each position: A\u2192C\u2192E\u2192G (first letters) and R\u2192T\u2192V\u2192X (second letters). The next pair is E followed by X, i.e., EX.",
+  "created_at": "2026-01-08T18:39:50.271386"
+}

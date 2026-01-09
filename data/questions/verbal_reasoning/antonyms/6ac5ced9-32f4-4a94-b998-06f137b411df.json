@@ -1,0 +1,19 @@
+{
+  "id": "6ac5ced9-32f4-4a94-b998-06f137b411df",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "antonyms",
+  "difficulty": 3,
+  "question_text": "Find two words, one from each group, that are most opposite in meaning.\n(bright, ancient, silent) (dark, modern, noisy)",
+  "options": [
+    "bright & dark",
+    "bright & modern",
+    "ancient & dark",
+    "ancient & noisy",
+    "silent & modern"
+  ],
+  "correct_answer": "bright & dark",
+  "correct_index": 0,
+  "explanation": "Bright and dark are direct opposites in meaning, representing high and low levels of light. The other pairs do not have a clear antonym relationship.",
+  "created_at": "2026-01-08T18:49:36.383899"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "bd76be69-5017-4dbe-84e9-153118e3c7ad",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "analogies",
+  "difficulty": 3,
+  "question_text": "Teacher is to Classroom as Chef is to ___",
+  "options": [
+    "Kitchen",
+    "Garden",
+    "Library",
+    "Office",
+    "Workshop"
+  ],
+  "correct_answer": "Kitchen",
+  "correct_index": 0,
+  "explanation": "A teacher works in a classroom, just as a chef works in a kitchen. Both pairs show the relationship of a professional to their usual place of work.",
+  "created_at": "2026-01-08T18:49:40.097930"
+}

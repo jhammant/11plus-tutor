@@ -1,0 +1,19 @@
+{
+  "id": "d78e5fc1-df33-4fcb-b082-dc8787646051",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "Liam buys three video games that each cost \u00a312 and a set of cards that originally costs \u00a38 but is sold with a 25% discount. What is the total amount Liam spends on these items?",
+  "options": [
+    "42",
+    "38",
+    "45",
+    "40",
+    "36"
+  ],
+  "correct_answer": "42",
+  "correct_index": 0,
+  "explanation": "First calculate the cost of the three video games: 3 \u00d7 \u00a312 = \u00a336.\nThe set of cards is discounted by 25%, so it costs 75% of \u00a38:\n0.75 \u00d7 \u00a38 = \u00a36.\nAdd the two amounts: \u00a336 + \u00a36 = \u00a342.\nTherefore, Liam spends \u00a342 in total.",
+  "created_at": "2026-01-08T18:50:41.801080"
+}

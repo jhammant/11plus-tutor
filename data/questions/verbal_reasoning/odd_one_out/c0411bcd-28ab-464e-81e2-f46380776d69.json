@@ -1,0 +1,19 @@
+{
+  "id": "c0411bcd-28ab-464e-81e2-f46380776d69",
+  "exam_type": "11plus_gl",
+  "subject": "verbal_reasoning",
+  "question_type": "odd_one_out",
+  "difficulty": 3,
+  "question_text": "Find the odd one out:\nLion, Tiger, Elephant, Giraffe, Carrot",
+  "options": [
+    "Lion",
+    "Tiger",
+    "Elephant",
+    "Giraffe",
+    "Carrot"
+  ],
+  "correct_answer": "Carrot",
+  "correct_index": 4,
+  "explanation": "Carrot is the odd one out because the other four are animals, while carrot is a vegetable.",
+  "created_at": "2026-01-08T19:00:05.506299"
+}

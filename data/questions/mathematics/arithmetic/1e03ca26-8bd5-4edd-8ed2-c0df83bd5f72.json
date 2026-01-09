@@ -1,0 +1,19 @@
+{
+  "id": "1e03ca26-8bd5-4edd-8ed2-c0df83bd5f72",
+  "exam_type": "11plus_gl",
+  "subject": "mathematics",
+  "question_type": "arithmetic",
+  "difficulty": 3,
+  "question_text": "A bakery makes 240 cupcakes each morning. Exactly 25% of the cupcakes are chocolate flavored. Later in the day, they sell 30 chocolate cupcakes and then bake an additional 12 chocolate cupcakes to restock. How many chocolate cupcakes are there at the end of the day?",
+  "options": [
+    "42",
+    "38",
+    "45",
+    "40",
+    "36"
+  ],
+  "correct_answer": "42",
+  "correct_index": 0,
+  "explanation": "First find how many chocolate cupcakes were made initially: 25% of 240 = 0.25 \u00d7 240 = 60.\nThen subtract the 30 chocolate cupcakes that were sold: 60 \u2013 30 = 30.\nFinally add the 12 newly baked chocolate cupcakes: 30 + 12 = 42.\nSo, there are 42 chocolate cupcakes left at the end of the day.",
+  "created_at": "2026-01-08T17:07:49.953282"
+}
