@@ -58,10 +58,10 @@ export default function Sidebar() {
             </div>
             <div>
               <h1 className="font-bold text-slate-900 dark:text-slate-100 tracking-tight text-lg">
-                ExamTutor
+                11+ Tutor
               </h1>
               <p className="text-[10px] text-slate-500 dark:text-slate-400">
-                11+ & GCSE Prep
+                Grammar School Prep
               </p>
             </div>
           </div>

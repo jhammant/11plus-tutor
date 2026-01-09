@@ -163,7 +163,7 @@ export default function AchievementsPage() {
   useEffect(() => {
     // Load stats
     try {
-      const savedStats = localStorage.getItem("examtutor_stats");
+      const savedStats = localStorage.getItem("elevenplustutor_stats");
       if (savedStats) {
         setStats(JSON.parse(savedStats));
       } else {
@@ -177,7 +177,7 @@ export default function AchievementsPage() {
       }
 
       // Load unlocked achievements
-      const savedAchievements = localStorage.getItem("examtutor_achievements");
+      const savedAchievements = localStorage.getItem("elevenplustutor_achievements");
       if (savedAchievements) {
         setUnlockedAchievements(new Set(JSON.parse(savedAchievements)));
       }
@@ -228,7 +228,7 @@ export default function AchievementsPage() {
 
     if (changed) {
       setUnlockedAchievements(newUnlocked);
-      localStorage.setItem("examtutor_achievements", JSON.stringify([...newUnlocked]));
+      localStorage.setItem("elevenplustutor_achievements", JSON.stringify([...newUnlocked]));
     }
   }, [stats, unlockedAchievements]);
 

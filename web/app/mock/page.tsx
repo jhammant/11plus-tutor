@@ -54,7 +54,7 @@ export default function MockExamPage() {
   // Load past results
   useEffect(() => {
     try {
-      const saved = localStorage.getItem("examtutor_mock_results");
+      const saved = localStorage.getItem("elevenplustutor_mock_results");
       if (saved) setPastResults(JSON.parse(saved));
     } catch (e) {
       console.error("Error loading results:", e);
@@ -187,7 +187,7 @@ export default function MockExamPage() {
     // Save to localStorage
     const updatedResults = [examResult, ...pastResults].slice(0, 10);
     setPastResults(updatedResults);
-    localStorage.setItem("examtutor_mock_results", JSON.stringify(updatedResults));
+    localStorage.setItem("elevenplustutor_mock_results", JSON.stringify(updatedResults));
 
     setExamState("review");
   }, [answers, questions, timeRemaining, pastResults]);

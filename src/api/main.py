@@ -1,6 +1,6 @@
 """
-ExamTutor API
-FastAPI backend for the exam preparation platform
+11+ Tutor API
+FastAPI backend for the 11+ exam preparation platform
 """
 
 import os
@@ -20,6 +20,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from src.core.database import get_db, init_db, Question as DBQuestion, Attempt as DBAttempt
 from src.core.database import Student as DBStudent, TopicProgress as DBTopicProgress
 from sqlalchemy.orm import Session
+from settings import settings
 
 # ============================================================================
 # Pydantic Models
@@ -85,9 +86,9 @@ class StudentProgress(BaseModel):
 # ============================================================================
 
 app = FastAPI(
-    title="ExamTutor API",
-    description="AI-powered UK exam preparation platform",
-    version="0.1.0",
+    title="11+ Tutor API",
+    description="Free, open-source AI-powered 11+ exam preparation",
+    version="1.0.0",
 )
 
 # CORS
@@ -117,8 +118,8 @@ async def startup():
 @app.get("/")
 async def root():
     return {
-        "name": "ExamTutor API",
-        "version": "0.1.0",
+        "name": "11+ Tutor API",
+        "version": "1.0.0",
         "status": "healthy",
         "docs": "/docs"
     }
@@ -332,17 +333,40 @@ async def get_question_types():
 
 @app.get("/api/exam-types")
 async def get_exam_types():
-    """Get supported exam types"""
+    """Get supported exam types (11+ only for this version)"""
     return {
         "11plus": {
             "11plus_gl": "GL Assessment (most common)",
             "11plus_cem": "CEM (Durham University)",
-        },
-        "gcse": {
-            "gcse_aqa": "AQA",
-            "gcse_edexcel": "Pearson Edexcel",
-            "gcse_ocr": "OCR",
         }
+    }
+
+
+# ============================================================================
+# Features Endpoint (for opensource vs paid)
+# ============================================================================
+
+@app.get("/api/features")
+async def get_features():
+    """Get enabled features based on app mode (opensource vs paid)"""
+    return {
+        "app_mode": settings.app_mode,
+        "features": settings.get_enabled_features(),
+        "limits": {
+            "daily_ai_questions": settings.daily_ai_questions_limit,
+            "daily_ai_tutor_messages": settings.daily_ai_tutor_messages,
+        }
+    }
+
+
+@app.get("/api/config")
+async def get_config():
+    """Get basic app configuration"""
+    return {
+        "app_name": "11+ Tutor",
+        "version": "1.0.0",
+        "mode": settings.app_mode,
+        "is_paid": settings.is_paid_mode(),
     }
 
 

@@ -162,7 +162,7 @@ function PracticeContent() {
 
   const updateStats = (isCorrect: boolean, question: Question) => {
     try {
-      const savedStats = localStorage.getItem("examtutor_stats");
+      const savedStats = localStorage.getItem("elevenplustutor_stats");
       const stats = savedStats ? JSON.parse(savedStats) : {
         totalQuestions: 0,
         correctAnswers: 0,
@@ -219,7 +219,7 @@ function PracticeContent() {
         stats.bestStreak = stats.streak;
       }
 
-      localStorage.setItem("examtutor_stats", JSON.stringify(stats));
+      localStorage.setItem("elevenplustutor_stats", JSON.stringify(stats));
     } catch (e) {
       console.error("Error updating stats:", e);
     }

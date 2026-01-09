@@ -1,6 +1,6 @@
 {
-  "name": "examtutor-web",
-  "version": "0.2.0",
+  "name": "elevenplustutor-web",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

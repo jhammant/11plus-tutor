@@ -69,7 +69,7 @@ const QUESTION_TYPES = {
   mathematics: ["arithmetic", "fractions", "sequences", "word_problems"],
 };
 
-export default function ExamTutorHome() {
+export default function ElevenPlusTutorHome() {
   const [stats, setStats] = useState<Stats | null>(null);
   const [questionCount, setQuestionCount] = useState(0);
   const [streak, setStreak] = useState(0);
@@ -87,7 +87,7 @@ export default function ExamTutorHome() {
       .catch(console.error);
 
     // Load streak from localStorage
-    const savedStreak = localStorage.getItem("examtutor_streak");
+    const savedStreak = localStorage.getItem("elevenplustutor_streak");
     if (savedStreak) setStreak(parseInt(savedStreak));
 
     // Fetch progress
@@ -269,7 +269,7 @@ export default function ExamTutorHome() {
           <div>
             <h3 className="font-bold text-lg mb-2">11+ Grammar School Preparation</h3>
             <p className="text-slate-300 text-sm mb-4">
-              ExamTutor helps you prepare for GL Assessment and CEM 11+ exams with AI-generated practice questions,
+              11+ Tutor helps you prepare for GL Assessment and CEM 11+ exams with AI-generated practice questions,
               instant feedback, and progress tracking. Practice verbal reasoning, non-verbal reasoning, maths, and English.
             </p>
             <div className="flex flex-wrap gap-2">

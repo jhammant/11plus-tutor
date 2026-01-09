@@ -13,7 +13,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker, relationship
 
 # Database path
-DB_PATH = Path(__file__).parent.parent.parent / "examtutor.db"
+DB_PATH = Path(__file__).parent.parent.parent / "elevenplustutor.db"
 DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{DB_PATH}")
 
 # Create engine

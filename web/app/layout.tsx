@@ -14,8 +14,8 @@ const font = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "ExamTutor - AI-Powered Exam Preparation Platform",
-  description: "AI-powered exam preparation and study assistant",
+  title: "11+ Tutor - AI-Powered Grammar School Prep",
+  description: "Free AI-powered 11+ exam preparation for grammar school entrance. Practice verbal reasoning, maths, and more.",
 };
 
 export default function RootLayout({

@@ -66,7 +66,7 @@ export default function ProgressPage() {
     // Load stats from localStorage
     const loadStats = () => {
       try {
-        const savedStats = localStorage.getItem("examtutor_stats");
+        const savedStats = localStorage.getItem("elevenplustutor_stats");
         if (savedStats) {
           setStats(JSON.parse(savedStats));
         } else {
