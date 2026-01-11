@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.12+-green.svg)
-![Questions](https://img.shields.io/badge/questions-1352-brightgreen.svg)
+![Questions](https://img.shields.io/badge/questions-1382-brightgreen.svg)
 ![Tests](https://img.shields.io/badge/tests-57%20passing-success.svg)
 
 ### Install in One Command
@@ -19,7 +19,7 @@ curl -fsSL https://raw.githubusercontent.com/jhammant/11plus-tutor/main/scripts/
 irm https://raw.githubusercontent.com/jhammant/11plus-tutor/main/scripts/install.ps1 | iex
 ```
 
-No AI/LLM required - all 1,352 questions work immediately!
+No AI/LLM required - all 1,382 questions work immediately!
 
 ---
 
@@ -33,11 +33,11 @@ No AI/LLM required - all 1,352 questions work immediately!
 
 ## What's Included
 
-### 1,352 Verified Questions
+### 1,382 Verified Questions
 
 | Subject | Questions | Coverage |
 |---------|-----------|----------|
-| **Verbal Reasoning** | 511 | Synonyms, antonyms, analogies, letter sequences, code words, odd one out, hidden words, compound words |
+| **Verbal Reasoning** | 541 | Synonyms, antonyms, analogies, letter sequences, code words, odd one out, hidden words, compound words |
 | **Mathematics** | 366 | Number sequences, arithmetic, fractions |
 | **Non-Verbal Reasoning** | 300 | Pattern sequences, shape analogies, odd one out (all with SVG graphics) |
 | **English** | 175 | Reading comprehension (Aesop's Fables), spelling, grammar |
@@ -76,7 +76,7 @@ The installer will:
 - ✅ Set up everything automatically
 - ✅ Create a simple `start.sh` or `start.bat` to launch anytime
 
-**No LLM required!** All 1,352 questions work immediately.
+**No LLM required!** All 1,382 questions work immediately.
 
 ---
 
@@ -109,7 +109,7 @@ Open http://localhost:3783 in your browser. That's it!
 
 ### Do I Need an LLM?
 
-**No!** The app works perfectly without any LLM. All 1,352 questions are pre-generated and stored in the database.
+**No!** The app works perfectly without any LLM. All 1,382 questions are pre-generated and stored in the database.
 
 | Feature | Without LLM | With LLM |
 |---------|------------|----------|
