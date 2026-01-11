@@ -101,12 +101,23 @@ def main():
     signal.signal(signal.SIGINT, signal_handler)
     signal.signal(signal.SIGTERM, signal_handler)
 
-    # Initialize database
+    # Initialize database and import questions
     print("Initializing database...")
     sys.path.insert(0, str(PROJECT_ROOT))
-    from src.core.database import init_db, seed_sample_data
+    from src.core.database import init_db, Question, SessionLocal
     init_db()
-    seed_sample_data()
+
+    # Check if questions need to be imported
+    db = SessionLocal()
+    question_count = db.query(Question).count()
+    db.close()
+
+    if question_count < 100:
+        print(f"  Found only {question_count} questions, importing full question bank...")
+        from scripts.import_questions import import_all_questions
+        import_all_questions()
+    else:
+        print(f"  Database ready: {question_count} questions available")
 
     # Start services
     backend = start_backend()

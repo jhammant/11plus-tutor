@@ -20,28 +20,20 @@ aiohttp>=3.9.0
 sqlalchemy>=2.0.25
 aiosqlite>=0.19.0
 
-# LLM Integration
+# LLM Integration (optional - only needed for AI tutor features)
 openai>=1.10.0
 tiktoken>=0.5.2
-
-# RAG / Knowledge Graph
-lightrag>=0.1.0
 
 # Data Processing
 pyyaml>=6.0.1
 pandas>=2.1.0
 numpy>=1.26.0
 
-# PDF Processing (for past papers)
-pypdf>=3.17.0
-pdfplumber>=0.10.0
+# Optional: PDF Processing (for past papers)
+# pypdf>=3.17.0
+# pdfplumber>=0.10.0
 
-# Testing
-pytest>=7.4.0
-pytest-asyncio>=0.23.0
-pytest-cov>=4.1.0
-
-# Development
-black>=23.12.0
-ruff>=0.1.0
-mypy>=1.8.0
+# Development/Testing (uncomment if contributing)
+# pytest>=7.4.0
+# pytest-asyncio>=0.23.0
+# black>=23.12.0
