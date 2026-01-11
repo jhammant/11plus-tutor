@@ -1,0 +1,341 @@
+ID,Subject,Type,Difficulty,Question,Options,Correct Answer,Correct Index,Worked Solution,VERIFIED (Y/N),ISSUES/NOTES
+02afe745-accb-4971-bfe6-320e74165716,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+HG, JH, LI, NJ, ___",PK | RK | OK | QK | PL,PK,0,"First letters advance by 2, second by 1. Answer: PK",,
+04f058d7-32f7-4f9b-8544-3b55d0a8dd25,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AR, BT, CV, DW, ___",EX | EY | EU | EV | EW,EX,0,"Each pair moves forward two letters in the alphabet for each position: A→C→E→G (first letters) and R→T→V→X (second letters). The next pair is E followed by X, i.e., EX.",,
+0a89a350-b594-41ce-90b0-4d7d17b58e23,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, BD, CF, DH, ___",EI | FJ | EJ | DJ | FK,EJ,2,"The first letters progress alphabetically: A, B, C, D, E. The second letters increase by two each time: B, D, F, H, J. Therefore the next pair is EJ.",,
+0aff61fe-9e50-406f-94f6-6acaf4e2437c,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+CS, EV, GY, IB, ___",LE | KE | ME | KF | JE,KE,1,"First letters advance by 2, second by 3. Answer: KE",,
+0b57e1bc-5a7b-44a9-8154-a3b3046a10be,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+KH, LI, MJ, NK, ___",PL | PL | NL | OM | OL,OL,4,"First letters advance by 1, second by 1. Answer: OL",,
+0bf09757-e3a5-4661-a35a-1aa1b824802f,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+QE, RF, SG, TH, ___",TI | VI | VI | UJ | UI,UI,4,"First letters advance by 1, second by 1. Answer: UI",,
+0c717cb7-9ab7-4358-8e6d-248ed09d622a,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+TA, UC, VE, WG, ___",XJ | YI | YI | XI | WI,XI,3,"First letters advance by 1, second by 2. Answer: XI",,
+0c9c24b2-d9f9-458f-ae54-6475125b09cc,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+OR, QS, ST, UU, ___",WW | YV | VV | WV | XV,WV,3,"First letters advance by 2, second by 1. Answer: WV",,
+0cb10120-af27-4783-b57d-b7be1d096680,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+PQ, RS, TU, VW, ___",YY | XZ | XY | ZY | WY,XY,2,"First letters advance by 2, second by 2. Answer: XY",,
+0d14b72b-52fa-4366-b91c-caed4532c858,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, CD, EF, GH, ___",IJ | HI | JK | GI | IK,IJ,0,"Each pair moves forward by two letters in the alphabet: A‑B, C‑D, E‑F, G‑H, so the next is I‑J.",,
+0ed6f544-0d09-4d5c-95cf-dbed52375c54,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+KA, ND, QG, TJ, ___",ZM | XM | WM | WN | VM,WM,2,"First letters advance by 3, second by 3. Answer: WM",,
+0f551f23-e823-4913-bc57-d1cb61415f5d,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, KL, ___",MN | NO | OP | LM | NP,MN,0,"Each pair skips one letter between the two letters and then moves forward by three positions: AB (skip C), DE (skip F), GH (skip J), KL (skip N). The next pair starts after K, skipping M to give MN.",,
+112c7be8-04c4-4333-a16c-7d391caa6dff,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, JK, ___",LM | NO | MN | OP | KL,MN,2,Each pair moves forward three letters in the alphabet: A→D→G→J→M and B→E→H→K→N. Therefore the next pair is MN.,,
+117a643c-e993-4f3c-a5b0-c02f704ef5c6,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+KG, MI, OK, QM, ___",UO | SO | RO | TO | SP,SO,1,"First letters advance by 2, second by 2. Answer: SO",,
+120c83e5-81a0-4cac-ac0f-60864b5eab4b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, JK, ___",LM | MN | NO | OP | PQ,MN,1,"Each pair moves forward by three letters in the alphabet: A‑B, then D‑E (+3), G‑H (+3), J‑K (+3). The next start letter is M, giving the pair MN.",,
+137330d2-0103-458b-af83-cdc5e2d1499d,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+AR, BT, CV, DX, ___",DZ | EZ | FZ | EA | FZ,EZ,1,"First letters advance by 1, second by 2. Answer: EZ",,
+162ba04c-15fe-47da-8463-5add7620b0da,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+AE, CF, EG, GH, ___",JI | HI | II | IJ | KI,II,2,"First letters advance by 2, second by 1. Answer: II",,
+16ca51e2-eb61-404e-aed2-62ea1d675a9b,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+OF, QH, SJ, UL, ___",WO | XN | VN | YN | WN,WN,4,"First letters advance by 2, second by 2. Answer: WN",,
+1826e826-9a02-41b5-baf1-d51b8374f04c,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+TA, VC, XE, ZG, ___",AI | DI | BI | CI | BJ,BI,2,"First letters advance by 2, second by 2. Answer: BI",,
+1b243676-62b4-48a9-b2cc-855d81c24a90,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+KB, MD, OF, QH, ___",SJ | SK | UJ | TJ | RJ,SJ,0,"First letters advance by 2, second by 2. Answer: SJ",,
+1cc65ddc-f167-4ae2-8699-183c360f3bc7,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+CL, EM, GN, IO, ___",LP | JP | MP | KP | KQ,KP,3,"First letters advance by 2, second by 1. Answer: KP",,
+1e704c61-3bfd-4c3a-8667-e22bf95b1833,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+BK, DM, FO, HQ, ___",LS | JT | KS | JS | IS,JS,3,"First letters advance by 2, second by 2. Answer: JS",,
+1eb46bc4-c388-4cea-940b-2628ff737b7c,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+JE, MH, PK, SN, ___",WQ | VR | UQ | VQ | YQ,VQ,3,"First letters advance by 3, second by 3. Answer: VQ",,
+1ecb7c14-634b-449b-b2e2-cdb34643746e,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+CE, DF, EG, FH, ___",HI | GI | HI | FI | GJ,GI,1,"First letters advance by 1, second by 1. Answer: GI",,
+218b7562-23d7-4ae3-aa5f-bc5b32d089e9,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+RB, SE, TH, UK, ___",VN | VO | WN | UN | WN,VN,0,"First letters advance by 1, second by 3. Answer: VN",,
+2388653c-a12d-4803-88d7-db6fab25b5c4,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+LC, MD, NE, OF, ___",QG | QG | PH | OG | PG,PG,4,"First letters advance by 1, second by 1. Answer: PG",,
+238a00b0-91d5-4eae-9c63-518bcd707a56,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+LS, NU, PW, RY, ___",TA | SA | VA | TB | UA,TA,0,"First letters advance by 2, second by 2. Answer: TA",,
+23a177fb-8452-4f76-8597-988e4d8e1acf,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+HQ, IR, JS, KT, ___",MU | MU | LU | KU | LV,LU,2,"First letters advance by 1, second by 1. Answer: LU",,
+258e737e-2ee8-4fef-abd8-bb83a56e201e,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+TI, UL, VO, WR, ___",YU | WU | XV | YU | XU,XU,4,"First letters advance by 1, second by 3. Answer: XU",,
+26fdb2fb-86dd-4a0f-9f94-41cf9e9323ff,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+QS, ST, UU, WV, ___",ZW | YX | XW | YW | AW,YW,3,"First letters advance by 2, second by 1. Answer: YW",,
+276f3603-c685-42f7-a715-d4eaa6fe0044,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+IJ, KK, ML, OM, ___",SN | QN | QO | PN | RN,QN,1,"First letters advance by 2, second by 1. Answer: QN",,
+287e3c76-9648-4877-9a0b-60ee729f9d62,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+HH, IJ, JL, KN, ___",LQ | LP | MP | MP | KP,LP,1,"First letters advance by 1, second by 2. Answer: LP",,
+294f9a77-d4b0-4357-945f-ca05f09423ec,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+MS, OU, QW, SY, ___",UA | UB | TA | VA | WA,UA,0,"First letters advance by 2, second by 2. Answer: UA",,
+2a177f4f-33ac-4483-903f-1d4d84acba5b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+LH, NJ, PL, RN, ___",UP | TP | TQ | VP | SP,TP,1,"First letters advance by 2, second by 2. Answer: TP",,
+2a225756-9dac-45dd-95d8-40d9167310af,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+EG, GI, IK, KM, ___",NO | MO | LO | OO | MP,MO,1,"First letters advance by 2, second by 2. Answer: MO",,
+2ea6ea10-c3ac-4deb-8976-8c3b141c6df7,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+DJ, GL, JN, MP, ___",PS | OR | SR | PR | QR,PR,3,"First letters advance by 3, second by 2. Answer: PR",,
+3064db86-62db-4328-b8e9-98da71bd5767,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+LL, NN, PP, RR, ___",ST | TT | VT | UT | TU,TT,1,"First letters advance by 2, second by 2. Answer: TT",,
+3102df3e-ec4a-4c7a-b06d-ec5e602fb782,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AT, BU, CV, DW, ___",EX | EY | EV | EW | EU,EX,0,Each pair moves forward by one letter in both positions: A→B→C→D→E and T→U→V→W→X.,,
+31997566-6a4b-4435-9e91-21fba1fffd2d,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AT, BU, CV, DW, ___",EX | EV | FX | EW | DX,EX,0,Each pair moves forward one letter in the alphabet for each position: A→B→C→D→E and T→U→V→W→X.,,
+32121c39-76d5-45f5-99b3-94faac7dadad,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+JO, LP, NQ, PR, ___",TS | QS | RT | SS | RS,RS,4,"First letters advance by 2, second by 1. Answer: RS",,
+328e6968-8e97-47c3-a73e-f3dc02c2e45a,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+FT, HV, JX, LZ, ___",MB | NB | PB | OB | NC,NB,1,"First letters advance by 2, second by 2. Answer: NB",,
+3682c41d-3a65-4666-a8ba-7f78f2ef0cb2,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+BF, CH, DJ, EL, ___",FO | FN | GN | GN | EN,FN,1,"First letters advance by 1, second by 2. Answer: FN",,
+37f57b4c-0a31-4f13-b777-0fe30abb36f1,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+LS, NT, PU, RV, ___",VW | UW | TX | TW | SW,TW,3,"First letters advance by 2, second by 1. Answer: TW",,
+38470abc-8b43-45d3-8d34-8cf5dcdf248c,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+TK, UL, VM, WN, ___",YO | XO | XP | YO | WO,XO,1,"First letters advance by 1, second by 1. Answer: XO",,
+38bb061e-24b9-4368-9601-f7830833f211,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+GM, IN, KO, MP, ___",QQ | OR | PQ | OQ | NQ,OQ,3,"First letters advance by 2, second by 1. Answer: OQ",,
+3a054259-2a2c-4a40-9256-154705608d05,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+MA, OC, QE, SG, ___",UJ | WI | UI | VI | TI,UI,2,"First letters advance by 2, second by 2. Answer: UI",,
+3a942c86-8202-4f32-af37-61fc7a217966,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+GP, HR, IT, JV, ___",LX | KX | LX | JX | KY,KX,1,"First letters advance by 1, second by 2. Answer: KX",,
+3dc9e2cf-b781-4c7a-8116-656925eda047,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, JK, ___",LM | KL | MN | NO | OP,LM,0,Each pair skips two letters: AB (+3) → DE (+3) → GH (+3) → JK (+3). The next pair is LM.,,
+41c91b66-249f-4cde-a8f3-673b1622a18e,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+LQ, NS, PU, RW, ___",TY | SY | TZ | VY | UY,TY,0,"First letters advance by 2, second by 2. Answer: TY",,
+424162e7-7336-4d24-9021-10d02bfe0860,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+PB, RD, TF, VH, ___",WJ | XJ | XK | YJ | ZJ,XJ,1,"First letters advance by 2, second by 2. Answer: XJ",,
+427095a4-b275-4db4-b105-236f52054e17,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+NT, QV, TX, WZ, ___",ZB | AB | YB | ZC | CB,ZB,0,"First letters advance by 3, second by 2. Answer: ZB",,
+4511f9db-101c-4f0f-95e4-56880f18d166,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+DG, FI, HK, JM, ___",LO | LP | NO | KO | MO,LO,0,"First letters advance by 2, second by 2. Answer: LO",,
+46f08e3e-35a6-4fcc-bee9-82ecab569e67,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+OL, PM, QN, RO, ___",TP | SQ | TP | SP | RP,SP,3,"First letters advance by 1, second by 1. Answer: SP",,
+4743c9d5-9492-44e9-8fd7-d7b3d70f1637,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+UN, WO, YP, AQ, ___",ER | CR | DR | BR | CS,CR,1,"First letters advance by 2, second by 1. Answer: CR",,
+49c61acb-de9e-4efd-9e0f-c9604ee01a4d,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AL, CO, ER, GU, ___",KX | HX | JX | IX | IY,IX,3,"First letters advance by 2, second by 3. Answer: IX",,
+4b9d6333-f5b9-407d-889a-c86d6d871cda,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+FE, GH, HK, IN, ___",KQ | JR | JQ | KQ | IQ,JQ,2,"First letters advance by 1, second by 3. Answer: JQ",,
+4cd699af-c00a-4c03-83a3-97e5e5695be9,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+RQ, SS, TU, UW, ___",WY | WY | VY | UY | VZ,VY,2,"First letters advance by 1, second by 2. Answer: VY",,
+4cf8c68e-960c-4302-ad21-a37b31b04c99,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+EF, FH, GJ, HL, ___",JN | JN | IO | HN | IN,IN,4,"First letters advance by 1, second by 2. Answer: IN",,
+4e729ec1-7274-4aa3-be1e-cc1d0109c40a,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+SD, TE, UF, VG, ___",WH | XH | VH | XH | WI,WH,0,"First letters advance by 1, second by 1. Answer: WH",,
+4ee3d2cc-c887-4462-9cf9-8a17d4d41966,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+SG, UH, WI, YJ, ___",BK | AK | ZK | CK | AL,AK,1,"First letters advance by 2, second by 1. Answer: AK",,
+4faf8f07-8487-4a1a-a5ed-7b49215a1b83,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+QE, SG, UI, WK, ___",XM | AM | YM | YN | ZM,YM,2,"First letters advance by 2, second by 2. Answer: YM",,
+555ba447-9d64-4c17-80fb-2287280b73c7,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+KP, LR, MT, NV, ___",PX | OY | NX | PX | OX,OX,4,"First letters advance by 1, second by 2. Answer: OX",,
+55ec1b2a-de77-46c8-92a3-b7be6aac479d,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+KP, NR, QT, TV, ___",XX | WX | ZX | WY | VX,WX,1,"First letters advance by 3, second by 2. Answer: WX",,
+57b63579-debd-4d77-ad17-415aa9990483,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+HF, JH, LJ, NL, ___",ON | RN | PO | QN | PN,PN,4,"First letters advance by 2, second by 2. Answer: PN",,
+5937cc69-f211-45d5-b353-95330311caa3,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+GK, IN, KQ, MT, ___",PW | NW | OX | QW | OW,OW,4,"First letters advance by 2, second by 3. Answer: OW",,
+5b1b1d79-4a36-45c0-8a79-cc3477a6770b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+GN, JO, MP, PQ, ___",SR | RR | TR | VR | SS,SR,0,"First letters advance by 3, second by 1. Answer: SR",,
+5e976b80-e235-4596-bb40-42f0c32ee86b,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+EQ, GS, IU, KW, ___",MZ | MY | LY | NY | OY,MY,1,"First letters advance by 2, second by 2. Answer: MY",,
+60d78418-dc03-4b01-bd2c-3455d8ac8713,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+JN, MQ, PT, SW, ___",UZ | VA | YZ | WZ | VZ,VZ,4,"First letters advance by 3, second by 3. Answer: VZ",,
+635ce57c-0d98-48ff-b617-c117f0d618d4,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+PJ, SK, VL, YM, ___",BN | AN | EN | BO | CN,BN,0,"First letters advance by 3, second by 1. Answer: BN",,
+64b153ba-e076-4ece-a1b9-ce06525f6705,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+TF, WH, ZJ, CL, ___",IN | EN | FO | GN | FN,FN,4,"First letters advance by 3, second by 2. Answer: FN",,
+64bd6f1b-d90c-4f55-a1ab-c2f0375f71c7,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+UM, WN, YO, AP, ___",BQ | CQ | CR | EQ | DQ,CQ,1,"First letters advance by 2, second by 1. Answer: CQ",,
+659b4b74-213f-43b6-8222-48fd4cd97233,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AU, BX, CA, DD, ___",FG | FG | EG | EH | DG,EG,2,"First letters advance by 1, second by 3. Answer: EG",,
+6604925f-c4c7-4866-8ac8-724e1c99611d,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+SB, TC, UD, VE, ___",XF | WF | XF | VF | WG,WF,1,"First letters advance by 1, second by 1. Answer: WF",,
+6719f2cc-06aa-4b12-bf0c-6fd45ec91141,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+NR, PT, RV, TX, ___",VA | XZ | WZ | VZ | UZ,VZ,3,"First letters advance by 2, second by 2. Answer: VZ",,
+6802366d-2fe8-4f1f-886b-cd35b4138c29,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+LN, MP, NR, OT, ___",PW | PV | OV | QV | QV,PV,1,"First letters advance by 1, second by 2. Answer: PV",,
+6821bc93-25a3-4b3d-b188-d37fa43e1819,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+AO, BP, CQ, DR, ___",ET | FS | ES | DS | FS,ES,2,"First letters advance by 1, second by 1. Answer: ES",,
+6b12fcb6-0005-48a1-9166-ce7bb1f874c9,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+JE, LG, NI, PK, ___",RM | QM | SM | RN | TM,RM,0,"First letters advance by 2, second by 2. Answer: RM",,
+6d979886-57d4-427e-82c8-6fbf4388b7fa,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+PK, SM, VO, YQ, ___",ES | BT | AS | BS | CS,BS,3,"First letters advance by 3, second by 2. Answer: BS",,
+6e20a68b-ac82-4b16-8255-b4e05f407a4b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, JK, ___",MN | LM | NO | KL | OP,MN,0,Both letters in each pair advance by three places in the alphabet: A→D→G→J→M and B→E→H→K→N. Therefore the next pair is MN.,,
+6e908cfc-e693-4d6e-9fd2-6fe66bc63055,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+BC, CF, DI, EL, ___",FO | GO | EO | FP | GO,FO,0,"First letters advance by 1, second by 3. Answer: FO",,
+6ece54ad-c8e1-4c9d-b6db-d36a216d578b,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+SQ, UR, WS, YT, ___",BU | AU | CU | ZU | AV,AU,1,"First letters advance by 2, second by 1. Answer: AU",,
+73f59027-fefb-416d-9a16-d8f5f277d4fe,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+PM, RO, TQ, VS, ___",YU | XU | ZU | XV | WU,XU,1,"First letters advance by 2, second by 2. Answer: XU",,
+740eff44-89a3-4432-acce-5d8bd46ba6c5,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AZ, BY, CX, DW, ___",EV | DX | FW | EY | CV,EV,0,"The first letters progress forward through the alphabet (A, B, C, D, …) and the second letters move backward (Z, Y, X, W, …). The next pair is E followed by V, giving EV.",,
+7453ba0e-c48c-4da3-93cf-5ebf4a5204c4,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+UU, WX, YA, AD, ___",EG | BG | CG | DG | CH,CG,2,"First letters advance by 2, second by 3. Answer: CG",,
+74bbe84a-99ff-413f-bcde-d5b02bca7767,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+PC, QE, RG, SI, ___",UK | UK | TK | TL | SK,TK,2,"First letters advance by 1, second by 2. Answer: TK",,
+75676e91-5c5c-4887-9580-1a7caa378db9,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, JK, ___",LM | KL | MN | NO | OP,LM,0,"Each pair skips one letter between the two letters (A‑B, D‑E, G‑H, J‑K). The first letters advance by three positions: A→D→G→J→M, and the second letters follow the same pattern. Therefore the next pair is LM.",,
+7678afdd-c3ae-4d22-b15a-bf174cb3bf0b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+KC, ND, QE, TF, ___",XG | VG | ZG | WG | WH,WG,3,"First letters advance by 3, second by 1. Answer: WG",,
+76d7ecab-b042-49d0-8d55-94613e2656e0,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+GJ, IK, KL, MM, ___",NN | QN | PN | OO | ON,ON,4,"First letters advance by 2, second by 1. Answer: ON",,
+7799f810-dd71-4ba4-98b0-d2766f6896a5,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+UK, WL, YM, AN, ___",CP | BO | EO | DO | CO,CO,4,"First letters advance by 2, second by 1. Answer: CO",,
+782197ce-ae25-4caa-93c3-63140bab6fce,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, CD, EF, GH, ___",IJ | HI | JK | GI | IK,IJ,0,"Each pair consists of two consecutive letters and each new pair starts two places further in the alphabet: AB (A‑B), then skip C‑D to start at C, giving CD, then EF, GH, so the next pair is IJ.",,
+7933cae8-04fd-4702-b178-6d241a942814,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+GC, HF, II, JL, ___",KP | JO | LO | LO | KO,KO,4,"First letters advance by 1, second by 3. Answer: KO",,
+7dadb175-b474-4248-8b5f-16d6f84dcebd,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, JK, ___",MN | LM | NO | OP | KL,MN,0,"Each pair moves forward by three letters in the alphabet: A→D, B→E; D→G, E→H; G→J, H→K. Continuing this pattern gives M (J+3) and N (K+3), so the next pair is MN.",,
+81256f8d-811d-4076-a377-05f95482506b,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+IT, KV, MX, OZ, ___",PB | QB | QC | RB | SB,QB,1,"First letters advance by 2, second by 2. Answer: QB",,
+86cf3ca8-40e4-4b73-8f71-3ddb2e45707d,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+JJ, KK, LL, MM, ___",NN | ON | ON | NO | MN,NN,0,"First letters advance by 1, second by 1. Answer: NN",,
+8c5ebca1-cbf2-4532-bf49-3ae63262de37,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+QF, RH, SJ, TL, ___",VN | VN | UN | TN | UO,UN,2,"First letters advance by 1, second by 2. Answer: UN",,
+8d99a18f-c358-4914-b05c-ff2b77358cee,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+GA, HC, IE, JG, ___",KJ | LI | KI | LI | JI,KI,2,"First letters advance by 1, second by 2. Answer: KI",,
+8fa3026b-4acb-4572-aee8-f7d82a43c2bc,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+MI, OJ, QK, SL, ___",UM | TM | UN | WM | VM,UM,0,"First letters advance by 2, second by 1. Answer: UM",,
+9010795e-00ea-4e43-9f97-6fec6ed51e8b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AT, BU, CV, DW, ___",EX | DX | EY | EV | FW,EX,0,"In each pair the first letter moves forward one step in the alphabet (A, B, C, D, ...) and the second letter moves backward one step (T, U, V, W, ...). After DW the next letters are E and X, giving EX.",,
+95b35232-1976-4c87-84bf-a9b7040ecb32,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+BR, CT, DV, EX, ___",FZ | EZ | FA | GZ | GZ,FZ,0,"First letters advance by 1, second by 2. Answer: FZ",,
+99a6a406-021b-4737-9e0e-55b51d1f001e,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+KQ, LT, MW, NZ, ___",OC | PC | NC | OD | PC,OC,0,"First letters advance by 1, second by 3. Answer: OC",,
+99d35fc3-4eb9-4433-9686-562007b25fdb,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+JU, KW, LY, MA, ___",MC | ND | NC | OC | OC,NC,2,"First letters advance by 1, second by 2. Answer: NC",,
+9bc9d5c8-12c3-4aae-bdea-4b52d8d8e223,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+SP, VQ, YR, BS, ___",ET | DT | HT | EU | FT,ET,0,"First letters advance by 3, second by 1. Answer: ET",,
+9ea50d80-0201-4ac6-ba5d-73f35f71ec99,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+FL, HO, JR, LU, ___",OX | NX | MX | NY | PX,NX,1,"First letters advance by 2, second by 3. Answer: NX",,
+9f7f2669-482f-415c-96b8-768ed0ded398,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+KO, NQ, QS, TU, ___",WX | VW | WW | ZW | XW,WW,2,"First letters advance by 3, second by 2. Answer: WW",,
+a0b75213-c5f8-4dd5-90bc-a1464f72b5a7,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+JB, KC, LD, ME, ___",NF | MF | OF | OF | NG,NF,0,"First letters advance by 1, second by 1. Answer: NF",,
+a138b871-b706-492f-98cc-0f814c59b804,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, CD, EF, GH, ___",IJ | HI | JK | GI | IK,IJ,0,"Each pair moves forward by two letters in the alphabet: A‑B, C‑D, E‑F, G‑H, so the next pair is I‑J.",,
+a183b67c-73e9-4dec-9e5a-189cd026877a,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+CF, EH, GJ, IL, ___",MN | LN | KO | JN | KN,KN,4,"First letters advance by 2, second by 2. Answer: KN",,
+a2cba678-6176-4e68-b823-b459bea794b0,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+UB, WC, YD, AE, ___",DF | BF | CF | EF | CG,CF,2,"First letters advance by 2, second by 1. Answer: CF",,
+a6830aa0-6d4f-4b8d-bc9a-7eefa7809e3a,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+IR, KT, MV, OX, ___",QA | RZ | SZ | PZ | QZ,QZ,4,"First letters advance by 2, second by 2. Answer: QZ",,
+a7f4e780-79eb-479e-a674-ae9cd83509b5,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+KH, LJ, ML, NN, ___",PP | PP | OQ | OP | NP,OP,3,"First letters advance by 1, second by 2. Answer: OP",,
+a8927e5d-8216-4db1-baa4-5898f1499016,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+JL, LN, NP, PR, ___",RU | RT | QT | TT | ST,RT,1,"First letters advance by 2, second by 2. Answer: RT",,
+a8adb9db-12bd-44d9-96b2-9f17be1b479a,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+SQ, UR, WS, YT, ___",AU | CU | ZU | BU | AV,AU,0,"First letters advance by 2, second by 1. Answer: AU",,
+a9928607-61cf-4857-a0bf-b2005c7f7b9a,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+KK, LL, MM, NN, ___",OP | PO | OO | NO | PO,OO,2,"First letters advance by 1, second by 1. Answer: OO",,
+abd58609-26d0-4523-b096-f6d8aa152152,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, KL, ___",MN | OP | NO | LM | PQ,OP,1,"Each pair starts three letters after the previous pair's first letter (A → D → G → K). The pairs are consecutive letters, so after KL the next pair is OP.",,
+b0b29640-66d8-49d6-9432-f9363bbf4301,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+SF, TH, UJ, VL, ___",XN | WN | XN | WO | VN,WN,1,"First letters advance by 1, second by 2. Answer: WN",,
+b2845256-e1cd-4880-b083-30d03c27f378,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+SK, UL, WM, YN, ___",BO | AP | ZO | AO | CO,AO,3,"First letters advance by 2, second by 1. Answer: AO",,
+b2f87753-77ec-4de1-aa69-0ac04170cbb9,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+KI, MK, OM, QO, ___",TQ | UQ | SR | SQ | RQ,SQ,3,"First letters advance by 2, second by 2. Answer: SQ",,
+b4adca7f-c142-4e16-9d1e-6816583ddcb1,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+PC, SD, VE, YF, ___",CG | EG | BH | BG | AG,BG,3,"First letters advance by 3, second by 1. Answer: BG",,
+b67940f5-de85-43f2-9c04-8071b602e0a8,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+QP, RR, ST, TV, ___",UY | TX | UX | VX | VX,UX,2,"First letters advance by 1, second by 2. Answer: UX",,
+b72682ee-5a91-48f7-ae22-bdfe22bcbcca,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+KH, NI, QJ, TK, ___",WM | VL | WL | XL | ZL,WL,2,"First letters advance by 3, second by 1. Answer: WL",,
+b75a8583-5dda-48cb-b183-f0068f87a348,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+LI, MJ, NK, OL, ___",QM | PN | PM | QM | OM,PM,2,"First letters advance by 1, second by 1. Answer: PM",,
+b887b850-748e-4d7b-9637-55aea37e70ba,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+RG, UH, XI, AJ, ___",GK | DK | EK | DL | CK,DK,1,"First letters advance by 3, second by 1. Answer: DK",,
+b90f7b2c-d676-45ab-8ee7-5dbb68593376,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+JE, KG, LI, MK, ___",OM | MM | NM | OM | NN,NM,2,"First letters advance by 1, second by 2. Answer: NM",,
+bcb5ab51-cbbd-440f-aa8a-393a6c51b16c,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+EG, FH, GI, HJ, ___",JK | HK | JK | IK | IL,IK,3,"First letters advance by 1, second by 1. Answer: IK",,
+c047f097-44df-44bb-be8f-aeeeb043c30b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AK, CN, EQ, GT, ___",HW | IX | IW | KW | JW,IW,2,"First letters advance by 2, second by 3. Answer: IW",,
+c0b497b4-92a8-4a09-8ed0-3a2be1017c44,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+BR, DS, FT, HU, ___",IV | KV | JV | LV | JW,JV,2,"First letters advance by 2, second by 1. Answer: JV",,
+c1479de3-3159-4361-a3e6-1517cede4b7a,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+ND, OG, PJ, QM, ___",RQ | RP | QP | SP | SP,RP,1,"First letters advance by 1, second by 3. Answer: RP",,
+c1eeefe3-c594-4a0c-b540-2c88426a3ad7,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+KA, MB, OC, QD, ___",TE | SE | RE | SF | UE,SE,1,"First letters advance by 2, second by 1. Answer: SE",,
+c5cbcb65-67f2-42e7-b551-bde9f43bcfb4,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+CA, DC, EE, FG, ___",HI | GJ | HI | GI | FI,GI,3,"First letters advance by 1, second by 2. Answer: GI",,
+ca8dae84-a458-4411-bc64-95676c9f5860,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+FH, HI, JJ, LK, ___",NM | ML | NL | OL | PL,NL,2,"First letters advance by 2, second by 1. Answer: NL",,
+ce5a8397-5614-4280-b9b0-75ca7dd0fd3c,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+NH, PJ, RL, TN, ___",WP | VQ | UP | VP | XP,VP,3,"First letters advance by 2, second by 2. Answer: VP",,
+ceb2ca02-2f7c-4c26-9d24-ecdb214b95af,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+LQ, NR, PS, RT, ___",SU | UU | TU | VU | TV,TU,2,"First letters advance by 2, second by 1. Answer: TU",,
+cebfd9ba-a2c9-4497-be09-3cc6f5fc49eb,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+PL, SO, VR, YU, ___",EX | AX | CX | BY | BX,BX,4,"First letters advance by 3, second by 3. Answer: BX",,
+d05859a8-4825-4127-9424-2f00481a6625,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+EB, HE, KH, NK, ___",QN | PN | QO | TN | RN,QN,0,"First letters advance by 3, second by 3. Answer: QN",,
+d34bf2cb-f04b-483e-89a3-942afa142664,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+EU, FV, GW, HX, ___",JY | IY | JY | HY | IZ,IY,1,"First letters advance by 1, second by 1. Answer: IY",,
+d3936da2-87ca-4cf7-8d59-b5c6f7f5dc9a,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+LL, NM, PN, RO, ___",TP | UP | TQ | VP | SP,TP,0,"First letters advance by 2, second by 1. Answer: TP",,
+d3dee0f3-f47b-4b3a-9788-99228786d8de,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+FK, GL, HM, IN, ___",IO | KO | JP | JO | KO,JO,3,"First letters advance by 1, second by 1. Answer: JO",,
+d4d7e6e8-5f94-40a1-9760-e2373c68cd86,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+QD, SG, UJ, WM, ___",XP | ZP | YQ | YP | AP,YP,3,"First letters advance by 2, second by 3. Answer: YP",,
+d5b908e2-b8d1-41dc-8585-9632b7765c53,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+JC, KD, LE, MF, ___",NH | NG | OG | OG | MG,NG,1,"First letters advance by 1, second by 1. Answer: NG",,
+d8aa86c5-203c-4f36-8a87-655a42ecde9a,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+ML, OM, QN, SO, ___",UQ | VP | UP | WP | TP,UP,2,"First letters advance by 2, second by 1. Answer: UP",,
+d9901d30-9dbc-428b-9a02-51c9fdb4eaf0,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AB, DE, GH, JK, ___",LM | MN | NO | OP | PQ,LM,0,"Each pair skips one letter between the two letters and then moves forward by three positions: AB (skip C), DE (skip F), GH (skip I), JK (skip M). The next start after J is L, skipping K, giving LM.",,
+de23790e-40fd-4b59-98e5-e16f3b156b39,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+JG, KI, LK, MM, ___",NP | OO | MO | OO | NO,NO,4,"First letters advance by 1, second by 2. Answer: NO",,
+dfadbd3d-61ad-4d55-b90b-7fb62a7cbc4f,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+BA, DB, FC, HD, ___",LE | JE | JF | IE | KE,JE,1,"First letters advance by 2, second by 1. Answer: JE",,
+e080b79b-716e-4acd-9020-1614dd7d84d5,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+NQ, OT, PW, QZ, ___",SC | QC | RD | SC | RC,RC,4,"First letters advance by 1, second by 3. Answer: RC",,
+e21d3652-f45d-47d1-82ca-67598197dcc2,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+QP, RQ, SR, TS, ___",UU | TT | VT | VT | UT,UT,4,"First letters advance by 1, second by 1. Answer: UT",,
+e3e69103-49b7-4b68-b439-d039d648910a,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+PB, RC, TD, VE, ___",YF | ZF | XF | WF | XG,XF,2,"First letters advance by 2, second by 1. Answer: XF",,
+e45b62af-8ada-4acc-abf9-bbdefa603d56,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+GI, IJ, KK, ML, ___",ON | QM | PM | OM | NM,OM,3,"First letters advance by 2, second by 1. Answer: OM",,
+e4c1d80f-7343-45b0-8bd1-246d381b6a7b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+OT, QW, SZ, UC, ___",WG | VF | WF | YF | XF,WF,2,"First letters advance by 2, second by 3. Answer: WF",,
+e5f362fa-ee42-4406-b454-ba5b4789d241,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+NH, OK, PN, QQ, ___",RT | ST | QT | ST | RU,RT,0,"First letters advance by 1, second by 3. Answer: RT",,
+e7de886c-da7e-4e4c-8f73-e8ba1c504f6b,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+RH, SI, TJ, UK, ___",WL | WL | UL | VM | VL,VL,4,"First letters advance by 1, second by 1. Answer: VL",,
+e8c7c432-05ab-47fd-a1f1-eb0bd5ed0d8d,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+BU, DW, FY, HA, ___",JC | IC | KC | JD | LC,JC,0,"First letters advance by 2, second by 2. Answer: JC",,
+e91548c7-e362-4378-9d4f-850f23df5ada,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+GU, IX, KA, MD, ___",NG | QG | PG | OH | OG,OG,4,"First letters advance by 2, second by 3. Answer: OG",,
+e9958739-7386-471a-bcee-cb393e70d78c,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AZ, BY, CX, DW, ___",EV | VE | FW | XF | DU,EV,0,"Each pair moves one step inward from the ends of the alphabet: A‑Z, B‑Y, C‑X, D‑W, so the next is E‑V.",,
+ea0e7f6c-c98f-4a89-94c4-5987631d7706,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+SD, UF, WH, YJ, ___",CL | BL | ZL | AL | AM,AL,3,"First letters advance by 2, second by 2. Answer: AL",,
+ea138182-3ea4-42ad-9d39-a01c3eee5cc5,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+QL, SN, UP, WR, ___",XT | ZT | AT | YT | YU,YT,3,"First letters advance by 2, second by 2. Answer: YT",,
+eb57de4b-cc85-49e9-8dbc-c3bafe91c387,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+EJ, GK, IL, KM, ___",MN | MO | ON | LN | NN,MN,0,"First letters advance by 2, second by 1. Answer: MN",,
+eb64e935-6f31-49de-9f39-603370a40831,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+NS, OT, PU, QV, ___",SW | QW | RW | SW | RX,RW,2,"First letters advance by 1, second by 1. Answer: RW",,
+eb92bd10-05fa-4d90-b372-04d9c207ecc8,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+FP, GQ, HR, IS, ___",JU | KT | JT | IT | KT,JT,2,"First letters advance by 1, second by 1. Answer: JT",,
+ebd1325d-83a0-4ceb-bd93-c73394237d14,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+LS, NT, PU, RV, ___",TX | TW | VW | SW | UW,TW,1,"First letters advance by 2, second by 1. Answer: TW",,
+ec552b0a-fcf4-4c25-a761-8fbc56674b5d,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+DU, FW, HY, JA, ___",LC | LD | NC | KC | MC,LC,0,"First letters advance by 2, second by 2. Answer: LC",,
+ec6afbca-7482-4321-b0aa-b0a762ceb506,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+LE, MG, NI, OK, ___",PN | QM | QM | OM | PM,PM,4,"First letters advance by 1, second by 2. Answer: PM",,
+f175c5da-7b49-4b2c-a054-7df892a537e1,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+AH, BI, CJ, DK, ___",EM | EL | FL | FL | DL,EL,1,"First letters advance by 1, second by 1. Answer: EL",,
+f2fa2b45-2a5b-480a-9da8-6e2f028c2236,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+KA, ND, QG, TJ, ___",ZM | VM | WN | XM | WM,WM,4,"First letters advance by 3, second by 3. Answer: WM",,
+f4930d11-3972-4a28-8902-cc4980d0036d,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+NK, QN, TQ, WT, ___",CW | YW | ZX | AW | ZW,ZW,4,"First letters advance by 3, second by 3. Answer: ZW",,
+f936cf19-f757-4df6-b60e-a638e6d57fcc,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+BR, CS, DT, EU, ___",GV | GV | FW | EV | FV,FV,4,"First letters advance by 1, second by 1. Answer: FV",,
+fa7292e0-9ddf-49d2-80df-1a6349f2d79d,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+II, LL, OO, RR, ___",TU | UU | UV | XU | VU,UU,1,"First letters advance by 3, second by 3. Answer: UU",,
+fcdbe011-3e5d-4a64-870f-235f09643dd7,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+DJ, EL, FN, GP, ___",HS | GR | HR | IR | IR,HR,2,"First letters advance by 1, second by 2. Answer: HR",,
+fd23386d-2aff-4bd8-a7e3-d5982277c631,verbal_reasoning,letter_sequences,3,"What comes next in the sequence?
+AZ, BY, CX, DW, ___",EV | EX | FU | DV | EW,EV,0,"The first letters progress forward through the alphabet (A, B, C, D, E…) while the second letters move backward (Z, Y, X, W, V…). Therefore the next pair is E followed by V, i.e., EV.",,
+fee3e65f-9d06-4558-88d3-f697c4d83403,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+PH, RJ, TL, VN, ___",YP | ZP | WP | XQ | XP,XP,4,"First letters advance by 2, second by 2. Answer: XP",,
+ffec019f-b8be-4ebb-82ad-211b4fe2b97c,verbal_reasoning,letter_sequences,2,"What comes next in the sequence?
+KS, LT, MU, NV, ___",OW | OX | PW | PW | NW,OW,0,"First letters advance by 1, second by 1. Answer: OW",,

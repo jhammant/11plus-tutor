@@ -158,6 +158,25 @@ async def get_questions(
     return questions
 
 
+@app.get("/api/questions/count")
+async def get_question_count(
+    subject: Optional[str] = None,
+    question_type: Optional[str] = None,
+    exam_type: str = "11plus_gl",
+    db: Session = Depends(get_db)
+):
+    """Get total count of questions"""
+    query = db.query(DBQuestion).filter(DBQuestion.exam_type == exam_type)
+
+    if subject:
+        query = query.filter(DBQuestion.subject == subject)
+    if question_type:
+        query = query.filter(DBQuestion.question_type == question_type)
+
+    count = query.count()
+    return {"count": count}
+
+
 @app.get("/api/questions/{question_id}", response_model=QuestionResponse)
 async def get_question(question_id: str, db: Session = Depends(get_db)):
     """Get a specific question (without answer)"""
@@ -215,14 +234,33 @@ async def submit_answer(submission: AnswerSubmission, db: Session = Depends(get_
     if not question:
         raise HTTPException(status_code=404, detail="Question not found")
 
-    # Check answer
-    is_correct = submission.answer.strip().lower() == question.correct_answer.strip().lower()
+    # Check answer - multiple methods for different question types
+    submitted_answer = submission.answer.strip()
+    correct_answer = question.correct_answer.strip()
+    is_correct = False
 
-    # For multiple choice, also check by index
-    if question.options and submission.answer.isdigit():
-        answer_index = int(submission.answer)
-        if 0 <= answer_index < len(question.options):
-            is_correct = answer_index == question.correct_index
+    # Method 1: Direct string comparison (case-insensitive)
+    if submitted_answer.lower() == correct_answer.lower():
+        is_correct = True
+
+    # Method 2: Check by index if options exist and correct_index is set
+    if not is_correct and question.options and question.correct_index is not None:
+        options = question.options if isinstance(question.options, list) else json.loads(question.options)
+
+        # If submitted answer matches option at correct_index
+        if question.correct_index < len(options):
+            correct_option = options[question.correct_index]
+            if submitted_answer == correct_option:
+                is_correct = True
+            # Also check case-insensitive for text options
+            elif submitted_answer.lower() == str(correct_option).lower():
+                is_correct = True
+
+        # If submitted answer is an index number
+        if submitted_answer.isdigit():
+            answer_index = int(submitted_answer)
+            if answer_index == question.correct_index:
+                is_correct = True
 
     marks = question.marks_available if is_correct else 0
 
@@ -239,10 +277,10 @@ async def submit_answer(submission: AnswerSubmission, db: Session = Depends(get_
     )
     db.add(attempt)
 
-    # Update question statistics
-    question.times_attempted += 1
+    # Update question statistics (handle None values from newly generated questions)
+    question.times_attempted = (question.times_attempted or 0) + 1
     if is_correct:
-        question.times_correct += 1
+        question.times_correct = (question.times_correct or 0) + 1
 
     db.commit()
 
@@ -368,6 +406,160 @@ async def get_config():
         "mode": settings.app_mode,
         "is_paid": settings.is_paid_mode(),
     }
+
+
+# ============================================================================
+# Strategy Guides Endpoints
+# ============================================================================
+
+import yaml
+from pathlib import Path as FilePath
+
+STRATEGIES_DIR = FilePath(__file__).parent.parent.parent / "data" / "strategies"
+LESSONS_DIR = FilePath(__file__).parent.parent.parent / "data" / "lessons"
+
+
+@app.get("/api/strategies")
+async def get_strategies():
+    """Get list of all strategy guides"""
+    strategies = []
+
+    if STRATEGIES_DIR.exists():
+        for file in STRATEGIES_DIR.glob("*.yaml"):
+            try:
+                with open(file, "r") as f:
+                    data = yaml.safe_load(f)
+                    strategies.append({
+                        "question_type": data.get("question_type"),
+                        "subject": data.get("subject"),
+                        "title": data.get("title"),
+                        "is_free": data.get("is_free", True),
+                        "difficulty_range": data.get("difficulty_range"),
+                    })
+            except Exception as e:
+                print(f"Error loading strategy {file}: {e}")
+
+    return {"strategies": strategies}
+
+
+@app.get("/api/strategies/{question_type}")
+async def get_strategy(question_type: str):
+    """Get a specific strategy guide"""
+    file_path = STRATEGIES_DIR / f"{question_type}.yaml"
+
+    if not file_path.exists():
+        raise HTTPException(status_code=404, detail=f"Strategy guide for '{question_type}' not found")
+
+    try:
+        with open(file_path, "r") as f:
+            data = yaml.safe_load(f)
+            return data
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error loading strategy: {str(e)}")
+
+
+# ============================================================================
+# Learning Content Endpoints
+# ============================================================================
+
+@app.get("/api/learn/subjects")
+async def get_learn_subjects():
+    """Get subjects available for learning with topic counts"""
+    # Define the learning structure
+    subjects = [
+        {
+            "id": "verbal_reasoning",
+            "name": "Verbal Reasoning",
+            "description": "Words, meanings, and logic",
+            "icon": "PenTool",
+            "color": "purple",
+            "topics": [
+                {"id": "synonyms", "name": "Synonyms", "lesson_count": 1},
+                {"id": "antonyms", "name": "Antonyms", "lesson_count": 1},
+                {"id": "analogies", "name": "Analogies", "lesson_count": 1},
+                {"id": "odd_one_out", "name": "Odd One Out", "lesson_count": 1},
+                {"id": "code_words", "name": "Code Words", "lesson_count": 1},
+                {"id": "letter_sequences", "name": "Letter Sequences", "lesson_count": 1},
+            ]
+        },
+        {
+            "id": "mathematics",
+            "name": "Mathematics",
+            "description": "Numbers, shapes, and problem solving",
+            "icon": "Calculator",
+            "color": "green",
+            "topics": [
+                {"id": "arithmetic", "name": "Arithmetic", "lesson_count": 1},
+                {"id": "fractions", "name": "Fractions", "lesson_count": 1},
+                {"id": "sequences", "name": "Number Sequences", "lesson_count": 1},
+                {"id": "percentages", "name": "Percentages", "lesson_count": 0},
+                {"id": "word_problems", "name": "Word Problems", "lesson_count": 0},
+            ]
+        },
+        {
+            "id": "non_verbal_reasoning",
+            "name": "Non-Verbal Reasoning",
+            "description": "Patterns, shapes, and spatial thinking",
+            "icon": "Puzzle",
+            "color": "blue",
+            "topics": [
+                {"id": "pattern_sequences", "name": "Pattern Sequences", "lesson_count": 0},
+                {"id": "matrices", "name": "Matrices", "lesson_count": 0},
+                {"id": "rotations", "name": "Rotations & Reflections", "lesson_count": 0},
+            ]
+        },
+        {
+            "id": "english",
+            "name": "English",
+            "description": "Reading, writing, and comprehension",
+            "icon": "BookOpen",
+            "color": "amber",
+            "topics": [
+                {"id": "comprehension", "name": "Comprehension", "lesson_count": 0},
+                {"id": "vocabulary", "name": "Vocabulary", "lesson_count": 0},
+                {"id": "grammar", "name": "Grammar", "lesson_count": 0},
+            ]
+        }
+    ]
+
+    return {"subjects": subjects}
+
+
+@app.get("/api/learn/{subject}/{topic}")
+async def get_lesson(subject: str, topic: str):
+    """Get lesson content for a specific topic"""
+    # First check if there's a YAML file for this lesson
+    lesson_file = LESSONS_DIR / subject / f"{topic}.yaml"
+
+    if lesson_file.exists():
+        try:
+            with open(lesson_file, "r") as f:
+                return yaml.safe_load(f)
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=f"Error loading lesson: {str(e)}")
+
+    # If no lesson file, check if there's a corresponding strategy guide
+    strategy_file = STRATEGIES_DIR / f"{topic}.yaml"
+    if strategy_file.exists():
+        try:
+            with open(strategy_file, "r") as f:
+                data = yaml.safe_load(f)
+                # Convert strategy to lesson format
+                return {
+                    "subject": subject,
+                    "topic": topic,
+                    "title": data.get("title", topic.replace("_", " ").title()),
+                    "explanation": data.get("what_is_it", ""),
+                    "key_points": data.get("approach", []),
+                    "worked_examples": data.get("worked_examples", []),
+                    "tips": data.get("time_tips", []),
+                    "common_mistakes": data.get("common_mistakes", []),
+                    "is_free": data.get("is_free", True),
+                }
+        except Exception as e:
+            raise HTTPException(status_code=500, detail=f"Error loading content: {str(e)}")
+
+    raise HTTPException(status_code=404, detail=f"Lesson for '{subject}/{topic}' not found")
 
 
 # ============================================================================

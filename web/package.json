@@ -1,25 +1,18 @@
 {
-  "name": "elevenplustutor-web",
+  "name": "11plus-tutor-web",
   "version": "1.0.0",
+  "description": "Free, open-source 11+ exam preparation platform",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3783",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 3783",
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.36.6",
-    "@stripe/stripe-js": "^8.6.1",
-    "@supabase/supabase-js": "^2.90.1",
     "clsx": "^2.1.1",
-    "cytoscape": "^3.33.1",
     "framer-motion": "^12.24.0",
-    "html-to-image": "^1.11.13",
-    "html2canvas": "^1.4.1",
-    "jspdf": "^4.0.0",
     "lucide-react": "^0.562.0",
-    "mermaid": "^11.12.2",
     "next": "^16.1.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -28,7 +21,6 @@
     "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.0",
     "remark-math": "^6.0.0",
-    "stripe": "^20.1.2",
     "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {

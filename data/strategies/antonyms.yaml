@@ -1,0 +1,72 @@
+question_type: antonyms
+subject: verbal_reasoning
+title: "Finding Antonyms (Opposites)"
+is_free: true
+
+what_is_it: |
+  Antonyms are words that have opposite meanings.
+  In 11+ exams, you're given two groups of words and must find one word
+  from each group that are opposites of each other.
+
+  Example: "hot" and "cold" are antonyms - they're at opposite ends
+  of the temperature scale.
+
+approach:
+  - "Look for words that are complete opposites"
+  - "Think about scales: hot↔cold, big↔small, fast↔slow"
+  - "Test: If one word means 'very X', the antonym means 'very NOT X'"
+  - "Be careful of words that are just different (not opposite)"
+  - "Eliminate pairs that are synonyms or unrelated"
+
+common_mistakes:
+  - "Confusing antonyms with synonyms (same meaning)"
+  - "Picking words that are different but not opposite"
+  - "Missing the true opposite because a word has multiple meanings"
+  - "Not considering all pairs before answering"
+
+time_tips:
+  - "Aim for 20-30 seconds per question"
+  - "Opposites often 'feel' opposite - trust your instinct"
+  - "If unsure, think of a scale (hot-warm-cool-cold)"
+
+worked_examples:
+  - question: "Find two words, one from each group, that are most opposite in meaning.\n(happy, sad, calm) (joyful, angry, peaceful)"
+    answer: "calm & angry"
+    walkthrough: |
+      Let's think about opposites:
+      - happy & joyful: These are SYNONYMS (same meaning), not antonyms
+      - happy & angry: Happy is positive, angry is negative - possible!
+      - sad & joyful: Sad is unhappy, joyful is very happy - opposites! ✓
+      - calm & angry: Calm is peaceful/relaxed, angry is agitated - opposites! ✓
+
+      Wait - we have two possible pairs! Let's think more carefully:
+      - sad & joyful: Good opposite pair
+      - calm & angry: Also a good opposite pair
+
+      Both work! But calm & angry are more direct opposites (emotional state scale).
+
+  - question: "Find the antonym pair: (light, heavy, medium) (dark, bright, dim)"
+    answer: "light & dark OR light & heavy (depending on meaning)"
+    walkthrough: |
+      This is a tricky one because "light" has two meanings:
+      1. Light (not heavy) - opposite is heavy
+      2. Light (brightness) - opposite is dark
+
+      Looking at the second group: dark, bright, dim - these are all about BRIGHTNESS.
+      So the question wants us to use "light" meaning bright.
+
+      Answer: light & dark (both referring to brightness)
+
+  - question: "Find the antonym pair: (begin, end, continue) (start, finish, stop)"
+    answer: "begin & finish"
+    walkthrough: |
+      - begin means 'to start'
+      - start is a SYNONYM of begin, not an antonym
+      - finish means 'to end/complete' - opposite of begin! ✓
+      - end & finish are synonyms
+      - continue & stop are opposites too!
+
+      Best answer: begin & finish (start something vs complete something)
+
+typical_time_seconds: 25
+difficulty_range: "2-3"

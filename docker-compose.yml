@@ -1,0 +1,33 @@
+# 11+ Tutor - Docker Compose
+# Usage: docker-compose up
+# Then open http://localhost:3783
+
+version: '3.8'
+
+services:
+  tutor:
+    build: .
+    ports:
+      - "3783:3783"
+      - "8002:8002"
+    volumes:
+      # Persist the database so progress is saved
+      - ./elevenplustutor.db:/app/elevenplustutor.db
+    environment:
+      - NEXT_PUBLIC_API_BASE=http://localhost:8002
+      - NODE_ENV=production
+    restart: unless-stopped
+
+  # Optional: Add Ollama for AI features
+  # Uncomment below to enable
+  #
+  # ollama:
+  #   image: ollama/ollama
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ollama_data:/root/.ollama
+  #   # After starting, run: docker exec -it ollama ollama pull llama3.2
+
+# volumes:
+#   ollama_data:

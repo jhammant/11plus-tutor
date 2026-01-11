@@ -1,0 +1,169 @@
+ID,Subject,Type,Difficulty,Question,Options,Correct Answer,Correct Index,Worked Solution,VERIFIED (Y/N),ISSUES/NOTES
+01a38dea-b457-4405-ad45-ffc3be8a8471,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, gloomy, fabric) (rapid, sadness, cloth)",swift & rapid | swift & sadness | gloomy & rapid | gloomy & cloth | fabric & sadness,swift & rapid,0,"The words 'swift' and 'rapid' both mean moving quickly, making them synonyms.",,
+034adaf3-b130-4b5d-b725-346fb28407f0,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(brave, happy, run) (conclude, wander, glad)",happy & glad | brave & wander | run & wander | brave & glad,happy & glad,0,'happy' and 'glad' are synonyms - they both mean similar things.,,
+047f1c0c-db08-405c-a8f4-23103d6897ad,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, gloomy, mirth) (swift, cheerful, somber)",rapid & swift | rapid & cheerful | gloomy & swift | gloomy & somber | mirth & cheerful,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,
+0576c082-afc8-4cd3-83fa-a14035ad9aad,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, gentle, ancient) (swift, kind, old)",rapid & swift | rapid & kind | gentle & swift | gentle & old | ancient & kind,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,
+070e8edc-e96a-4b21-9bbb-5dddafb8e0a0,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(brave, clean, sad) (enormous, moist, unhappy)",clean & unhappy | sad & unhappy | brave & unhappy | sad & moist | brave & moist,sad & unhappy,1,'sad' and 'unhappy' are synonyms - they both mean similar things.,,
+08222669-0152-4860-b46e-e5c539143886,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(begin, weak, end) (rapid, furious, fragile)",weak & fragile | end & furious | begin & fragile | begin & furious,weak & fragile,0,'weak' and 'fragile' are synonyms - they both mean similar things.,,
+114db021-6cba-4082-8cee-b0a11dbde9fe,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, broad, silent) (quick, narrow, quiet)",swift & quick | swift & narrow | broad & quick | broad & quiet | silent & narrow,swift & quick,0,"‘Swift’ and ‘quick’ both mean moving at high speed, making them synonyms.",,
+12b3f92b-a3df-429d-aafc-614950b137cb,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(look, drink, good) (excellent, robust, dumb)",look & dumb | good & excellent | drink & dumb | good & robust | look & robust,good & excellent,1,'good' and 'excellent' are synonyms - they both mean similar things.,,
+13ee0efb-0e7e-4ffc-a136-150b4ad3b19c,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(cold, sad, begin) (boiling, commence, munch)",cold & munch | begin & commence | sad & munch | cold & commence,begin & commence,1,'begin' and 'commence' are synonyms - they both mean similar things.,,
+143a0635-b910-4ccf-9ef3-fc92bdaf1a95,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, gloomy, tiny) (swift, bright, minute)",rapid & swift | rapid & bright | gloomy & swift | gloomy & minute | tiny & bright,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms. The other pairs do not share the same meaning.",,
+1bbedf73-65fe-42a6-9f12-e3658a0b983e,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(beautiful, ugly, ask) (unattractive, hideous, contemplate)",beautiful & contemplate | ask & hideous | ugly & contemplate | beautiful & hideous | ugly & hideous,ugly & hideous,4,'ugly' and 'hideous' are synonyms - they both mean similar things.,,
+228f8c81-68d5-4712-892c-0829731d8035,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(beautiful, brave, hot) (composed, bold, consume)",beautiful & bold | brave & consume | brave & bold | hot & bold | beautiful & consume,brave & bold,2,'brave' and 'bold' are synonyms - they both mean similar things.,,
+2408868b-18fd-4583-aa68-72c05fdbdd4d,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(angry, strong, dirty) (soiled, inquire, gigantic)",angry & gigantic | dirty & inquire | dirty & soiled | strong & gigantic | angry & inquire,dirty & soiled,2,'dirty' and 'soiled' are synonyms - they both mean similar things.,,
+24fee199-cb39-49b7-89b6-574740ad4c3f,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, gloomy, bounty) (generous, rapid, melancholy)",swift & rapid | swift & generous | gloomy & rapid | gloomy & melancholy | bounty & generous,swift & rapid,0,"‘Swift’ and ‘rapid’ both mean moving quickly, making them synonyms.",,
+25c7fc3b-e2d8-4acb-8343-261c6c10a18e,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(say, fast, scared) (brilliant, terrified, speak)",fast & terrified | scared & terrified | say & speak | say & terrified | fast & speak,say & speak,2,'say' and 'speak' are synonyms - they both mean similar things.,,
+27c9189e-80e9-4b9d-bd08-d438a2cf296c,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, bright, silent) (swift, luminous, noisy)",rapid & swift | rapid & luminous | bright & swift | bright & noisy | silent & luminous,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,
+288488ee-446c-4fc2-a261-61b26a68f803,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, dull, bright) (fast, tedious, luminous)",swift & fast | swift & tedious | dull & fast | dull & luminous | bright & tedious,swift & fast,0,"The words 'swift' and 'fast' both mean moving quickly, making them synonyms.",,
+2c1c9af5-3e39-486b-99d1-907ec42f0fcb,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(slow, strong, eat) (dash, gradual, stroll)",strong & dash | strong & stroll | eat & gradual | slow & gradual | strong & gradual,slow & gradual,3,'slow' and 'gradual' are synonyms - they both mean similar things.,,
+34ce6893-87bf-4670-b6d4-d62523437b91,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(walk, good, weak) (tranquil, aged, wander)",walk & wander | weak & aged | good & aged | good & wander | walk & aged,walk & wander,0,'walk' and 'wander' are synonyms - they both mean similar things.,,
+358e35ca-2c32-4592-b154-2663e8765731,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(new, brave, ugly) (fresh, scorching, well-off)",brave & scorching | new & scorching | new & fresh | brave & well-off | ugly & scorching,new & fresh,2,'new' and 'fresh' are synonyms - they both mean similar things.,,
+3b2b3320-8935-4631-8796-80639e6b0c30,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, bright, silent) (quick, luminous, noisy)",rapid & quick | bright & luminous | silent & noisy | bright & quick | silent & luminous,rapid & quick,0,"‘Rapid’ and ‘quick’ both mean fast or swift, making them synonyms. The other pairs do not share the same meaning.",,
+3f72d06c-effb-4d6d-8bb5-464002884500,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, gloomy, bounty) (rapid, melancholy, abundance)",swift & rapid | swift & melancholy | gloomy & rapid | gloomy & abundance | bounty & melancholy,swift & rapid,0,"The words 'swift' and 'rapid' both mean moving or acting quickly, making them synonyms.",,
+487a57fd-40ff-442c-b78e-d85b51251bc9,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(brave, run, quiet) (dumb, fearless, contemplate)",run & dumb | run & fearless | run & contemplate | quiet & fearless | brave & fearless,brave & fearless,4,'brave' and 'fearless' are synonyms - they both mean similar things.,,
+48a77ed6-918e-4de8-9658-9e6584757da6,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(hot, clean, happy) (dehydrated, cheerful, gorgeous)",clean & gorgeous | hot & gorgeous | hot & cheerful | happy & cheerful,happy & cheerful,3,'happy' and 'cheerful' are synonyms - they both mean similar things.,,
+49d43a01-c473-4ab5-99af-02a57754901f,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(dirty, say, dirty) (needy, utter, chilly)",dirty & chilly | dirty & utter | say & chilly | dirty & utter | say & utter,say & utter,4,'say' and 'utter' are synonyms - they both mean similar things.,,
+4d9152e9-be24-46db-81fd-2fc5d2dc4293,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(begin, stupid, walk) (start, gigantic, huge)",stupid & gigantic | begin & start | walk & gigantic | begin & gigantic | stupid & huge,begin & start,1,'begin' and 'start' are synonyms - they both mean similar things.,,
+4e80f17f-2b2f-41c1-9491-939c64c9199e,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(sad, clever, dry) (smart, consume, sweltering)",clever & smart | dry & consume | sad & consume | sad & sweltering | clever & sweltering,clever & smart,0,'clever' and 'smart' are synonyms - they both mean similar things.,,
+4ff99160-fecb-42e8-97e0-35b2c786d2fc,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(wet, old, rich) (sturdy, pretty, aged)",old & aged | rich & pretty | wet & pretty | wet & aged,old & aged,0,'old' and 'aged' are synonyms - they both mean similar things.,,
+5313f84e-ed55-43b4-9ac7-dc1a1f0ec0c1,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(good, loud, bad) (terrible, swallow, smart)",bad & terrible | good & smart | good & swallow | loud & smart | bad & swallow,bad & terrible,0,'bad' and 'terrible' are synonyms - they both mean similar things.,,
+57c3f10b-0d22-4842-b5bb-87792b0302f9,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(bright, sturdy, swift) (luminous, fragile, rapid)",bright & luminous | bright & fragile | sturdy & luminous | sturdy & rapid | swift & fragile,bright & luminous,0,"‘Bright’ and ‘luminous’ both describe something that gives off a lot of light, making them synonyms.",,
+5f17bd1e-5025-44da-879a-204340726b82,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(ask, weak, hot) (delicate, livid, awful)",weak & awful | weak & delicate | hot & livid | ask & awful | ask & livid,weak & delicate,1,'weak' and 'delicate' are synonyms - they both mean similar things.,,
+60949520-bedd-463b-ace9-02ca3444e27b,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, joyful, ancient) (swift, melancholy, old)",rapid & swift | rapid & melancholy | joyful & swift | joyful & old | ancient & melancholy,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms. The other pairs do not share the same meaning.",,
+60e2f60c-cde4-4ee5-99a0-ac08445454c7,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rich, end, brave) (grubby, valiant, prosperous)",brave & valiant | end & prosperous | rich & valiant | rich & prosperous,brave & valiant,0,'brave' and 'valiant' are synonyms - they both mean similar things.,,
+627a0195-e30e-402b-9b59-65e784822fd1,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(clean, say, scared) (dejected, speak, arid)",clean & speak | say & speak | clean & arid | scared & speak | say & arid,say & speak,1,'say' and 'speak' are synonyms - they both mean similar things.,,
+66184175-f8d6-4143-84fc-45898c42319a,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(look, scared, quiet) (glance, huge, awful)",look & huge | scared & awful | scared & huge | look & glance | quiet & huge,look & glance,3,'look' and 'glance' are synonyms - they both mean similar things.,,
+69043e11-0bed-4953-965e-56e184a2df53,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, gentle, ancient) (swift, kind, old)",rapid & swift | rapid & kind | gentle & swift | gentle & old | ancient & kind,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms. The other pairings do not share the same meaning.",,
+6b9e9767-b489-4c88-bfdb-ce9598aa245e,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, barren, glee) (fast, arid, joy)",swift & fast | swift & arid | barren & fast | barren & joy | glee & arid,swift & fast,0,"‘Swift’ and ‘fast’ both mean moving quickly, making them synonyms.",,
+6cd58bc9-baeb-4329-bad8-7fcd7ab9ee1f,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(calm, run, end) (declare, unhappy, conclude)",end & conclude | end & unhappy | calm & unhappy | run & conclude | calm & conclude,end & conclude,0,'end' and 'conclude' are synonyms - they both mean similar things.,,
+6dcb9614-31ea-478c-a147-8458aec65793,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, bright, silent) (quick, loud, dull)",rapid & quick | rapid & loud | bright & quick | bright & dull | silent & loud,rapid & quick,0,"‘Rapid’ and ‘quick’ both mean fast or moving with speed, making them synonyms.",,
+72312b59-dfd5-461b-bc7e-82f5b54dda53,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(bright, swift, ancient) (rapid, old, dull)",bright & old | bright & rapid | swift & old | swift & rapid | ancient & dull,swift & rapid,3,"‘Swift’ and ‘rapid’ both mean moving quickly, making them synonyms.",,
+72921d96-e47b-48b0-bc48-205c0e6d4272,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(end, beautiful, walk) (gorgeous, peaceful, stunning)",end & stunning | end & peaceful | beautiful & stunning | walk & peaceful,beautiful & stunning,2,'beautiful' and 'stunning' are synonyms - they both mean similar things.,,
+7615549e-e270-45d8-b14f-77c03cec6fbc,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(drink, old, hot) (composed, sweltering, feeble)",drink & sweltering | hot & sweltering | drink & feeble | old & feeble,hot & sweltering,1,'hot' and 'sweltering' are synonyms - they both mean similar things.,,
+7b9178f4-3275-4331-a6a2-ad42b0b840d2,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(bright, rapid, ancient) (swift, old, dull)",rapid & swift | bright & old | ancient & swift | bright & dull | ancient & old,rapid & swift,0,"The words 'rapid' and 'swift' both mean moving quickly, making them synonyms.",,
+7dd864ef-12b8-40e9-9ea6-e078d0d0d693,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, gloomy, tiny) (rapid, cheerful, minute)",swift & rapid | swift & cheerful | gloomy & rapid | gloomy & minute | tiny & cheerful,swift & rapid,0,"‘Swift’ and ‘rapid’ both mean moving quickly, making them synonyms.",,
+7ff424c5-dc12-4b08-b58f-bdb67d99834c,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, diligent, gloomy) (swift, meticulous, cheerful)",rapid & swift | rapid & meticulous | diligent & swift | diligent & cheerful | gloomy & meticulous,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,
+812a598f-6f51-4a29-92aa-67fa7434134c,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, bright, ancient) (swift, luminous, old)",rapid & swift | rapid & luminous | bright & swift | bright & old | ancient & luminous,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,
+83a13369-720a-4980-ba0a-a9357fc3f145,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(wet, scared, poor) (soggy, horrible, dehydrated)",wet & horrible | wet & soggy | poor & horrible | scared & horrible | scared & dehydrated,wet & soggy,1,'wet' and 'soggy' are synonyms - they both mean similar things.,,
+8d7316d3-6ad1-47d1-967d-52d33bd1a2b8,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(weak, new, say) (affluent, minute, state)",say & state | new & state | weak & state | weak & minute | say & minute,say & state,0,'say' and 'state' are synonyms - they both mean similar things.,,
+8e254088-c768-447f-999d-641eae101529,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(small, look, eat) (unattractive, wander, munch)",eat & wander | small & munch | eat & munch | look & munch | small & wander,eat & munch,2,'eat' and 'munch' are synonyms - they both mean similar things.,,
+8f931d38-88f5-4e28-b820-a4f19e750e48,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(look, cold, loud) (minute, inquire, peer)",look & inquire | look & peer | cold & inquire | loud & inquire | cold & peer,look & peer,1,'look' and 'peer' are synonyms - they both mean similar things.,,
+93c53b6d-5753-44fb-8a14-c8e7d043c773,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(eat, think, look) (wonderful, munch, ancient)",eat & munch | think & munch | look & munch | think & ancient | think & wonderful,eat & munch,0,'eat' and 'munch' are synonyms - they both mean similar things.,,
+94a00d4d-4f9e-463f-92e0-41249e858156,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(weak, stupid, brave) (foolish, superb, miniature)",stupid & miniature | weak & superb | brave & superb | stupid & foolish | weak & miniature,stupid & foolish,3,'stupid' and 'foolish' are synonyms - they both mean similar things.,,
+987ce823-4128-41e5-b816-8b17a57b4397,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(end, drink, dirty) (complete, start, tranquil)",end & complete | drink & tranquil | end & start | drink & start | dirty & start,end & complete,0,'end' and 'complete' are synonyms - they both mean similar things.,,
+9a46b48a-20ca-4d3e-8990-f8a20e431ee3,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(run, think, dirty) (fresh, ponder, livid)",think & ponder | run & ponder | think & livid | dirty & ponder | run & livid,think & ponder,0,'think' and 'ponder' are synonyms - they both mean similar things.,,
+a025e2d5-000b-40ee-bde1-d889114ac96d,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(stupid, clever, quiet) (initiate, tidy, idiotic)",quiet & tidy | clever & idiotic | stupid & tidy | stupid & idiotic | clever & tidy,stupid & idiotic,3,'stupid' and 'idiotic' are synonyms - they both mean similar things.,,
+a04acfa0-5d10-4d1e-8625-c4dc3926411e,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(new, calm, ask) (launch, inquire, damp)",new & inquire | new & damp | ask & inquire | calm & damp,ask & inquire,2,'ask' and 'inquire' are synonyms - they both mean similar things.,,
+a152c870-d71e-4080-870c-a6b45fbd4ca1,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, ancient, gleeful) (swift, old-fashioned, joyful)",rapid & swift | ancient & old-fashioned | gleeful & joyful | rapid & old-fashioned | ancient & swift,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,
+a1d3d1ae-361e-4388-8960-834a83d6f091,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, gloomy, ancient) (rapid, cheerful, old)",swift & rapid | swift & cheerful | gloomy & rapid | gloomy & old | ancient & cheerful,swift & rapid,0,"‘Swift’ and ‘rapid’ both mean moving quickly, making them synonyms.",,
+a4d3690c-a0fc-4aef-a078-5a1922fc833a,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, ancient, joyful) (swift, elderly, sad)",rapid & swift | ancient & elderly | joyful & sad | rapid & elderly | ancient & swift,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving or acting quickly, making them synonyms.",,
+a930cf54-f3d5-4faf-9558-8c20fcb43e81,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(calm, wet, bad) (serene, intelligent, freezing)",calm & intelligent | wet & freezing | calm & serene | wet & intelligent | bad & intelligent,calm & serene,2,'calm' and 'serene' are synonyms - they both mean similar things.,,
+aa963a4b-a19f-47ea-aeb0-a85ebcdad92f,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(wet, brave, fast) (swift, soggy, huge)",brave & huge | wet & soggy | fast & soggy | wet & huge | fast & swift,fast & swift,4,'fast' and 'swift' are synonyms - they both mean similar things.,,
+aafc9b6d-4b2d-460f-9736-ed1fc2cbf5a5,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(happy, swift, ancient) (joyful, rapid, modern)",happy & joyful | happy & rapid | swift & joyful | swift & modern | ancient & rapid,happy & joyful,0,"‘Happy’ and ‘joyful’ both describe a feeling of pleasure or contentment, making them synonyms.",,
+adf03082-d728-4f08-bd58-80ac7887ad8d,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, gloomy, generous) (swift, cheerful, stingy)",rapid & swift | rapid & cheerful | gloomy & swift | gloomy & stingy | generous & cheerful,rapid & swift,0,These words are synonyms because 'rapid' and 'swift' both mean moving or acting quickly.,,
+b53bff0e-6ec6-4485-b3f7-f964209e8616,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, gentle, obscure) (swift, harsh, vague)",rapid & swift | rapid & harsh | gentle & swift | gentle & vague | obscure & harsh,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving or acting quickly, making them synonyms.",,
+b74f035f-fe77-471e-9966-7cd5caf5095d,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(clever, drink, fast) (filthy, gulp, enormous)",clever & gulp | clever & enormous | drink & gulp | fast & gulp | drink & enormous,drink & gulp,2,'drink' and 'gulp' are synonyms - they both mean similar things.,,
+b9d856ad-0844-4e5a-845d-e46c3c7446d4,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(angry, dry, beautiful) (gorgeous, delighted, finish)",angry & finish | angry & delighted | dry & finish | beautiful & gorgeous | beautiful & delighted,beautiful & gorgeous,3,'beautiful' and 'gorgeous' are synonyms - they both mean similar things.,,
+baf4c74c-6907-4b7f-a1ca-7385b06494c8,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(dry, old, clean) (arid, grotesque, lovely)",clean & grotesque | old & lovely | dry & arid | dry & grotesque | old & grotesque,dry & arid,2,'dry' and 'arid' are synonyms - they both mean similar things.,,
+bbc139fa-e236-4254-8229-308d8b4ada00,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(run, strong, walk) (wander, inquire, noisy)",run & inquire | walk & wander | run & noisy | strong & noisy | walk & inquire,walk & wander,1,'walk' and 'wander' are synonyms - they both mean similar things.,,
+bdf82a89-f34a-4059-8685-7fa404819e45,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(poor, weak, clean) (needy, dehydrated, boiling)",poor & needy | clean & dehydrated | poor & dehydrated | weak & dehydrated | weak & boiling,poor & needy,0,'poor' and 'needy' are synonyms - they both mean similar things.,,
+c12ea82a-5b1c-4a31-bd54-c744be8081a4,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(brisk, gloomy, tremor) (rapid, somber, quake)",brisk & rapid | brisk & somber | gloomy & rapid | gloomy & quake | tremor & somber,brisk & rapid,0,"‘Brisk’ and ‘rapid’ both mean quick or fast, making them synonyms. The other pairings do not share the same meaning.",,
+cf3f8fe3-bc8b-498d-b5b5-7eb49fe2df7e,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(slow, poor, sad) (unhurried, serene, amble)",slow & serene | poor & serene | sad & serene | slow & unhurried | poor & amble,slow & unhurried,3,'slow' and 'unhurried' are synonyms - they both mean similar things.,,
+d02ea7c8-7cbc-40bd-a8aa-4662f1d30a2b,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, ancient, bright) (rapid, old, luminous)",swift & rapid | swift & old | ancient & rapid | ancient & luminous | bright & old,swift & rapid,0,"‘Swift’ and ‘rapid’ both mean moving quickly, making them synonyms.",,
+d062f8c6-8b21-498c-82c7-56caf9101edb,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, barren, gleam) (rapid, desolate, shine)",swift & rapid | swift & desolate | barren & rapid | barren & shine | gleam & desolate,swift & rapid,0,"The words 'swift' and 'rapid' both mean moving quickly, making them synonyms.",,
+d68c820c-ebc9-4a5e-857a-45c4ab69ec16,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, gleeful, ancient) (swift, joyful, old)",rapid & swift | rapid & joyful | gleeful & swift | gleeful & old | ancient & joyful,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,
+d9c33867-00f3-49b0-91fb-179cfd66bb1c,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(happy, sad, angry) (joyful, upset, calm)",happy & joyful | happy & upset | sad & joyful | angry & calm | sad & upset,happy & joyful,0,Happy and joyful are synonyms - they both mean feeling pleasure or contentment.,,
+dc1a1e11-0c24-4836-ab66-b9c87c9ccfcb,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(eat, look, brave) (smart, dine, conclude)",look & dine | eat & dine | look & conclude | look & smart | brave & dine,eat & dine,1,'eat' and 'dine' are synonyms - they both mean similar things.,,
+dcb4b84a-7b4a-41b8-bd62-8d891d960d1e,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, dull, tiny) (swift, bland, minute)",rapid & swift | rapid & bland | dull & swift | dull & minute | tiny & bland,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,
+e3479103-1698-4b2d-89ad-b96c6a3b99cd,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(run, clean, scared) (arid, afraid, courageous)",clean & courageous | scared & afraid | run & afraid | run & courageous,scared & afraid,1,'scared' and 'afraid' are synonyms - they both mean similar things.,,
+e36d53f9-510e-4eb1-afbe-7028d3eea637,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(say, calm, clever) (state, fearless, still)",calm & fearless | say & fearless | say & state | clever & fearless | calm & still,say & state,2,'say' and 'state' are synonyms - they both mean similar things.,,
+e3c3d84e-3fe8-447b-8a26-62381477b48f,verbal_reasoning,synonyms,2,"Find two words, one from each group, that are closest in meaning.
+(ugly, clever, hot) (wealthy, cheerful, hideous)",clever & cheerful | hot & cheerful | clever & hideous | ugly & cheerful | ugly & hideous,ugly & hideous,4,'ugly' and 'hideous' are synonyms - they both mean similar things.,,
+e3f28b0e-4f64-4325-870c-aee1fbcb14f1,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(end, wet, brave) (fearless, frail, courageous)",end & courageous | brave & courageous | wet & courageous | brave & frail | end & frail,brave & courageous,1,'brave' and 'courageous' are synonyms - they both mean similar things.,,
+e9428bd4-5f4c-479b-a31a-0761b36b3e02,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(happy, angry, wet) (glad, miserable, hushed)",angry & miserable | angry & hushed | wet & miserable | happy & miserable | happy & glad,happy & glad,4,'happy' and 'glad' are synonyms - they both mean similar things.,,
+f023fb4d-e719-455f-94f0-da85e4c5d8d3,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(swift, ancient, barren) (rapid, modern, fertile)",swift & rapid | swift & modern | ancient & rapid | ancient & fertile | barren & modern,swift & rapid,0,"The words 'swift' and 'rapid' both mean moving quickly, making them synonyms.",,
+f8f9325f-3291-4130-81ef-ae2eee3af282,verbal_reasoning,synonyms,3,"Find two words, one from each group, that are closest in meaning.
+(rapid, gleeful, ancient) (swift, joyful, old)",rapid & swift | rapid & joyful | gleeful & swift | gleeful & old | ancient & joyful,rapid & swift,0,"‘Rapid’ and ‘swift’ both mean moving quickly, making them synonyms.",,

@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import { ClerkProvider } from "@clerk/nextjs";
 import { GlobalProvider } from "@/context/GlobalContext";
 import ThemeScript from "@/components/ThemeScript";
 import LayoutWrapper from "@/components/LayoutWrapper";
@@ -14,8 +13,8 @@ const font = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "11+ Tutor - AI-Powered Grammar School Prep",
-  description: "Free AI-powered 11+ exam preparation for grammar school entrance. Practice verbal reasoning, maths, and more.",
+  title: "11+ Tutor - Free AI-Powered Grammar School Prep",
+  description: "Free, open-source AI-powered 11+ exam preparation for grammar school entrance. Practice verbal reasoning, maths, and more.",
 };
 
 export default function RootLayout({
@@ -24,17 +23,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <ClerkProvider>
-      <html lang="en" suppressHydrationWarning>
-        <head>
-          <ThemeScript />
-        </head>
-        <body className={font.className}>
-          <GlobalProvider>
-            <LayoutWrapper>{children}</LayoutWrapper>
-          </GlobalProvider>
-        </body>
-      </html>
-    </ClerkProvider>
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <ThemeScript />
+      </head>
+      <body className={font.className}>
+        <GlobalProvider>
+          <LayoutWrapper>{children}</LayoutWrapper>
+        </GlobalProvider>
+      </body>
+    </html>
   );
 }

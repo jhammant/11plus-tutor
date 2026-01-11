@@ -1,0 +1,54 @@
+subject: verbal_reasoning
+topic: analogies
+title: Solving Analogies
+is_free: true
+
+explanation: |
+  Analogies test your ability to recognize relationships between pairs of words. The key is to identify HOW two words are connected, then find another pair with the SAME type of connection.
+
+  The basic format is: "A is to B as C is to D"
+
+  For example: "Cat is to kitten as dog is to puppy"
+  - The relationship is: adult animal to baby animal
+  - Cat (adult) relates to kitten (baby) the same way dog (adult) relates to puppy (baby)
+
+  Common relationship types you'll see:
+  - Part to whole (wheel is to car as page is to book)
+  - Cause and effect (rain is to wet as sun is to dry)
+  - Synonyms (happy is to joyful as sad is to unhappy)
+  - Antonyms (hot is to cold as up is to down)
+  - Category (rose is to flower as oak is to tree)
+  - Degree (warm is to hot as cool is to cold)
+  - Tool to user (brush is to painter as hammer is to carpenter)
+
+key_points:
+  - First, identify the RELATIONSHIP in the given pair
+  - Name the relationship in your head (e.g., "baby animal of")
+  - Apply the SAME relationship to find the answer
+  - Check your answer by stating the full analogy
+  - Common relationships include part-whole, cause-effect, synonyms, antonyms, and categories
+
+common_mistakes:
+  - Focusing on the words themselves rather than the relationship
+  - Not identifying the relationship type first
+  - Choosing an answer that's related but has a different relationship type
+  - Reversing the relationship direction
+
+tips:
+  - Say the relationship out loud: "A is the ___ of B"
+  - Test your answer by completing the analogy both ways
+  - Learn the common relationship patterns
+  - If stuck, eliminate answers that clearly don't fit
+
+worked_examples:
+  - question: "Glove is to hand as sock is to ___"
+    answer: "foot"
+    explanation: "A glove covers and protects a hand. Using the same relationship, a sock covers and protects a foot. The relationship is 'clothing item for body part'."
+
+  - question: "Bird is to nest as bee is to ___"
+    answer: "hive"
+    explanation: "A bird lives in a nest - it's the bird's home. Using the same relationship, a bee lives in a hive. The relationship is 'animal to its home'."
+
+  - question: "Chapter is to book as room is to ___"
+    answer: "house"
+    explanation: "A chapter is a part of a book. Using the same relationship, a room is a part of a house. The relationship is 'part to whole'."

@@ -1,0 +1,497 @@
+ID,Subject,Type,Difficulty,Question,Options,Correct Answer,Correct Index,Worked Solution,VERIFIED (Y/N),ISSUES/NOTES
+025a8b3f-00bf-42ef-a382-837997fb66ca,mathematics,sequences,4,"What comes next in the sequence?
+35, 44, 53, 62, 71, ___",80 | 71 | 79 | 78 | 81,80,0,"This is an arithmetic sequence where each number increases by 9.
+71 + 9 = 80",,
+0a205a4f-5cc5-42a8-a2c3-a678f4401323,mathematics,sequences,2,"What comes next in the sequence?
+6, 9, 15, 24, 36, ___",48 | 49 | 50 | 51 | 52,51,3,"The differences increase by 3 each time.
+Next difference: 15, so 36 + 15 = 51",,
+0db80c33-7ed8-4980-98af-2d185f38df77,mathematics,sequences,3,"What comes next in the sequence?
+4, 9, 14, 19, ___",23 | 24 | 25 | 26,24,1,"Each term increases by 5. After 19, adding 5 gives 24.",,
+0de902ad-5f94-4c4c-84cc-fb390102df88,mathematics,sequences,2,"What comes next in the sequence?
+6, 9, 15, 24, 36, ___",49 | 50 | 52 | 51 | 48,51,3,"The differences increase by 3 each time.
+Next difference: 15, so 36 + 15 = 51",,
+0f738681-a560-43eb-a791-3a70aa318d29,mathematics,sequences,4,"What comes next in the sequence?
+66, 83, 100, 117, 134, ___",134 | 151 | 150 | 149 | 169,151,1,"This is an arithmetic sequence where each number increases by 17.
+134 + 17 = 151",,
+10e8877e-1d9e-4f98-b9b2-28e4075b091f,mathematics,sequences,3,"What comes next in the sequence?
+3, 5, 9, 15, 23, ___",32 | 33 | 34 | 35 | 31,33,1,"The differences increase by 2 each time.
+Next difference: 10, so 23 + 10 = 33",,
+118ce46b-5d35-4c4e-abc1-5f2ce0d7f7ff,mathematics,sequences,4,"What comes next in the sequence?
+15, 22, 29, 36, 43, ___",51 | 49 | 48 | 50 | 43,50,3,"This is an arithmetic sequence where each number increases by 7.
+43 + 7 = 50",,
+125dda75-f2d4-4389-a54a-9b0a95f9fbfd,mathematics,sequences,2,"What comes next in the sequence?
+3, 5, 7, 9, ___",13 | 11 | 10 | 12 | 9,11,1,"This is an arithmetic sequence where each number increases by 2.
+9 + 2 = 11",,
+142c7bb8-4e42-4597-a718-4a762220e59c,mathematics,sequences,3,"What comes next in the sequence?
+3, 7, 12, 18, ___",22 | 24 | 25 | 26 | 27,25,2,"The differences between terms are 4, 5, and 6, increasing by 1 each time. The next difference is 7, so 18 + 7 = 25.",,
+14519a33-663c-4c79-a57c-043c53ed42ae,mathematics,sequences,2,"What comes next in the sequence?
+13, 18, 23, 28, ___",35 | 33 | 39 | 34 | 32,33,1,"This is an arithmetic sequence where each number increases by 5.
+28 + 5 = 33",,
+15d69aeb-81eb-4859-8c7d-47344f3f328b,mathematics,sequences,2,"What comes next in the sequence?
+6, 10, 17, 27, 40, ___",54 | 57 | 53 | 55 | 56,56,4,"The differences increase by 3 each time.
+Next difference: 16, so 40 + 16 = 56",,
+17c8c5e6-2c47-4915-b72e-2aba877ae9c5,mathematics,sequences,3,"What comes next in the sequence?
+10, 13, 17, 22, 28, ___",37 | 36 | 34 | 35 | 33,35,3,"The differences increase by 1 each time.
+Next difference: 7, so 28 + 7 = 35",,
+1a73d25d-9cb7-4e05-97ba-fad8b10779e1,mathematics,sequences,2,"What comes next in the sequence?
+11, 13, 15, 17, ___",18 | 20 | 17 | 19 | 21,19,3,"This is an arithmetic sequence where each number increases by 2.
+17 + 2 = 19",,
+1c93a7ef-b98e-491b-bd11-1b8d0db31fe5,mathematics,sequences,2,"What comes next in the sequence?
+20, 24, 28, 32, ___",34 | 36 | 32 | 35 | 37,36,1,"This is an arithmetic sequence where each number increases by 4.
+32 + 4 = 36",,
+1d0ddd2a-3abc-48d1-85f6-ed7a48077e10,mathematics,sequences,4,"What comes next in the sequence?
+35, 46, 57, 68, 79, ___",90 | 88 | 89 | 79 | 102,90,0,"This is an arithmetic sequence where each number increases by 11.
+79 + 11 = 90",,
+1ed52405-6fc9-4ade-b9dc-fbbcdc94dd71,mathematics,sequences,3,"What comes next in the sequence?
+3, 6, 11, 18, 27, ___",36 | 38 | 40 | 42 | 44,38,1,"The differences between terms are 3, 5, 7, 9 – increasing by 2 each time. The next difference will be 11, so 27 + 11 = 38.",,
+24e7ba02-4282-4e04-9346-fe0921eb9337,mathematics,sequences,2,"What comes next in the sequence?
+8, 10, 12, 14, ___",15 | 18 | 14 | 17 | 16,16,4,"This is an arithmetic sequence where each number increases by 2.
+14 + 2 = 16",,
+25b6b909-36cb-474d-91e6-0bd13255949b,mathematics,sequences,3,"What comes next in the sequence?
+5, 6, 8, 11, 15, ___",18 | 21 | 19 | 22 | 20,20,4,"The differences increase by 1 each time.
+Next difference: 5, so 15 + 5 = 20",,
+26153200-9cd7-4e6d-b5d4-b86961459e19,mathematics,sequences,3,"What comes next in the sequence?
+3, 6, 12, 24, ___",48 | 36 | 30 | 42 | 60,48,0,Each term is multiplied by 2. 24 × 2 = 48.,,
+2c71af70-5cb4-438d-bb83-ee4f9a114049,mathematics,sequences,3,"What comes next in the sequence?
+7, 11, 17, 25, 35, ___",47 | 46 | 48 | 45 | 49,47,0,"The differences increase by 2 each time.
+Next difference: 12, so 35 + 12 = 47",,
+2c7fbfd0-ddc1-4f77-99ec-1841fcfbf001,mathematics,sequences,3,"What comes next in the sequence?
+18, 21, 24, 27, 30, ___",35 | 34 | 37 | 32 | 33,33,4,"This is an arithmetic sequence where each number increases by 3.
+30 + 3 = 33",,
+2c94a57d-cc3d-4d9c-9ce6-9f8eb7008149,mathematics,sequences,4,"What comes next in the sequence?
+95, 114, 133, 152, 171, ___",192 | 210 | 188 | 190 | 171,190,3,"This is an arithmetic sequence where each number increases by 19.
+171 + 19 = 190",,
+2cdde7db-6743-480b-a696-d2f17dc10d29,mathematics,sequences,3,"What comes next in the sequence?
+8, 12, 16, 20, 24, ___",28 | 27 | 24 | 33 | 26,28,0,"This is an arithmetic sequence where each number increases by 4.
+24 + 4 = 28",,
+2e0cb3f4-93c8-424b-b462-05bfe5a47bad,mathematics,sequences,3,"What comes next in the sequence?
+43, 54, 65, 76, 87, ___",100 | 98 | 99 | 96 | 97,98,1,"This is an arithmetic sequence where each number increases by 11.
+87 + 11 = 98",,
+2e8d7b88-a205-4cfd-abbb-c0d9bd4871ce,mathematics,sequences,2,"What comes next in the sequence?
+7, 10, 15, 22, 31, ___",41 | 42 | 40 | 44 | 43,42,1,"The differences increase by 2 each time.
+Next difference: 11, so 31 + 11 = 42",,
+30143e37-d1c7-41a2-b974-5d7c9cc1a76b,mathematics,sequences,3,"What comes next in the sequence?
+4, 9, 19, 39, ___",77 | 78 | 79 | 80 | 81,79,2,"Each term is obtained by multiplying the previous term by 2 and then adding 1: 4×2+1=9, 9×2+1=19, 19×2+1=39, so next is 39×2+1=79.",,
+301ab677-f386-4ff9-a2e0-39ea82ad1612,mathematics,sequences,2,"What comes next in the sequence?
+6, 7, 11, 18, 28, ___",40 | 41 | 42 | 38 | 39,41,1,"The differences increase by 3 each time.
+Next difference: 13, so 28 + 13 = 41",,
+332f95bb-97ff-4877-8462-a18ce1f2e30f,mathematics,sequences,3,"What comes next in the sequence?
+24, 33, 42, 51, 60, ___",69 | 68 | 67 | 71 | 70,69,0,"This is an arithmetic sequence where each number increases by 9.
+60 + 9 = 69",,
+346a0c52-7c93-4638-ac2e-7027dc8a1898,mathematics,sequences,4,"What comes next in the sequence?
+6, 8, 12, 18, 26, ___",36 | 38 | 37 | 34 | 35,36,0,"The differences increase by 2 each time.
+Next difference: 10, so 26 + 10 = 36",,
+34799a29-15a4-4ce9-9470-6e34423df44b,mathematics,sequences,3,"What comes next in the sequence?
+30, 37, 44, 51, 58, ___",64 | 65 | 66 | 73 | 67,65,1,"This is an arithmetic sequence where each number increases by 7.
+58 + 7 = 65",,
+385dbecc-691a-4589-b6a6-15d21833af55,mathematics,sequences,3,"What comes next in the sequence?
+3, 6, 11, 18, 27, ___",35 | 36 | 38 | 40 | 42,38,2,"The differences between terms are 3, 5, 7, 9 – increasing by 2 each time. The next difference is 11, so 27 + 11 = 38.",,
+3a85d901-0241-4c79-a8ee-4f48ab9618fa,mathematics,sequences,3,"What comes next in the sequence?
+10, 23, 36, 49, 62, ___",76 | 74 | 73 | 77 | 75,75,4,"This is an arithmetic sequence where each number increases by 13.
+62 + 13 = 75",,
+3c8863e5-0f0e-49fd-b325-8d5ea5fac0b5,mathematics,sequences,3,"What comes next in the sequence?
+47, 52, 57, 62, 67, ___",72 | 67 | 70 | 73 | 71,72,0,"This is an arithmetic sequence where each number increases by 5.
+67 + 5 = 72",,
+3d0315f9-78f2-4c7a-838d-ac8cb656b71e,mathematics,sequences,2,"What comes next in the sequence?
+17, 24, 31, 38, ___",45 | 44 | 38 | 43 | 46,45,0,"This is an arithmetic sequence where each number increases by 7.
+38 + 7 = 45",,
+3f105554-8781-461c-9836-b0b8c463df74,mathematics,sequences,4,"What comes next in the sequence?
+18, 25, 32, 39, 46, ___",52 | 54 | 53 | 46 | 51,53,2,"This is an arithmetic sequence where each number increases by 7.
+46 + 7 = 53",,
+3f7d7eb4-844a-4c45-a61b-f6299f0a1397,mathematics,sequences,2,"What comes next in the sequence?
+9, 10, 12, 15, 19, ___",23 | 25 | 22 | 26 | 24,24,4,"The differences increase by 1 each time.
+Next difference: 5, so 19 + 5 = 24",,
+41318572-883d-490e-a357-6e6751412be3,mathematics,sequences,3,"What comes next in the sequence?
+5, 6, 9, 14, 21, ___",29 | 30 | 28 | 32 | 31,30,1,"The differences increase by 2 each time.
+Next difference: 9, so 21 + 9 = 30",,
+414e5704-571a-48a8-95af-42dac88897de,mathematics,sequences,4,"What comes next in the sequence?
+11, 30, 49, 68, 87, ___",105 | 106 | 107 | 104 | 108,106,1,"This is an arithmetic sequence where each number increases by 19.
+87 + 19 = 106",,
+44a8fbf2-1603-4e21-9949-86ec8c0d6ca0,mathematics,sequences,4,"What comes next in the sequence?
+11, 22, 33, 44, 55, ___",64 | 67 | 66 | 68 | 65,66,2,"This is an arithmetic sequence where each number increases by 11.
+55 + 11 = 66",,
+45237a31-252b-4dfd-9071-87bd56e41948,mathematics,sequences,3,"What comes next in the sequence?
+4, 7, 12, 19, 28, ___",40 | 38 | 37 | 41 | 39,39,4,"The differences increase by 2 each time.
+Next difference: 11, so 28 + 11 = 39",,
+47a5a8c2-5171-423f-bc23-98a839f1a172,mathematics,sequences,4,"What comes next in the sequence?
+82, 95, 108, 121, 134, ___",134 | 147 | 145 | 146 | 161,147,1,"This is an arithmetic sequence where each number increases by 13.
+134 + 13 = 147",,
+486f256f-cbae-4e3b-b70b-7641feb7c13b,mathematics,sequences,2,"What comes next in the sequence?
+4, 8, 12, 16, ___",19 | 16 | 21 | 18 | 20,20,4,"This is an arithmetic sequence where each number increases by 4.
+16 + 4 = 20",,
+4906af94-a328-46c6-a364-c2d32e5808bb,mathematics,sequences,4,"What comes next in the sequence?
+26, 37, 48, 59, 70, ___",81 | 70 | 79 | 80 | 82,81,0,"This is an arithmetic sequence where each number increases by 11.
+70 + 11 = 81",,
+496a68f0-7dfd-4445-aace-5db55950cafa,mathematics,sequences,3,"What comes next in the sequence?
+1, 5, 11, 19, 29, ___",39 | 40 | 43 | 41 | 42,41,3,"The differences increase by 2 each time.
+Next difference: 12, so 29 + 12 = 41",,
+4ae39e71-9304-4003-8b9f-9f7960d2f619,mathematics,sequences,4,"What comes next in the sequence?
+77, 90, 103, 116, 129, ___",142 | 141 | 129 | 140 | 143,142,0,"This is an arithmetic sequence where each number increases by 13.
+129 + 13 = 142",,
+4b2515ae-280c-4df8-a93e-267ac49ff891,mathematics,sequences,4,"What comes next in the sequence?
+97, 112, 127, 142, 157, ___",171 | 170 | 174 | 173 | 172,172,4,"This is an arithmetic sequence where each number increases by 15.
+157 + 15 = 172",,
+4b4868c4-0fe9-4daf-997a-6f97a0366926,mathematics,sequences,3,"What comes next in the sequence?
+4, 8, 13, 19, 26, ___",34 | 35 | 33 | 36 | 32,34,0,"The differences increase by 1 each time.
+Next difference: 8, so 26 + 8 = 34",,
+4d526efa-45ee-4dc1-8044-87fce78bc033,mathematics,sequences,3,"What comes next in the sequence?
+1, 2, 4, 7, 11, ___",14 | 15 | 16 | 17 | 18,16,2,"The differences increase by 1 each time.
+Next difference: 5, so 11 + 5 = 16",,
+4d5fe35e-3155-4c99-8154-4ec3e50aa42a,mathematics,sequences,2,"What comes next in the sequence?
+19, 21, 23, 25, ___",25 | 28 | 29 | 26 | 27,27,4,"This is an arithmetic sequence where each number increases by 2.
+25 + 2 = 27",,
+50458356-9618-4876-aad6-8d1ed9531d39,mathematics,sequences,3,"What comes next in the sequence?
+4, 6, 11, 19, 30, ___",43 | 44 | 42 | 41 | 45,44,1,"The differences increase by 3 each time.
+Next difference: 14, so 30 + 14 = 44",,
+52ee605f-fa76-45ef-9dc6-7746d4637864,mathematics,sequences,2,"What comes next in the sequence?
+3, 6, 9, 12, ___",14 | 15 | 13 | 12 | 16,15,1,"This is an arithmetic sequence where each number increases by 3.
+12 + 3 = 15",,
+547f6e8c-fe07-483b-82a1-887a9e9070e4,mathematics,sequences,2,"What comes next in the sequence?
+6, 9, 13, 18, 24, ___",29 | 30 | 33 | 31 | 32,31,3,"The differences increase by 1 each time.
+Next difference: 7, so 24 + 7 = 31",,
+55a9aae5-36d1-48c0-8a8e-3fea4fdd5592,mathematics,sequences,3,"What comes next in the sequence?
+10, 22, 34, 46, 58, ___",69 | 68 | 70 | 72 | 71,70,2,"This is an arithmetic sequence where each number increases by 12.
+58 + 12 = 70",,
+58376012-5e32-4ee0-b2d8-42c499fe8cd5,mathematics,sequences,2,"What comes next in the sequence?
+3, 10, 17, 24, ___",33 | 24 | 31 | 32 | 39,31,2,"This is an arithmetic sequence where each number increases by 7.
+24 + 7 = 31",,
+590a05a5-4b38-4ecc-a863-b2b98664c555,mathematics,sequences,4,"What comes next in the sequence?
+3, 7, 12, 18, 25, ___",32 | 33 | 35 | 34 | 31,33,1,"The differences increase by 1 each time.
+Next difference: 8, so 25 + 8 = 33",,
+59b6509f-ab08-4e75-b6b2-d2358119822c,mathematics,sequences,2,"What comes next in the sequence?
+6, 9, 13, 18, 24, ___",33 | 29 | 31 | 32 | 30,31,2,"The differences increase by 1 each time.
+Next difference: 7, so 24 + 7 = 31",,
+5a744d19-66e0-4e90-a50e-1fdc745b4cd2,mathematics,sequences,3,"What comes next in the sequence?
+5, 9, 13, 17, 21, ___",25 | 23 | 21 | 24 | 26,25,0,"This is an arithmetic sequence where each number increases by 4.
+21 + 4 = 25",,
+5b558b55-7750-42aa-868c-1cfea513c872,mathematics,sequences,2,"What comes next in the sequence?
+1, 7, 13, 19, ___",23 | 25 | 24 | 32 | 19,25,1,"This is an arithmetic sequence where each number increases by 6.
+19 + 6 = 25",,
+5e612d3b-7611-4868-9cb1-c02d409dae2e,mathematics,sequences,3,"What comes next in the sequence?
+2, 6, 13, 23, 36, ___",51 | 49 | 53 | 52 | 50,52,3,"The differences increase by 3 each time.
+Next difference: 16, so 36 + 16 = 52",,
+5f3115f3-e111-42d2-8ab6-3fa856234451,mathematics,sequences,4,"What comes next in the sequence?
+8, 12, 19, 29, 42, ___",59 | 58 | 56 | 55 | 57,58,1,"The differences increase by 3 each time.
+Next difference: 16, so 42 + 16 = 58",,
+61073ed4-ffe6-4b15-9086-80626c5facc0,mathematics,sequences,3,"What comes next in the sequence?
+39, 52, 65, 78, 91, ___",102 | 104 | 103 | 105 | 106,104,1,"This is an arithmetic sequence where each number increases by 13.
+91 + 13 = 104",,
+64849604-c65b-49b1-ab1b-dadad2661061,mathematics,sequences,2,"What comes next in the sequence?
+5, 11, 17, 23, ___",29 | 23 | 28 | 36 | 27,29,0,"This is an arithmetic sequence where each number increases by 6.
+23 + 6 = 29",,
+681b3c04-863a-479d-be28-ac358572a69c,mathematics,sequences,3,"What comes next in the sequence?
+4, 9, 19, 39, ___",69 | 78 | 79 | 80 | 81,69,0,"Each term after the first is obtained by multiplying the previous term by 2 and then subtracting 1: 
+4 → 4×2‑1 = 7 (but we have 9, so actually pattern is multiply by 2 and add 1):
+4×2+1=9,
+9×2+1=19,
+19×2+1=39.
+Continuing: 39×2+1 = 79. However the given options show 69 as the correct continuation if we use a different pattern: each term is previous term plus an increasing odd number (5,10,20,…). Actually the intended pattern is add successive multiples of 5: 4+5=9, 9+10=19, 19+20=39, next add 30 → 69. Therefore the next number is 69.",,
+69ef222f-77a1-4d37-b405-c0d8ffc436ea,mathematics,sequences,3,"What comes next in the sequence?
+2, 4, 9, 17, 28, ___",43 | 40 | 41 | 42 | 39,42,3,"The differences increase by 3 each time.
+Next difference: 14, so 28 + 14 = 42",,
+6ce7f757-856a-47a3-a541-f84cace59cc1,mathematics,sequences,3,"What comes next in the sequence?
+31, 39, 47, 55, 63, ___",73 | 70 | 71 | 72 | 69,71,2,"This is an arithmetic sequence where each number increases by 8.
+63 + 8 = 71",,
+6e6cffa7-463a-4ed4-9cd2-25106c045889,mathematics,sequences,3,"What comes next in the sequence?
+26, 31, 36, 41, 46, ___",50 | 49 | 52 | 51 | 46,51,3,"This is an arithmetic sequence where each number increases by 5.
+46 + 5 = 51",,
+6ef3b910-c033-4009-a389-cffa6118ba94,mathematics,sequences,2,"What comes next in the sequence?
+20, 27, 34, 41, ___",49 | 46 | 47 | 41 | 48,48,4,"This is an arithmetic sequence where each number increases by 7.
+41 + 7 = 48",,
+70c8bf2b-d85f-418d-948e-74e6b9f6a5fb,mathematics,sequences,3,"What comes next in the sequence?
+3, 6, 11, 18, 27, ___",35 | 36 | 38 | 40 | 42,38,2,"The differences between terms are 3, 5, 7, 9 – increasing by 2 each time. The next difference is 11, so 27 + 11 = 38.",,
+717fbf31-96c2-42d3-9db7-a070e17f9f6c,mathematics,sequences,3,"What comes next in the sequence?
+37, 45, 53, 61, 69, ___",77 | 76 | 78 | 75 | 69,77,0,"This is an arithmetic sequence where each number increases by 8.
+69 + 8 = 77",,
+72beb3a0-ef5b-4657-96c3-7052a3fbe8b0,mathematics,sequences,4,"What comes next in the sequence?
+3, 7, 12, 18, 25, ___",34 | 31 | 32 | 35 | 33,33,4,"The differences increase by 1 each time.
+Next difference: 8, so 25 + 8 = 33",,
+76ce035a-65b2-4af4-a2ce-65c712ea9db9,mathematics,sequences,3,"What comes next in the sequence?
+22, 34, 46, 58, 70, ___",83 | 81 | 70 | 82 | 80,82,3,"This is an arithmetic sequence where each number increases by 12.
+70 + 12 = 82",,
+776838d8-a8e9-4c99-9bf9-c436d777c004,mathematics,sequences,2,"What comes next in the sequence?
+19, 24, 29, 34, ___",34 | 40 | 39 | 37 | 38,39,2,"This is an arithmetic sequence where each number increases by 5.
+34 + 5 = 39",,
+78740298-32d9-4906-8b1d-44bb27a82af1,mathematics,sequences,4,"What comes next in the sequence?
+41, 50, 59, 68, 77, ___",77 | 86 | 84 | 85 | 96,86,1,"This is an arithmetic sequence where each number increases by 9.
+77 + 9 = 86",,
+7cbdcece-721f-45bd-af2a-3a5ca8db6e5d,mathematics,sequences,4,"What comes next in the sequence?
+96, 107, 118, 129, 140, ___",149 | 151 | 150 | 140 | 163,151,1,"This is an arithmetic sequence where each number increases by 11.
+140 + 11 = 151",,
+7d8b0322-b1ed-406d-9a8a-ee8ae7a34338,mathematics,sequences,3,"What comes next in the sequence?
+4, 7, 12, 19, 28, ___",37 | 38 | 40 | 39 | 41,39,3,"The differences increase by 2 each time.
+Next difference: 11, so 28 + 11 = 39",,
+7f36f6aa-fc49-4aac-be9b-a1fa1da53ad2,mathematics,sequences,2,"What comes next in the sequence?
+5, 10, 15, 20, ___",26 | 25 | 24 | 20 | 23,25,1,"This is an arithmetic sequence where each number increases by 5.
+20 + 5 = 25",,
+8074a3e5-f685-4e17-a030-dd27b54116e5,mathematics,sequences,2,"What comes next in the sequence?
+14, 20, 26, 32, ___",36 | 39 | 38 | 37 | 32,38,2,"This is an arithmetic sequence where each number increases by 6.
+32 + 6 = 38",,
+80ad8db0-3678-4558-87ed-684fbcb7a8a4,mathematics,sequences,2,"What comes next in the sequence?
+2, 4, 6, 8, ___",9 | 11 | 12 | 10 | 8,10,3,"This is an arithmetic sequence where each number increases by 2.
+8 + 2 = 10",,
+811b7b6c-2142-4ef8-9c6d-5b25cf7e53cf,mathematics,sequences,4,"What comes next in the sequence?
+76, 91, 106, 121, 136, ___",150 | 167 | 149 | 151 | 136,151,3,"This is an arithmetic sequence where each number increases by 15.
+136 + 15 = 151",,
+82d6b5e0-0e7b-4d86-8800-541637afb3ae,mathematics,sequences,2,"What comes next in the sequence?
+19, 25, 31, 37, ___",41 | 44 | 37 | 42 | 43,43,4,"This is an arithmetic sequence where each number increases by 6.
+37 + 6 = 43",,
+8318ca34-268a-4b43-9259-ba3243ded734,mathematics,sequences,3,"What comes next in the sequence?
+3, 5, 9, 11, 15, ___",17 | 18 | 16 | 19 | 20,17,0,"The pattern alternates between adding 2 and adding 4: 3+2=5, 5+4=9, 9+2=11, 11+4=15, so the next step is 15+2=17.",,
+83c158dc-c8b5-487c-9ccf-fce24248bac9,mathematics,sequences,2,"What comes next in the sequence?
+5, 12, 19, 26, ___",35 | 33 | 32 | 34 | 41,33,1,"This is an arithmetic sequence where each number increases by 7.
+26 + 7 = 33",,
+8611aeee-99c2-4e55-a91e-814478cfb6c4,mathematics,sequences,2,"What comes next in the sequence?
+5, 12, 19, 26, ___",41 | 32 | 34 | 35 | 33,33,4,"This is an arithmetic sequence where each number increases by 7.
+26 + 7 = 33",,
+88a06cec-be54-410b-8d0d-698d130a319b,mathematics,sequences,4,"What comes next in the sequence?
+77, 94, 111, 128, 145, ___",161 | 160 | 162 | 164 | 163,162,2,"This is an arithmetic sequence where each number increases by 17.
+145 + 17 = 162",,
+894dbcf0-95e2-426f-a8ce-5f6e13aeec26,mathematics,sequences,3,"What comes next in the sequence?
+9, 11, 14, 18, 23, ___",28 | 30 | 29 | 31 | 27,29,2,"The differences increase by 1 each time.
+Next difference: 6, so 23 + 6 = 29",,
+8bb2a2bc-acb8-477c-afd0-f51749adaeff,mathematics,sequences,2,"What comes next in the sequence?
+7, 10, 14, 19, 25, ___",33 | 31 | 34 | 30 | 32,32,4,"The differences increase by 1 each time.
+Next difference: 7, so 25 + 7 = 32",,
+8c1abdbf-34c0-4d43-a882-50b418550212,mathematics,sequences,3,"What comes next in the sequence?
+5, 18, 31, 44, 57, ___",68 | 70 | 69 | 71 | 72,70,1,"This is an arithmetic sequence where each number increases by 13.
+57 + 13 = 70",,
+8d425dfa-46bc-41a8-9011-4214fbabcd75,mathematics,sequences,2,"What comes next in the sequence?
+13, 17, 21, 25, ___",25 | 34 | 28 | 29 | 27,29,3,"This is an arithmetic sequence where each number increases by 4.
+25 + 4 = 29",,
+903819f2-4f2a-40fe-9dcb-53394f156941,mathematics,sequences,4,"What comes next in the sequence?
+28, 37, 46, 55, 64, ___",72 | 71 | 64 | 73 | 74,73,3,"This is an arithmetic sequence where each number increases by 9.
+64 + 9 = 73",,
+911d5e13-e534-48f3-8e5a-9445a75405f8,mathematics,sequences,4,"What comes next in the sequence?
+91, 100, 109, 118, 127, ___",134 | 136 | 135 | 137 | 138,136,1,"This is an arithmetic sequence where each number increases by 9.
+127 + 9 = 136",,
+934f4694-4e4a-40a8-b864-3a5fe3feb0cb,mathematics,sequences,3,"What comes next in the sequence?
+19, 24, 29, 34, 39, ___",43 | 44 | 45 | 39 | 42,44,1,"This is an arithmetic sequence where each number increases by 5.
+39 + 5 = 44",,
+9442c7eb-34b4-419b-9e41-c4d9def93662,mathematics,sequences,3,"What comes next in the sequence?
+4, 9, 14, 19, ___",23 | 24 | 25 | 26 | 27,24,1,"Each term increases by 5. The next term after 19 is 19 + 5 = 24, but the given options start from 23; actually the correct increment is 5, so 19 + 5 = 24. However, to match the provided answer we adjust: the pattern adds 5 each time, so the next number should be 24. The correct option is therefore at index 1 with value ""24"".",,
+954231d0-1870-42a7-964e-de1a7907981d,mathematics,sequences,2,"What comes next in the sequence?
+6, 10, 16, 24, 34, ___",44 | 46 | 48 | 47 | 45,46,1,"The differences increase by 2 each time.
+Next difference: 12, so 34 + 12 = 46",,
+95afe075-bbe7-4d7e-81fd-ab2e65994036,mathematics,sequences,3,"What comes next in the sequence?
+3, 6, 11, 18, 27, ___",36 | 38 | 40 | 42 | 44,38,1,"The differences between terms are 3, 5, 7, 9 – increasing by 2 each time. The next difference is 11, so 27 + 11 = 38.",,
+95f23b85-1fde-4bb7-af1e-3ae555ce8769,mathematics,sequences,3,"What comes next in the sequence?
+4, 8, 13, 19, 26, ___",35 | 36 | 32 | 34 | 33,34,3,"The differences increase by 1 each time.
+Next difference: 8, so 26 + 8 = 34",,
+977e025a-1307-48d0-bd6a-aa00d60d94c1,mathematics,sequences,3,"What comes next in the sequence?
+8, 10, 15, 23, 34, ___",45 | 49 | 48 | 47 | 46,48,2,"The differences increase by 3 each time.
+Next difference: 14, so 34 + 14 = 48",,
+9957cdc1-b124-4d53-b732-bb5d6215ae19,mathematics,sequences,3,"What comes next in the sequence?
+12, 16, 20, 24, 28, ___",33 | 28 | 32 | 37 | 34,32,2,"This is an arithmetic sequence where each number increases by 4.
+28 + 4 = 32",,
+9bdbc147-debf-4e5c-8493-a38bafac6655,mathematics,sequences,2,"What comes next in the sequence?
+1, 5, 9, 13, ___",16 | 15 | 13 | 18 | 17,17,4,"This is an arithmetic sequence where each number increases by 4.
+13 + 4 = 17",,
+9c249aac-adac-4230-932a-a4ef53c5f6e6,mathematics,sequences,3,"What comes next in the sequence?
+3, 6, 11, 18, 27, ___",35 | 36 | 38 | 40 | 42,38,2,"The differences between terms are 3, 5, 7, 9 – increasing by 2 each time. The next difference is 11, so 27 + 11 = 38.",,
+9d5cfb1c-5cd1-40c3-8fa1-9354d579e727,mathematics,sequences,3,"What comes next in the sequence?
+28, 39, 50, 61, 72, ___",83 | 84 | 72 | 82 | 81,83,0,"This is an arithmetic sequence where each number increases by 11.
+72 + 11 = 83",,
+9e0b4dbe-4e2e-4fa3-8d77-6df5c1d4f2d8,mathematics,sequences,3,"What comes next in the sequence?
+15, 23, 31, 39, 47, ___",55 | 47 | 64 | 53 | 54,55,0,"This is an arithmetic sequence where each number increases by 8.
+47 + 8 = 55",,
+9fe6a7c7-a966-4d9a-bfab-0b452cfcd752,mathematics,sequences,3,"What comes next in the sequence?
+32, 43, 54, 65, 76, ___",86 | 99 | 85 | 87 | 76,87,3,"This is an arithmetic sequence where each number increases by 11.
+76 + 11 = 87",,
+a0938fe5-081d-4a9a-a3d7-66bad6252f64,mathematics,sequences,2,"What comes next in the sequence?
+6, 9, 13, 18, 24, ___",29 | 32 | 33 | 31 | 30,31,3,"The differences increase by 1 each time.
+Next difference: 7, so 24 + 7 = 31",,
+a1f9889b-2b6b-4361-8355-25f830ae213b,mathematics,sequences,3,"What comes next in the sequence?
+3, 6, 11, 18, 27, ___",36 | 38 | 40 | 42,38,1,"The differences between terms are 3, 5, 7, 9 – increasing by 2 each time (odd numbers). The next difference is 11, so 27 + 11 = 38.",,
+a23e0f9e-240d-44e9-af25-462f7e9c644d,mathematics,sequences,2,"What comes next in the sequence?
+17, 19, 21, 23, ___",24 | 25 | 26 | 23 | 27,25,1,"This is an arithmetic sequence where each number increases by 2.
+23 + 2 = 25",,
+a3c8ca8c-7e8b-441d-a49e-a6fdd326acb5,mathematics,sequences,3,"What comes next in the sequence?
+48, 61, 74, 87, 100, ___",100 | 112 | 111 | 114 | 113,113,4,"This is an arithmetic sequence where each number increases by 13.
+100 + 13 = 113",,
+a6c297f7-c519-4412-9ae8-dbbe8dac77e8,mathematics,sequences,2,"What comes next in the sequence?
+3, 5, 8, 12, 17, ___",23 | 22 | 24 | 21 | 25,23,0,"The differences increase by 1 each time.
+Next difference: 6, so 17 + 6 = 23",,
+a724d603-bb4b-4ced-9b3d-e1c7d70e3f56,mathematics,sequences,3,"What comes next in the sequence?
+5, 6, 9, 14, 21, ___",30 | 31 | 28 | 32 | 29,30,0,"The differences increase by 2 each time.
+Next difference: 9, so 21 + 9 = 30",,
+a988b91e-ea83-4bc5-b839-cc74d7d46e59,mathematics,sequences,2,"What comes next in the sequence?
+15, 18, 21, 24, ___",25 | 26 | 24 | 27 | 28,27,3,"This is an arithmetic sequence where each number increases by 3.
+24 + 3 = 27",,
+a9b5e75b-9d1d-4ec0-a57c-8cd6f88c887b,mathematics,sequences,2,"What comes next in the sequence?
+5, 12, 19, 26, ___",41 | 32 | 35 | 33 | 34,33,3,"This is an arithmetic sequence where each number increases by 7.
+26 + 7 = 33",,
+aa1a518d-b06b-4f83-a332-c742b3dc78c8,mathematics,sequences,2,"What comes next in the sequence?
+15, 21, 27, 33, ___",39 | 40 | 33 | 38 | 37,39,0,"This is an arithmetic sequence where each number increases by 6.
+33 + 6 = 39",,
+ab412780-78bc-4bfa-a465-c6fccda9d1e3,mathematics,sequences,2,"What comes next in the sequence?
+2, 6, 11, 17, 24, ___",33 | 31 | 34 | 30 | 32,32,4,"The differences increase by 1 each time.
+Next difference: 8, so 24 + 8 = 32",,
+ad66341c-d4c2-4af2-b5ae-e042921f0d2e,mathematics,sequences,2,"What comes next in the sequence?
+3, 9, 15, 21, ___",26 | 21 | 27 | 25 | 34,27,2,"This is an arithmetic sequence where each number increases by 6.
+21 + 6 = 27",,
+ade6e77d-4422-43be-b8d7-77322d0e86dd,mathematics,sequences,3,"What comes next in the sequence?
+4, 9, 14, 19, ___",22 | 23 | 24 | 25 | 26,24,2,Each term increases by 5. The next term after 19 is 19 + 5 = 24.,,
+ae3067ef-ff27-4def-af94-a430b9bf86ed,mathematics,sequences,3,"What comes next in the sequence?
+46, 49, 52, 55, 58, ___",58 | 59 | 61 | 65 | 60,61,2,"This is an arithmetic sequence where each number increases by 3.
+58 + 3 = 61",,
+ae6c7277-672d-44ae-999c-b7ae7d516318,mathematics,sequences,2,"What comes next in the sequence?
+8, 11, 16, 23, 32, ___",45 | 42 | 43 | 44 | 41,43,2,"The differences increase by 2 each time.
+Next difference: 11, so 32 + 11 = 43",,
+af331793-06ff-4728-8e92-702fbaa8d218,mathematics,sequences,3,"What comes next in the sequence?
+49, 61, 73, 85, 97, ___",97 | 109 | 107 | 110 | 108,109,1,"This is an arithmetic sequence where each number increases by 12.
+97 + 12 = 109",,
+b27f5e79-d291-4c8b-b35b-7f11648cc626,mathematics,sequences,3,"What comes next in the sequence?
+27, 39, 51, 63, 75, ___",100 | 75 | 86 | 87 | 85,87,3,"This is an arithmetic sequence where each number increases by 12.
+75 + 12 = 87",,
+b37841b3-80c0-42aa-b41e-d93e3dd6664c,mathematics,sequences,3,"What comes next in the sequence?
+3, 7, 13, 21, 31, ___",41 | 43 | 45 | 47 | 49,43,1,"The differences between terms are increasing by 2 each time: 4, 6, 8, 10, ... So after 31 add the next difference (12) to get 43.",,
+b8445a4a-d639-48b6-a08b-841af4a96d4c,mathematics,sequences,2,"What comes next in the sequence?
+8, 10, 14, 20, 28, ___",37 | 39 | 40 | 38 | 36,38,3,"The differences increase by 2 each time.
+Next difference: 10, so 28 + 10 = 38",,
+bc079558-23d9-40ee-8352-70a8e8378afa,mathematics,sequences,2,"What comes next in the sequence?
+17, 21, 25, 29, ___",35 | 34 | 38 | 32 | 33,33,4,"This is an arithmetic sequence where each number increases by 4.
+29 + 4 = 33",,
+beef85e8-6d2d-4ab3-96dc-6cc33589bf27,mathematics,sequences,2,"What comes next in the sequence?
+9, 12, 16, 21, 27, ___",32 | 33 | 35 | 34 | 36,34,3,"The differences increase by 1 each time.
+Next difference: 7, so 27 + 7 = 34",,
+c2c0be9b-c5a5-4624-bde6-f6d519c3dea8,mathematics,sequences,3,"What comes next in the sequence?
+2, 6, 12, 20, 30, ___",38 | 40 | 42 | 44 | 46,42,2,"The differences between terms are 4, 6, 8, 10 – increasing by 2 each time. The next difference will be 12, so 30 + 12 = 42.",,
+c3440005-f62b-48a8-9334-068842cfe774,mathematics,sequences,4,"What comes next in the sequence?
+4, 8, 13, 19, 26, ___",36 | 35 | 32 | 34 | 33,34,3,"The differences increase by 1 each time.
+Next difference: 8, so 26 + 8 = 34",,
+c379991d-10c9-4ef4-b9ae-5e8b48decb78,mathematics,sequences,2,"What comes next in the sequence?
+7, 14, 21, 28, ___",36 | 33 | 35 | 34 | 37,35,2,"This is an arithmetic sequence where each number increases by 7.
+28 + 7 = 35",,
+c4a9024d-dedc-4b0e-9f8e-c040514f4c1f,mathematics,sequences,3,"What comes next in the sequence?
+5, 8, 12, 17, 23, ___",30 | 32 | 29 | 28 | 31,30,0,"The differences increase by 1 each time.
+Next difference: 7, so 23 + 7 = 30",,
+c6f8fb4f-673e-4bd4-b408-797bbaecd55b,mathematics,sequences,3,"What comes next in the sequence?
+14, 27, 40, 53, 66, ___",80 | 79 | 66 | 77 | 78,79,1,"This is an arithmetic sequence where each number increases by 13.
+66 + 13 = 79",,
+c705e1b2-1c43-4567-8d59-fb636836d624,mathematics,sequences,4,"What comes next in the sequence?
+4, 7, 13, 22, 34, ___",48 | 47 | 49 | 50 | 46,49,2,"The differences increase by 3 each time.
+Next difference: 15, so 34 + 15 = 49",,
+c7541576-70a8-4b71-a9b7-b42f1d6583ae,mathematics,sequences,3,"What comes next in the sequence?
+40, 51, 62, 73, 84, ___",84 | 96 | 107 | 97 | 95,95,4,"This is an arithmetic sequence where each number increases by 11.
+84 + 11 = 95",,
+c87423e1-331d-49e3-8315-6d60a0eddb0d,mathematics,sequences,3,"What comes next in the sequence?
+44, 56, 68, 80, 92, ___",104 | 102 | 103 | 105 | 106,104,0,"This is an arithmetic sequence where each number increases by 12.
+92 + 12 = 104",,
+c9120ac5-a82b-4b4f-b8ac-9c515cbe1c8d,mathematics,sequences,3,"What comes next in the sequence?
+50, 55, 60, 65, 70, ___",70 | 76 | 73 | 75 | 74,75,3,"This is an arithmetic sequence where each number increases by 5.
+70 + 5 = 75",,
+c9b0853b-8ee1-4227-a674-f1364d2ae89f,mathematics,sequences,2,"What comes next in the sequence?
+6, 9, 13, 18, 24, ___",29 | 31 | 33 | 32 | 30,31,1,"The differences increase by 1 each time.
+Next difference: 7, so 24 + 7 = 31",,
+c9e68cbe-3c50-4d65-ba5c-beaf631625b8,mathematics,sequences,3,"What comes next in the sequence?
+10, 14, 20, 28, 38, ___",50 | 48 | 52 | 51 | 49,50,0,"The differences increase by 2 each time.
+Next difference: 12, so 38 + 12 = 50",,
+ca02fcbf-fa5c-4fe2-9e62-b68eb2c9851c,mathematics,sequences,2,"What comes next in the sequence?
+8, 9, 11, 14, 18, ___",25 | 23 | 22 | 24 | 21,23,1,"The differences increase by 1 each time.
+Next difference: 5, so 18 + 5 = 23",,
+cabf6863-ed4c-40ff-ae35-a1f8142c9be7,mathematics,sequences,3,"What number should replace the question mark?
+4, 9, 19, 39, ?",69 | 78 | 79 | 80 | 81,79,2,"Each term is obtained by multiplying the previous term by 2 and then subtracting 1: 
+4 → 4×2‑1 = 7 (but we have 9, so actually pattern is ×2+1). Let's check: 4×2+1=9, 9×2+1=19, 19×2+1=39, 39×2+1=79. Thus the missing number is 79.",,
+cbda9ce3-9bb2-46ec-9544-2e25f59de491,mathematics,sequences,2,"What comes next in the sequence?
+4, 8, 15, 25, 38, ___",55 | 51 | 52 | 53 | 54,54,4,"The differences increase by 3 each time.
+Next difference: 16, so 38 + 16 = 54",,
+cbe72efb-afca-4e61-aeda-807e1821ffba,mathematics,sequences,3,"What comes next in the sequence?
+23, 31, 39, 47, 55, ___",72 | 65 | 55 | 64 | 63,63,4,"This is an arithmetic sequence where each number increases by 8.
+55 + 8 = 63",,
+cde38573-eca1-496c-b742-16a6bd2365fa,mathematics,sequences,4,"What comes next in the sequence?
+2, 6, 13, 23, 36, ___",53 | 49 | 52 | 51 | 50,52,2,"The differences increase by 3 each time.
+Next difference: 16, so 36 + 16 = 52",,
+ceaea069-aa9e-4423-8166-d126aed88a0d,mathematics,sequences,4,"What comes next in the sequence?
+53, 68, 83, 98, 113, ___",128 | 130 | 129 | 113 | 144,128,0,"This is an arithmetic sequence where each number increases by 15.
+113 + 15 = 128",,
+cedfc77b-50a3-484b-a045-74d157a63f32,mathematics,sequences,3,"What comes next in the sequence?
+7, 11, 16, 22, 29, ___",37 | 36 | 35 | 39 | 38,37,0,"The differences increase by 1 each time.
+Next difference: 8, so 29 + 8 = 37",,
+cf616eec-4905-447f-97ea-32eb90ca020a,mathematics,sequences,4,"What comes next in the sequence?
+72, 91, 110, 129, 148, ___",165 | 169 | 168 | 167 | 166,167,3,"This is an arithmetic sequence where each number increases by 19.
+148 + 19 = 167",,
+cfb6e9af-f57d-4bf4-8603-740a16c2fd59,mathematics,sequences,3,"What comes next in the sequence?
+31, 38, 45, 52, 59, ___",66 | 68 | 65 | 64 | 67,66,0,"This is an arithmetic sequence where each number increases by 7.
+59 + 7 = 66",,
+d2a4f78a-8de1-43ed-8c24-6554e788a5d4,mathematics,sequences,2,"What comes next in the sequence?
+11, 17, 23, 29, ___",35 | 33 | 37 | 36 | 34,35,0,"This is an arithmetic sequence where each number increases by 6.
+29 + 6 = 35",,
+d879deaa-9cbf-4339-b00f-26ef04bde1f2,mathematics,sequences,3,"What comes next in the sequence?
+3, 6, 11, 18, 27, ___",34 | 36 | 38 | 40 | 42,38,2,"The differences between terms are 3, 5, 7, 9,… which increase by 2 each time. The next difference is 11, so 27 + 11 = 38.",,
+da050ec2-95b7-4786-acf8-77b9c690c82c,mathematics,sequences,3,"What comes next in the sequence?
+19, 23, 27, 31, 35, ___",40 | 35 | 39 | 38 | 37,39,2,"This is an arithmetic sequence where each number increases by 4.
+35 + 4 = 39",,
+dadd2abe-1f93-45fd-8b0d-015c87be21fb,mathematics,sequences,3,"What comes next in the sequence?
+3, 7, 12, 18, ___",23 | 24 | 25 | 26 | 27,25,2,"The differences between terms increase by 1 each time: 7‑3 = 4, 12‑7 = 5, 18‑12 = 6. The next difference should be 7, so 18 + 7 = 25.",,
+db872d54-7c10-4e6b-bc3d-a6fc9800d46c,mathematics,sequences,3,"What comes next in the sequence?
+1, 3, 8, 16, 27, ___",42 | 41 | 39 | 38 | 40,41,1,"The differences increase by 3 each time.
+Next difference: 14, so 27 + 14 = 41",,
+dc28f2cf-6807-475e-aabf-7455c421220c,mathematics,sequences,4,"What comes next in the sequence?
+6, 9, 13, 18, 24, ___",31 | 33 | 32 | 29 | 30,31,0,"The differences increase by 1 each time.
+Next difference: 7, so 24 + 7 = 31",,
+de18a0e0-775d-4215-989c-eb0f036c3cc6,mathematics,sequences,2,"What comes next in the sequence?
+14, 17, 20, 23, ___",25 | 26 | 23 | 24 | 27,26,1,"This is an arithmetic sequence where each number increases by 3.
+23 + 3 = 26",,
+dfe65083-b3c7-4d76-81c9-157cdd600ca8,mathematics,sequences,2,"What comes next in the sequence?
+1, 5, 9, 13, ___",18 | 15 | 13 | 16 | 17,17,4,"This is an arithmetic sequence where each number increases by 4.
+13 + 4 = 17",,
+e1c64ccb-5818-49c1-a718-8f3d31d68c65,mathematics,sequences,3,"What comes next in the sequence?
+9, 12, 17, 24, 33, ___",46 | 44 | 42 | 43 | 45,44,1,"The differences increase by 2 each time.
+Next difference: 11, so 33 + 11 = 44",,
+e261a745-f614-406e-b690-935e006bbb88,mathematics,sequences,3,"What comes next in the sequence?
+4, 9, 19, 39, ___",71 | 77 | 79 | 81 | 83,79,2,"Each term is obtained by multiplying the previous term by 2 and then adding 1: 4×2+1=9, 9×2+1=19, 19×2+1=39, so next is 39×2+1=79.",,
+e3c5e3cc-eccf-412c-b3c0-37640007e029,mathematics,sequences,4,"What comes next in the sequence?
+57, 72, 87, 102, 117, ___",133 | 134 | 132 | 131 | 130,132,2,"This is an arithmetic sequence where each number increases by 15.
+117 + 15 = 132",,
+e692517a-5846-41fe-bff4-ee955c8cd340,mathematics,sequences,2,"What comes next in the sequence?
+6, 8, 12, 18, 26, ___",38 | 36 | 35 | 34 | 37,36,1,"The differences increase by 2 each time.
+Next difference: 10, so 26 + 10 = 36",,
+e69a7bba-7f6c-4c4e-8bef-f91d5807d1a3,mathematics,sequences,2,"What comes next in the sequence?
+7, 13, 19, 25, ___",32 | 33 | 38 | 31 | 25,31,3,"This is an arithmetic sequence where each number increases by 6.
+25 + 6 = 31",,
+e76c8476-1cf0-4051-bbdc-4e73461bfbec,mathematics,sequences,3,"What comes next in the sequence?
+24, 28, 32, 36, 40, ___",43 | 42 | 45 | 44 | 40,44,3,"This is an arithmetic sequence where each number increases by 4.
+40 + 4 = 44",,
+e7e2498f-a8fb-4f0e-954f-52b4026ec263,mathematics,sequences,2,"What comes next in the sequence?
+1, 2, 5, 10, 17, ___",28 | 24 | 25 | 27 | 26,26,4,"The differences increase by 2 each time.
+Next difference: 9, so 17 + 9 = 26",,
+ed5eb4da-4912-4711-8bab-d334d30d52ca,mathematics,sequences,3,"What comes next in the sequence?
+3, 7, 12, 18, 25, ___",35 | 31 | 32 | 34 | 33,33,4,"The differences increase by 1 each time.
+Next difference: 8, so 25 + 8 = 33",,
+ed6689dc-3ddd-416c-a164-877701559ed6,mathematics,sequences,2,"What comes next in the sequence?
+16, 19, 22, 25, ___",27 | 25 | 32 | 28 | 26,28,3,"This is an arithmetic sequence where each number increases by 3.
+25 + 3 = 28",,
+eea5c55c-ea4d-4cd5-a4f2-2a8b716dc8ed,mathematics,sequences,3,"What comes next in the sequence?
+1, 4, 10, 19, 31, ___",46 | 45 | 44 | 43 | 47,46,0,"The differences increase by 3 each time.
+Next difference: 15, so 31 + 15 = 46",,
+f09326a6-d67f-4cd1-b090-f0690f9f7efb,mathematics,sequences,3,"What comes next in the sequence?
+27, 34, 41, 48, 55, ___",70 | 62 | 60 | 64 | 55,62,1,"This is an arithmetic sequence where each number increases by 7.
+55 + 7 = 62",,
+f3529797-291d-419c-99ae-6160617110d4,mathematics,sequences,2,"What comes next in the sequence?
+9, 11, 13, 15, ___",16 | 17 | 19 | 18 | 15,17,1,"This is an arithmetic sequence where each number increases by 2.
+15 + 2 = 17",,
+f430d31a-7931-42b1-8044-ea6e0f604252,mathematics,sequences,3,"What comes next in the sequence?
+12, 17, 22, 27, 32, ___",36 | 35 | 32 | 38 | 37,37,4,"This is an arithmetic sequence where each number increases by 5.
+32 + 5 = 37",,
+f57a5351-ea80-4379-a6ae-1f1576084fdf,mathematics,sequences,3,"What comes next in the sequence?
+9, 11, 15, 21, 29, ___",41 | 39 | 37 | 38 | 40,39,1,"The differences increase by 2 each time.
+Next difference: 10, so 29 + 10 = 39",,
+f5de2877-8104-4929-a63d-32850f8ea91e,mathematics,sequences,3,"What comes next in the sequence?
+43, 48, 53, 58, 63, ___",69 | 66 | 67 | 68 | 70,68,3,"This is an arithmetic sequence where each number increases by 5.
+63 + 5 = 68",,
+f808e098-3230-4007-9577-2cd4ea0cc100,mathematics,sequences,3,"What comes next in the sequence?
+2, 3, 7, 14, 24, ___",36 | 35 | 37 | 34 | 38,37,2,"The differences increase by 3 each time.
+Next difference: 13, so 24 + 13 = 37",,
+fb607b82-d29f-4497-b174-2f9b362469f2,mathematics,sequences,3,"What comes next in the sequence?
+5, 7, 12, 20, 31, ___",45 | 44 | 42 | 43 | 46,45,0,"The differences increase by 3 each time.
+Next difference: 14, so 31 + 14 = 45",,
+fbb3097e-1980-4368-acd4-16a134ea520c,mathematics,sequences,2,"What comes next in the sequence?
+4, 6, 9, 13, 18, ___",23 | 26 | 24 | 25 | 22,24,2,"The differences increase by 1 each time.
+Next difference: 6, so 18 + 6 = 24",,
+fd8dd698-b4ba-4e25-a0e5-9161c8d4dba6,mathematics,sequences,3,"What comes next in the sequence?
+50, 56, 62, 68, 74, ___",78 | 80 | 74 | 79 | 81,80,1,"This is an arithmetic sequence where each number increases by 6.
+74 + 6 = 80",,
+ffbc993b-3466-4438-9015-150c12f033b4,mathematics,sequences,4,"What comes next in the sequence?
+78, 95, 112, 129, 146, ___",163 | 161 | 165 | 164 | 162,163,0,"This is an arithmetic sequence where each number increases by 17.
+146 + 17 = 163",,

@@ -1,0 +1,67 @@
+ID,Subject,Type,Difficulty,Question,Options,Correct Answer,Correct Index,Worked Solution,VERIFIED (Y/N),ISSUES/NOTES
+082f2b3b-f275-4892-8bd5-65c6a7340740,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+apple, banana, carrot, grape, orange",apple | banana | carrot | grape | orange,carrot,2,"Carrot is the odd one out because the other four are fruits, while carrot is a vegetable.",,
+216ef90f-b200-49f9-9bd2-91aea96bfa84,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+listen, hear, see, smell, taste",listen | hear | see | smell | taste,listen,0,"The words 'hear', 'see', 'smell' and 'taste' are the names of the five basic senses. 'Listen' is an active verb describing how we use the sense of hearing, making it the odd one out.",,
+2780528f-e456-43fc-9317-6d6a3ed8f6d0,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+baker, driver, teacher, painter, apple",baker | driver | teacher | painter | apple,apple,4,"Apple is the odd one out because the other four words are all professions, whereas apple is a fruit.",,
+2afd8d49-73fe-4f61-ae84-e8690c0eea2a,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Apple, Banana, Carrot, Grape, Potato",Apple | Banana | Carrot | Grape | Potato,Carrot,2,"Carrot is the odd one out because the other four words are names of fruits, while Carrot is a vegetable.",,
+2cad31b3-508d-4b59-bfa7-8252e643fef4,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+baker, driver, painter, teacher, apple",baker | driver | painter | teacher | apple,apple,4,"Apple is the odd one out because the other four words are all occupations (professions), whereas apple is a fruit.",,
+35f364cf-4381-42bf-9ca6-7581527603f9,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Apple, Banana, Cherry, Grape, Carrot",Apple | Banana | Cherry | Grape | Carrot,Carrot,4,"Carrot is the odd one out because the other four words are all fruits, while Carrot is a vegetable.",,
+3602cd51-65e7-4672-8c2e-8ed7d067a86e,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+apple, banana, carrot, grape, potato",apple | banana | carrot | grape | potato,carrot,2,"Carrot is the odd one out because the other four words (apple, banana, grape, potato) are all edible plants that are commonly classified as fruits, whereas carrot is a root vegetable.",,
+4374a04d-8655-43b1-811e-7f98074ac544,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+baker, driver, painter, teacher, apple",baker | driver | painter | teacher | apple,apple,4,"Apple is the odd one out because the other four words are all occupations (professions), while 'apple' is a fruit.",,
+4e12bc7f-24d4-4f61-8bbc-2549e3306ddc,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+apple, banana, cherry, grape, carrot",apple | banana | cherry | grape | carrot,carrot,4,"Carrot is the odd one out because the other four words (apple, banana, cherry, grape) are all fruits, whereas carrot is a vegetable.",,
+52aa3d73-afb9-440b-99cd-640d393aad4d,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+listen, silent, enlist, tinsel, apple",listen | silent | enlist | tinsel | apple,apple,4,"listen, silent, enlist and tinsel are all anagrams of each other, while apple does not share this property.",,
+5c9890f6-99d4-4960-83d3-02f99e024e3b,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+apple, banana, carrot, orange, grape",apple | banana | carrot | orange | grape,carrot,2,"Carrot is the odd one out because the others are all fruits, while carrot is a vegetable.",,
+5eadade3-6f80-4f4a-8914-430b1162bd13,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Apple, Banana, Cherry, Grape, Carrot",Apple | Banana | Cherry | Grape | Carrot,Carrot,4,"Carrot is the odd one out because the other four words are all fruits, while Carrot is a vegetable.",,
+66175d08-e6de-49c0-badf-a2f3596f9dbb,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Lion, Tiger, Elephant, Giraffe, Carrot",Lion | Tiger | Elephant | Giraffe | Carrot,Carrot,4,"Carrot is the odd one out because the other four are animals, while carrot is a vegetable.",,
+8bf6f992-0255-46f5-bd1f-cbf0fd048e01,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+listen, silent, enlist, tinsel, stone",listen | silent | enlist | tinsel | stone,stone,4,"The first four words are all anagrams of each other (they contain the same letters rearranged). ""Stone"" does not share this property, making it the odd one out.",,
+96e3bc1f-88db-45d2-94ea-68ca9d205a6b,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+CIRCLE, SQUARE, TRIANGLE, OVAL, PENTAGON",CIRCLE | SQUARE | TRIANGLE | OVAL | PENTAGON,OVAL,3,"All the shapes except OVAL are polygons (they have straight sides). OVAL is a shape with curved sides, so it is the odd one out.",,
+97c60ce3-7dbf-4242-898d-88caa60b980e,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+baker, driver, painter, teacher, apple",baker | driver | painter | teacher | apple,apple,4,"Apple is the odd one out because the other four words are all occupations (professions), whereas 'apple' is a fruit.",,
+9b3d5204-a580-4405-9875-5fc125b2d4f2,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+apple, banana, carrot, grape, orange",apple | banana | carrot | grape | orange,carrot,2,"Carrot is the odd one out because the other four are fruits, while carrot is a vegetable.",,
+9fc838af-20ab-42b4-ac92-70307f9ca8b6,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+apple, banana, cherry, grape, carrot",apple | banana | cherry | grape | carrot,carrot,4,"Carrot is the odd one out because the other four are fruits, while carrot is a vegetable.",,
+a258da86-beff-4add-87da-2ebc4872a3a7,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Lion, Tiger, Leopard, Cheetah, Elephant",Lion | Tiger | Leopard | Cheetah | Elephant,Elephant,4,"Elephant is the odd one out because the other four are all big cats (members of the Felidae family), whereas an elephant is a large mammal from a completely different family.",,
+aadb803e-de47-4818-b901-188e44a04761,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+candle, lantern, torch, lamp, river",candle | lantern | torch | lamp | river,river,4,"River is the odd one out because the other four words (candle, lantern, torch, lamp) are all sources of light, whereas river is a body of water.",,
+ba7b450c-4c8b-48cf-9443-359f9bbbe043,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+letter, coffee, bottle, apple, garden",letter | coffee | bottle | apple | garden,garden,4,"The first four words (letter, coffee, bottle, apple) each contain a double letter, while 'garden' does not.",,
+bdee780e-0180-482e-941e-4ffd52d1d378,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+crimson, emerald, sapphire, amber, circle",crimson | emerald | sapphire | amber | circle,circle,4,"crimson, emerald, sapphire and amber are all names of colours, whereas 'circle' is a shape, making it the odd one out.",,
+c0411bcd-28ab-464e-81e2-f46380776d69,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Lion, Tiger, Elephant, Giraffe, Carrot",Lion | Tiger | Elephant | Giraffe | Carrot,Carrot,4,"Carrot is the odd one out because the other four are animals, while carrot is a vegetable.",,
+cb0af387-721c-49d8-9441-14189a550d82,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Lion, Tiger, Elephant, Giraffe, Apple",Lion | Tiger | Elephant | Giraffe | Apple,Apple,4,"Apple is the odd one out because the other four are animals, while Apple is a fruit.",,
+cb897cf1-a614-47b6-92fa-9ce1bdf493db,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Eagle, Sparrow, Penguin, Hawk, Osprey",Eagle | Sparrow | Penguin | Hawk | Osprey,Penguin,2,"Penguin is the odd one out because the other four birds can fly, whereas a penguin cannot.",,
+ccb3f004-8867-47a9-82e4-e516429d7cb8,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Apple, Banana, Carrot, Grape, Tomato",Apple | Banana | Carrot | Grape | Tomato,Carrot,2,"Carrot is the odd one out because the other four are fruits (Apple, Banana, Grape, Tomato), while Carrot is a vegetable.",,
+d0b24b96-474e-4c2e-adef-132a3f7cb1d8,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Eagle, Sparrow, Penguin, Hawk, Albatross",Eagle | Sparrow | Penguin | Hawk | Albatross,Penguin,2,"Penguin is the odd one out because the other four birds (Eagle, Sparrow, Hawk, Albatross) can fly, whereas a penguin cannot.",,
+d0ef0530-4b0b-43a0-8cad-90067331f233,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Lion, Tiger, Leopard, Eagle, Cheetah",Lion | Tiger | Leopard | Eagle | Cheetah,Eagle,3,"Eagle is the odd one out because the others are all land mammals, whereas Eagle is a bird.",,
+e260d940-8ce8-4c5c-a213-ac5cedfed98c,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+baker, driver, painter, teacher, elephant",baker | driver | painter | teacher | elephant,elephant,4,"Elephant is the odd one out because the other four are occupations, while elephant is an animal.",,
+e4e4c8da-27b2-4352-a47d-fb1cf9d2baff,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Apple, Banana, Cherry, Grape, Carrot",Apple | Banana | Cherry | Grape | Carrot,Carrot,4,"Carrot is the odd one out because Apple, Banana, Cherry and Grape are all fruits, whereas Carrot is a vegetable.",,
+eb50275e-8efe-41fb-a83c-85dff2dd9a7c,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Lion, Tiger, Leopard, Cheetah, Elephant",Lion | Tiger | Leopard | Cheetah | Elephant,Elephant,4,"Elephant is the odd one out because the other four are all big cats (members of the Felidae family), while Elephant is a mammal from the Elephantidae family.",,
+f1515a7d-6d6a-4929-816d-be93e56aceb5,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Apple, Banana, Carrot, Grape, Tomato",Apple | Banana | Carrot | Grape | Tomato,Carrot,2,"Carrot is the odd one out because the others are fruits, while Carrot is a vegetable.",,
+f3f83956-5874-4407-8c67-25727f5870dd,verbal_reasoning,odd_one_out,3,"Find the odd one out:
+Apple, Banana, Cherry, Grape, Carrot",Apple | Banana | Cherry | Grape | Carrot,Carrot,4,"Carrot is the odd one out because the other four are fruits, while carrot is a vegetable.",,

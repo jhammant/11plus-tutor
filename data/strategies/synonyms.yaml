@@ -1,0 +1,66 @@
+question_type: synonyms
+subject: verbal_reasoning
+title: "Finding Synonyms"
+is_free: true
+
+what_is_it: |
+  Synonyms are words that have the same or very similar meanings.
+  In 11+ exams, you're given two groups of words and must find one word
+  from each group that mean the same thing.
+
+  Example: "happy" and "joyful" are synonyms - they both describe
+  a positive, pleased feeling.
+
+approach:
+  - "Read both groups of words carefully - don't rush"
+  - "Look for words that could replace each other in a sentence"
+  - "Test your answer: 'The [word1] child' = 'The [word2] child'"
+  - "If stuck, eliminate pairs that are clearly different"
+  - "Watch out for words that sound similar but mean different things"
+
+common_mistakes:
+  - "Confusing synonyms with antonyms (opposites)"
+  - "Picking words that sound alike but have different meanings"
+  - "Not checking ALL possible pairs before answering"
+  - "Rushing and missing the obvious answer"
+
+time_tips:
+  - "Aim for 20-30 seconds per question"
+  - "If you can't find it in 30 seconds, mark and move on"
+  - "Come back to tricky ones at the end"
+
+worked_examples:
+  - question: "Find two words, one from each group, that are closest in meaning.\n(big, small, tiny) (large, medium, little)"
+    answer: "big & large"
+    walkthrough: |
+      Let's check each option systematically:
+      - big & large: Both mean 'of great size' ✓ MATCH!
+      - big & medium: Medium is middle-sized, not the same
+      - small & large: These are opposites
+      - tiny & little: Both mean 'very small' - but they're in the SAME group!
+
+      The answer is big & large - they're synonyms meaning 'of great size'.
+
+  - question: "Find the synonym pair: (quick, slow, steady) (fast, careful, lazy)"
+    answer: "quick & fast"
+    walkthrough: |
+      - quick means 'moving rapidly' or 'done in a short time'
+      - fast means the same thing
+      - slow is the opposite of quick
+      - steady means 'regular, unchanging' - different meaning
+      - careful and lazy don't match any words in the first group
+
+      Answer: quick & fast
+
+  - question: "Find the synonym pair: (ancient, modern, recent) (old, new, current)"
+    answer: "ancient & old"
+    walkthrough: |
+      - ancient means 'very old, from long ago'
+      - old means 'having existed for a long time'
+      - These are synonyms! Both describe things from the past.
+      - modern & new would also be synonyms, but let's check...
+      - modern is in group 1, new is in group 2 - but ancient & old is the closest match
+      - recent & current are also similar but ancient & old is the clearest pair
+
+typical_time_seconds: 25
+difficulty_range: "2-3"

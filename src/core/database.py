@@ -208,6 +208,134 @@ class LearningStreak(Base):
 
 
 # ============================================================================
+# Learning Content Models
+# ============================================================================
+
+class TopicLesson(Base):
+    """Topic lessons with explanations and examples"""
+    __tablename__ = "topic_lessons"
+
+    id = Column(String, primary_key=True)
+    subject = Column(String, nullable=False, index=True)  # verbal_reasoning, mathematics, etc.
+    topic = Column(String, nullable=False, index=True)    # synonyms, fractions, etc.
+    title = Column(String, nullable=False)
+
+    # Content
+    explanation = Column(Text, nullable=False)            # Main lesson content
+    key_points = Column(JSON)                             # List of bullet points
+    worked_examples = Column(JSON)                        # List of {question, answer, explanation}
+
+    # External content (Oak Academy when available)
+    video_url = Column(String)
+    video_transcript = Column(Text)
+    external_resources = Column(JSON)                     # Links to additional resources
+
+    # Metadata
+    difficulty = Column(Integer, default=2)               # 1-5
+    estimated_minutes = Column(Integer, default=10)       # Time to complete
+    prerequisites = Column(JSON)                          # List of topic IDs
+    learning_objectives = Column(JSON)                    # What student will learn
+
+    # Freemium
+    is_free = Column(Boolean, default=True)               # False = paid only
+
+    # Timestamps
+    created_at = Column(DateTime, default=datetime.utcnow)
+    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+
+
+class StrategyGuide(Base):
+    """Strategy guides for question types"""
+    __tablename__ = "strategy_guides"
+
+    id = Column(String, primary_key=True)
+    question_type = Column(String, nullable=False, unique=True, index=True)  # synonyms, analogies, etc.
+    subject = Column(String, nullable=False)
+    title = Column(String, nullable=False)
+
+    # Content
+    what_is_it = Column(Text)                             # Description of question type
+    approach = Column(JSON)                               # Step-by-step approach list
+    common_mistakes = Column(JSON)                        # List of mistakes to avoid
+    time_tips = Column(JSON)                              # Time management tips
+    worked_examples = Column(JSON)                        # List of {question, answer, walkthrough}
+
+    # Metadata
+    typical_time_seconds = Column(Integer)                # How long this type should take
+    difficulty_range = Column(String)                     # e.g., "2-4" for difficulty 2-4
+
+    # Freemium
+    is_free = Column(Boolean, default=True)
+
+    # Timestamps
+    created_at = Column(DateTime, default=datetime.utcnow)
+
+
+class LearningPath(Base):
+    """Structured learning paths/curricula"""
+    __tablename__ = "learning_paths"
+
+    id = Column(String, primary_key=True)
+    title = Column(String, nullable=False)
+    description = Column(Text)
+
+    # Structure
+    duration_weeks = Column(Integer, default=12)
+    difficulty = Column(String, default="intermediate")   # beginner, intermediate, advanced
+    target_exam = Column(String)                          # 11plus_gl, 11plus_cem, etc.
+
+    # Weekly plan: [{week: 1, topics: [...], practice: [...], goals: [...]}]
+    weekly_plan = Column(JSON)
+
+    # Metadata
+    total_lessons = Column(Integer)
+    total_practice_questions = Column(Integer)
+
+    # Freemium
+    is_free = Column(Boolean, default=False)              # Full paths are paid
+    preview_weeks = Column(Integer, default=1)            # Free preview weeks
+
+    # Timestamps
+    created_at = Column(DateTime, default=datetime.utcnow)
+
+
+class PathProgress(Base):
+    """Student progress through a learning path"""
+    __tablename__ = "path_progress"
+
+    id = Column(String, primary_key=True)
+    student_id = Column(String, ForeignKey("students.id"), nullable=False)
+    path_id = Column(String, ForeignKey("learning_paths.id"), nullable=False)
+
+    # Progress
+    current_week = Column(Integer, default=1)
+    completed_topics = Column(JSON, default=list)         # List of topic IDs
+    completed_lessons = Column(JSON, default=list)        # List of lesson IDs
+
+    # Timestamps
+    started_at = Column(DateTime, default=datetime.utcnow)
+    last_activity = Column(DateTime, default=datetime.utcnow)
+    completed_at = Column(DateTime)                       # Null until complete
+
+
+class LessonProgress(Base):
+    """Track which lessons a student has completed"""
+    __tablename__ = "lesson_progress"
+
+    id = Column(String, primary_key=True)
+    student_id = Column(String, ForeignKey("students.id"), nullable=False)
+    lesson_id = Column(String, ForeignKey("topic_lessons.id"), nullable=False)
+
+    # Status
+    is_completed = Column(Boolean, default=False)
+    completed_at = Column(DateTime)
+    time_spent_seconds = Column(Integer, default=0)
+
+    # Notes
+    notes = Column(Text)                                  # Student's notes
+
+
+# ============================================================================
 # Database Functions
 # ============================================================================
 

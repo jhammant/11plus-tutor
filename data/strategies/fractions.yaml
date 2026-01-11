@@ -1,0 +1,106 @@
+question_type: fractions
+subject: mathematics
+title: "Working with Fractions"
+is_free: true
+
+what_is_it: |
+  Fraction questions test your understanding of parts of a whole.
+  You need to know how to add, subtract, multiply, and divide fractions,
+  as well as convert between fractions, decimals, and percentages.
+
+  Key terms:
+  - Numerator: top number (how many parts you have)
+  - Denominator: bottom number (how many parts make a whole)
+
+approach:
+  - "Step 1: Check if fractions need the same denominator"
+  - "Step 2: For +/- : find common denominator first"
+  - "Step 3: For × : multiply tops together, bottoms together"
+  - "Step 4: For ÷ : flip the second fraction and multiply"
+  - "Step 5: Always simplify your final answer"
+
+common_mistakes:
+  - "Adding denominators when adding fractions (wrong!)"
+  - "Forgetting to find common denominators for +/-"
+  - "Not simplifying the final answer"
+  - "Confusing 'of' with addition (1/2 OF 10 means 1/2 × 10)"
+
+time_tips:
+  - "Know common equivalent fractions: 1/2 = 2/4 = 3/6 = 5/10"
+  - "For 'fraction of a number', multiply the number by the fraction"
+  - "To simplify, divide top and bottom by same number"
+
+key_conversions:
+  - "1/2 = 0.5 = 50%"
+  - "1/4 = 0.25 = 25%"
+  - "3/4 = 0.75 = 75%"
+  - "1/5 = 0.2 = 20%"
+  - "1/10 = 0.1 = 10%"
+  - "1/3 ≈ 0.33 ≈ 33%"
+
+worked_examples:
+  - question: "Calculate: 1/4 + 2/3"
+    answer: "11/12"
+    walkthrough: |
+      Step 1: Find common denominator
+      - Denominators are 4 and 3
+      - LCM of 4 and 3 = 12
+
+      Step 2: Convert fractions
+      - 1/4 = 3/12 (multiply top and bottom by 3)
+      - 2/3 = 8/12 (multiply top and bottom by 4)
+
+      Step 3: Add
+      - 3/12 + 8/12 = 11/12 ✓
+
+      (11/12 can't be simplified further)
+
+  - question: "What is 3/4 of 60?"
+    answer: "45"
+    walkthrough: |
+      'Of' means multiply!
+
+      3/4 × 60 = (3 × 60) ÷ 4
+               = 180 ÷ 4
+               = 45 ✓
+
+      Alternative: Find 1/4 first
+      - 1/4 of 60 = 15
+      - 3/4 of 60 = 15 × 3 = 45 ✓
+
+  - question: "Simplify: 24/36"
+    answer: "2/3"
+    walkthrough: |
+      Find the highest common factor (HCF) of 24 and 36.
+
+      Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24
+      Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36
+
+      HCF = 12
+
+      24/36 = (24÷12)/(36÷12) = 2/3 ✓
+
+  - question: "Calculate: 2/5 ÷ 1/3"
+    answer: "6/5 or 1 1/5"
+    walkthrough: |
+      To divide fractions: FLIP and MULTIPLY
+
+      2/5 ÷ 1/3 = 2/5 × 3/1    [flip 1/3 to get 3/1]
+                = (2 × 3)/(5 × 1)
+                = 6/5 ✓
+
+      As a mixed number: 6/5 = 1 1/5 (1 whole and 1/5)
+
+  - question: "Convert 0.35 to a fraction in its simplest form"
+    answer: "7/20"
+    walkthrough: |
+      Step 1: 0.35 = 35/100 (35 hundredths)
+
+      Step 2: Simplify
+      - Both 35 and 100 are divisible by 5
+      - 35/100 = 7/20 ✓
+
+      (7 and 20 have no common factors, so this is simplest form)
+
+typical_time_seconds: 40
+difficulty_range: "2-4"

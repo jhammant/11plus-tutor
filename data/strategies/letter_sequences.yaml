@@ -1,0 +1,102 @@
+question_type: letter_sequences
+subject: verbal_reasoning
+title: "Letter Sequences & Patterns"
+is_free: true
+
+what_is_it: |
+  Letter sequence questions show you a pattern of letters and ask you
+  to find what comes next or to fill in a missing letter.
+
+  These test your ability to spot patterns - just like number sequences
+  but with letters of the alphabet instead.
+
+  Example: A, C, E, G, ? → Answer: I (every other letter)
+
+approach:
+  - "Step 1: Write out the alphabet position of each letter (A=1, B=2...)"
+  - "Step 2: Look for the pattern in the numbers"
+  - "Step 3: Apply the pattern to find the next number"
+  - "Step 4: Convert back to a letter"
+
+common_mistakes:
+  - "Not converting to numbers first"
+  - "Missing patterns that skip letters (every 2nd, every 3rd)"
+  - "Forgetting the alphabet has only 26 letters"
+  - "Looking for complex patterns when it's simple"
+
+time_tips:
+  - "Write A-Z with numbers 1-26 at the top of your paper before starting"
+  - "Look for common patterns: +1, +2, +3, alternating"
+  - "If stuck, work backwards from the answers"
+
+pattern_types:
+  - type: "Constant Gap"
+    example: "A, C, E, G (gap of 2 each time)"
+  - type: "Increasing Gap"
+    example: "A, B, D, G, K (gaps: 1, 2, 3, 4)"
+  - type: "Alternating"
+    example: "A, Z, B, Y, C, X (forwards and backwards)"
+  - type: "Two Sequences"
+    example: "A, M, B, N, C, O (two separate patterns mixed)"
+
+worked_examples:
+  - question: "What comes next? B, D, F, H, ?"
+    options: ["I", "J", "K", "L"]
+    answer: "J"
+    walkthrough: |
+      Convert to numbers:
+      - B = 2
+      - D = 4
+      - F = 6
+      - H = 8
+
+      Pattern: +2 each time (2, 4, 6, 8...)
+      Next: 8 + 2 = 10
+
+      Letter 10 = J ✓
+
+  - question: "What comes next? Z, X, V, T, ?"
+    options: ["S", "R", "Q", "P"]
+    answer: "R"
+    walkthrough: |
+      Convert to numbers:
+      - Z = 26
+      - X = 24
+      - V = 22
+      - T = 20
+
+      Pattern: -2 each time (going backwards through alphabet)
+      Next: 20 - 2 = 18
+
+      Letter 18 = R ✓
+
+  - question: "What comes next? A, B, D, G, ?"
+    options: ["J", "K", "L", "M"]
+    answer: "K"
+    walkthrough: |
+      Convert to numbers:
+      - A = 1
+      - B = 2 (gap: +1)
+      - D = 4 (gap: +2)
+      - G = 7 (gap: +3)
+
+      Pattern: The GAP increases by 1 each time!
+      - 1 → 2 (+1)
+      - 2 → 4 (+2)
+      - 4 → 7 (+3)
+      - 7 → ? (+4) = 11
+
+      Letter 11 = K ✓
+
+  - question: "Fill in the missing letter: A, C, ?, G, I"
+    answer: "E"
+    walkthrough: |
+      Convert: A=1, C=3, ?=?, G=7, I=9
+
+      Pattern: 1, 3, ?, 7, 9 → gaps of 2
+
+      Missing number: 3 + 2 = 5
+      Letter 5 = E ✓
+
+typical_time_seconds: 35
+difficulty_range: "2-4"

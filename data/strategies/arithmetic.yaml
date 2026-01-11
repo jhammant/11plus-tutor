@@ -1,0 +1,92 @@
+question_type: arithmetic
+subject: mathematics
+title: "Arithmetic & Mental Maths"
+is_free: true
+
+what_is_it: |
+  Arithmetic questions test your ability to work with numbers - adding,
+  subtracting, multiplying, and dividing. In 11+ exams, you often need
+  to do these calculations quickly in your head or with minimal working.
+
+  These questions also test order of operations (BIDMAS/BODMAS) and
+  your number sense.
+
+approach:
+  - "Step 1: Read the question carefully - what operation is needed?"
+  - "Step 2: Look for shortcuts (rounding, breaking numbers apart)"
+  - "Step 3: Estimate first to check your answer makes sense"
+  - "Step 4: Double-check by working backwards if time allows"
+
+common_mistakes:
+  - "Forgetting order of operations (BIDMAS)"
+  - "Making silly errors when rushing"
+  - "Not estimating to check answers"
+  - "Misreading the question (e.g., adding when should subtract)"
+
+time_tips:
+  - "Practice times tables until they're automatic"
+  - "Learn to break numbers apart: 47 × 6 = (50 × 6) - (3 × 6)"
+  - "Round and adjust: 198 + 45 ≈ 200 + 45 - 2 = 243"
+
+mental_math_tricks:
+  - trick: "Multiplying by 9"
+    method: "Multiply by 10, then subtract the original number"
+    example: "9 × 7 = 10 × 7 - 7 = 70 - 7 = 63"
+  - trick: "Multiplying by 11"
+    method: "For 2-digit numbers: split and add"
+    example: "11 × 36: 3_(3+6)_6 = 396"
+  - trick: "Squaring numbers ending in 5"
+    method: "Multiply first digit by (first digit + 1), append 25"
+    example: "35² = 3×4 = 12, append 25 = 1225"
+
+worked_examples:
+  - question: "Calculate: 156 + 287"
+    answer: "443"
+    walkthrough: |
+      Method 1 (Column addition):
+        156
+      + 287
+      -----
+        443  (6+7=13, carry 1; 5+8+1=14, carry 1; 1+2+1=4)
+
+      Method 2 (Mental - round and adjust):
+      287 is close to 300
+      156 + 300 = 456
+      But we added 13 too many (300-287=13)
+      456 - 13 = 443 ✓
+
+  - question: "Calculate: 24 × 25"
+    answer: "600"
+    walkthrough: |
+      Shortcut: 25 = 100 ÷ 4
+
+      So 24 × 25 = 24 × 100 ÷ 4
+                 = 2400 ÷ 4
+                 = 600 ✓
+
+      Alternative: 24 × 25 = 6 × 4 × 25 = 6 × 100 = 600
+
+  - question: "What is 15% of 80?"
+    answer: "12"
+    walkthrough: |
+      Method 1: 15% = 10% + 5%
+      - 10% of 80 = 8
+      - 5% of 80 = 4 (half of 10%)
+      - 15% = 8 + 4 = 12 ✓
+
+      Method 2: 15% = 15/100 = 3/20
+      80 × 3/20 = 240/20 = 12 ✓
+
+  - question: "Calculate: 8 + 4 × 3 - 6 ÷ 2"
+    answer: "17"
+    walkthrough: |
+      Remember BIDMAS: Brackets, Indices, Division/Multiplication, Addition/Subtraction
+
+      8 + 4 × 3 - 6 ÷ 2
+      = 8 + (4 × 3) - (6 ÷ 2)    [do × and ÷ first]
+      = 8 + 12 - 3
+      = 20 - 3
+      = 17 ✓
+
+typical_time_seconds: 30
+difficulty_range: "1-4"

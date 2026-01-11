@@ -1,0 +1,169 @@
+ID,Subject,Type,Difficulty,Question,Options,Correct Answer,Correct Index,Worked Solution,VERIFIED (Y/N),ISSUES/NOTES
+00b6c9c4-166c-48f9-b69b-e2392516f57a,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(donate, purchase, open) (accept, dull, miniature)",donate & accept | open & dull | purchase & miniature | donate & miniature | purchase & accept,donate & accept,0,'donate' and 'accept' are antonyms - they have opposite meanings.,,
+07ea6bc8-89de-403b-9a60-9216ab0c2cf9,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(above, wet, adore) (closed, dry, difficult)",adore & dry | above & dry | above & difficult | wet & difficult | wet & dry,wet & dry,4,'wet' and 'dry' are antonyms - they have opposite meanings.,,
+094ffbbb-e63a-405f-8d73-5d78b8a6d463,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(courageous, like, packed) (bare, despise, cowardly)",courageous & despise | packed & despise | like & cowardly | packed & bare | courageous & cowardly,packed & bare,3,'packed' and 'bare' are antonyms - they have opposite meanings.,,
+0a03817c-c80d-4f27-9fde-0f04595989ff,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(hot, warm, tepid) (cold, cool, lukewarm)",hot & cold | hot & lukewarm | warm & cool | tepid & cold | warm & lukewarm,hot & cold,0,Hot and cold are antonyms - they represent opposite ends of the temperature scale.,,
+10b53b71-1952-4afa-bd55-13ec3beb7a7b,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(new, wet, adore) (fearful, seldom, old)",wet & fearful | adore & seldom | wet & old | new & old,new & old,3,'new' and 'old' are antonyms - they have opposite meanings.,,
+14b1dc10-93cb-4194-a8e4-71acb09a2ac2,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(lovely, over, beautiful) (under, grotesque, take)",lovely & grotesque | beautiful & grotesque | lovely & take | over & take | over & under,over & under,4,'over' and 'under' are antonyms - they have opposite meanings.,,
+15f761e6-b89e-49b2-bc48-e6b5909beaf3,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, silent, generous) (dark, loud, selfish)",bright & dark | bright & loud | silent & dark | silent & selfish | generous & loud,bright & dark,0,"Bright and dark are direct opposites in meaning, representing opposite levels of light.",,
+17a676e5-e5cc-48c8-a452-3b4150c88c4c,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, gentle) (dark, modern, harsh)",bright & dark | bright & modern | ancient & dark | ancient & harsh | gentle & modern,bright & dark,0,"‘Bright’ and ‘dark’ are direct opposites in meaning, making them the correct antonym pair.",,
+182e3dbf-1f95-496c-bc0d-ba7d2cd5ced4,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, quiet) (dark, modern, noisy)",bright & dark | bright & modern | ancient & dark | ancient & noisy | quiet & modern,bright & dark,0,"‘Bright’ means full of light, while ‘dark’ means lacking light. These two words are direct opposites, making them antonyms.",,
+19846134-ccf9-4374-91b8-3e3a4c001ee3,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(correct, commence, wide) (back, conclude, wrong)",wide & conclude | commence & back | commence & wrong | correct & wrong,correct & wrong,3,'correct' and 'wrong' are antonyms - they have opposite meanings.,,
+1ab3407c-2c00-4029-8857-943b82a6397a,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, smooth) (dark, modern, rough)",bright & dark | bright & modern | ancient & dark | ancient & rough | smooth & modern,bright & dark,0,"Bright and dark are direct opposites, representing opposite levels of light. The other pairs do not have such a clear antonym relationship.",,
+1dab7860-4a17-44eb-b189-c043bb950043,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, quiet) (dark, modern, noisy)",bright & dark | bright & modern | ancient & dark | ancient & noisy | quiet & modern,bright & dark,0,"‘Bright’ means full of light, while ‘dark’ means lacking light. They are direct opposites, making them the correct antonym pair.",,
+1eb6d660-e56f-4348-a502-18c5fdbc05c3,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(fast, courageous, start) (cool, never, finish)",courageous & finish | fast & finish | fast & never | start & finish | start & never,start & finish,3,'start' and 'finish' are antonyms - they have opposite meanings.,,
+24082445-421e-41b2-80f8-a4213ef093ef,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(elderly, warm, noisy) (bare, silent, below)",elderly & below | noisy & silent | warm & below | elderly & silent,noisy & silent,1,'noisy' and 'silent' are antonyms - they have opposite meanings.,,
+2599b499-eaa7-44a7-ab4d-9098a3b6b640,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, soft) (dark, modern, hard)",bright & dark | bright & modern | ancient & dark | ancient & hard | soft & modern,bright & dark,0,"‘Bright’ and ‘dark’ are direct opposites in meaning, making them the correct antonym pair.",,
+266d4533-ecad-45d2-b969-4b3c7dfb8bcc,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, expand) (dim, modern, shrink)",bright & dim | bright & modern | ancient & dim | ancient & shrink | expand & modern,bright & dim,0,Bright and dim are antonyms because they represent opposite levels of light intensity.,,
+32df90d1-41ab-4d71-9fe6-0b5c7eef8c3c,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(begin, fresh, beautiful) (out, dislike, end)",fresh & out | fresh & end | begin & end | beautiful & dislike,begin & end,2,'begin' and 'end' are antonyms - they have opposite meanings.,,
+35180e33-2e91-4997-951e-0a7e7d0c7dad,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(heavy, powerful, often) (challenging, light, locked)",powerful & challenging | powerful & locked | often & light | heavy & locked | heavy & light,heavy & light,4,'heavy' and 'light' are antonyms - they have opposite meanings.,,
+37165528-8fd5-44c9-ad78-6db745d4980c,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, quiet, ancient) (dark, noisy, modern)",bright & dark | bright & noisy | quiet & dark | quiet & modern | ancient & noisy,bright & dark,0,"These words are antonyms because 'bright' means full of light, while 'dark' means lacking light; they represent opposite ends of the same spectrum.",,
+3d5b3d2f-e89d-4065-90d3-6b0fa9f9dc94,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, swift) (dark, modern, slow)",bright & dark | bright & modern | ancient & dark | ancient & slow | swift & modern,bright & dark,0,"‘Bright’ and ‘dark’ are direct opposites, representing opposite levels of light. The other pairs do not have a clear antonym relationship.",,
+401ac8eb-c548-4378-855e-d9022fa10311,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, expand) (dark, modern, shrink)",bright & dark | bright & modern | ancient & dark | ancient & shrink | expand & modern,bright & dark,0,"‘Bright’ means full of light, while ‘dark’ means lacking light. They are direct opposites, making them the correct antonym pair.",,
+40f927b3-0ca6-43fc-9b4c-c67047fabc78,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, fragile) (dark, modern, sturdy)",bright & dark | bright & modern | ancient & dark | ancient & sturdy | fragile & modern,bright & dark,0,"Bright and dark are direct opposites in meaning, representing opposite levels of light. The other pairs do not have such a clear antonym relationship.",,
+438cfa7a-f229-4890-886e-457cd52b6fdf,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(start, smart, thick) (short, thin, sell)",start & thin | thick & thin | start & sell | smart & sell,thick & thin,1,'thick' and 'thin' are antonyms - they have opposite meanings.,,
+43e225ef-7cec-49fa-9fc9-d308b95df02c,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(noisy, courageous, lovely) (fearful, foolish, thin)",noisy & thin | courageous & fearful | noisy & foolish | courageous & thin | lovely & foolish,courageous & fearful,1,'courageous' and 'fearful' are antonyms - they have opposite meanings.,,
+44006102-d5f9-4aca-b4ea-2f7c03be2e0a,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, gentle, increase) (dark, harsh, decrease)",bright & dark | bright & harsh | gentle & dark | gentle & decrease | increase & harsh,bright & dark,0,"‘Bright’ and ‘dark’ are direct opposites, representing opposite levels of light. The other pairs do not have a clear antonym relationship.",,
+449fbb97-c510-4bad-932d-897fd6ad1406,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, quiet) (dark, modern, loud)",bright & dark | bright & modern | ancient & dark | ancient & loud | quiet & modern,bright & dark,0,"Bright and dark are direct opposites in meaning, representing opposite levels of light.",,
+4b205131-3115-4cc6-bae1-17236566c4fa,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, smooth) (dull, modern, rough)",bright & dull | bright & modern | ancient & dull | ancient & rough | smooth & modern,bright & dull,0,"‘Bright’ means giving a lot of light or being vivid, while ‘dull’ means lacking brightness or intensity. These two words are direct opposites in meaning.",,
+4b76c801-f5e6-4985-a3a1-d1e006853040,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, quiet) (dark, modern, noisy)",bright & dark | bright & modern | ancient & dark | ancient & noisy | quiet & modern,bright & dark,0,"Bright and dark are direct opposites in meaning, representing opposite levels of light.",,
+4d831ae2-e09f-4e3f-a2de-044d2bf666d1,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(commence, thick, heavy) (shut, hideous, light)",heavy & light | commence & light | heavy & hideous | commence & hideous | thick & light,heavy & light,0,'heavy' and 'light' are antonyms - they have opposite meanings.,,
+50956379-cc14-4770-a1fa-f4354259628d,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(wonderful, good, giant) (backward, young, awful)",wonderful & awful | good & awful | good & backward | giant & young,wonderful & awful,0,'wonderful' and 'awful' are antonyms - they have opposite meanings.,,
+509d0965-77be-41a1-a303-0e1ebd2a7209,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(new, modern, courageous) (tiny, ancient, terrible)",new & ancient | courageous & ancient | new & terrible | modern & ancient | modern & terrible,modern & ancient,3,'modern' and 'ancient' are antonyms - they have opposite meanings.,,
+52e64abb-1092-4f97-ab75-c1f84309f093,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(wonderful, ahead, over) (awful, bottom, incorrect)",wonderful & awful | over & bottom | ahead & incorrect | wonderful & incorrect | ahead & awful,wonderful & awful,0,'wonderful' and 'awful' are antonyms - they have opposite meanings.,,
+553e1c52-636e-4761-97d7-ab62d6dfc22c,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, quiet) (dark, modern, noisy)",bright & dark | bright & modern | ancient & dark | ancient & noisy | quiet & modern,bright & dark,0,"Bright and dark are direct opposites in meaning, representing opposite levels of light.",,
+55a4f4e5-8262-4aa8-ae1b-d0d0635516a5,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(pretty, frequently, right) (defeat, incorrect, narrow)",pretty & incorrect | frequently & narrow | right & incorrect | pretty & narrow,right & incorrect,2,'right' and 'incorrect' are antonyms - they have opposite meanings.,,
+55c0b62f-37d1-4c9a-817b-4da88e8364cb,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, swift, ancient) (dark, slow, modern)",bright & dark | bright & slow | swift & dark | swift & modern | ancient & slow,bright & dark,0,"These words are antonyms because 'bright' means full of light or shining, while 'dark' means lacking light; they represent opposite ends of the same spectrum.",,
+653f7696-19dd-4c58-a436-62c639b963bb,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, soft) (dark, modern, hard)",bright & dark | bright & modern | ancient & dark | ancient & hard | soft & modern,bright & dark,0,"‘Bright’ means giving a lot of light, while ‘dark’ means lacking light. They are direct opposites, making them the correct antonym pair.",,
+6aa984fc-8efe-4173-9fa3-125d000d37e8,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(affluent, give, warm) (dull, poor, destitute)",affluent & destitute | warm & poor | give & dull | give & destitute,affluent & destitute,0,'affluent' and 'destitute' are antonyms - they have opposite meanings.,,
+6ac5ced9-32f4-4a94-b998-06f137b411df,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, silent) (dark, modern, noisy)",bright & dark | bright & modern | ancient & dark | ancient & noisy | silent & modern,bright & dark,0,"Bright and dark are direct opposites in meaning, representing high and low levels of light. The other pairs do not have a clear antonym relationship.",,
+6b2d8dc5-ac0d-40ee-a2ec-26f587e6d447,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, swift) (dull, modern, slow)",bright & dull | bright & modern | ancient & dull | ancient & slow | swift & modern,bright & dull,0,"These words are antonyms because 'bright' means giving a lot of light or being vivid, while 'dull' means lacking brightness or vividness.",,
+6ea70df8-aac0-4404-ac8d-e267df956252,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(clean, giant, open) (closed, foolish, take)",open & foolish | clean & foolish | giant & take | open & closed | clean & take,open & closed,3,'open' and 'closed' are antonyms - they have opposite meanings.,,
+71ac412c-8ce1-429c-a2f3-863aff979801,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(start, deafening, effortless) (dim, hushed, gloomy)",start & hushed | start & gloomy | effortless & hushed | deafening & gloomy | deafening & hushed,deafening & hushed,4,'deafening' and 'hushed' are antonyms - they have opposite meanings.,,
+722bdbc6-4290-486d-aeae-6f250493a284,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(victory, happy, smart) (dumb, dim, slow)",victory & slow | smart & dumb | smart & dim | victory & dim | happy & slow,smart & dumb,1,'smart' and 'dumb' are antonyms - they have opposite meanings.,,
+7e32a3da-81de-4f70-bcc1-a29240519717,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(broad, strong, long) (fail, weak, short)",strong & short | broad & weak | broad & short | strong & weak | long & weak,strong & weak,3,'strong' and 'weak' are antonyms - they have opposite meanings.,,
+7e9c3e15-c76f-4c06-b6fc-138a39d484a1,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(internal, victory, win) (locked, defeat, dirty)",internal & defeat | victory & dirty | victory & defeat | internal & dirty | win & defeat,victory & defeat,2,'victory' and 'defeat' are antonyms - they have opposite meanings.,,
+7fc53273-16b6-4944-aebc-62e238f6d7be,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(hot, often, inside) (weak, cold, false)",inside & cold | often & weak | hot & cold | hot & false | often & false,hot & cold,2,'hot' and 'cold' are antonyms - they have opposite meanings.,,
+800a215c-13ce-4a85-ad98-89b764c1186a,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, quiet) (dark, modern, noisy)",bright & dark | bright & modern | ancient & dark | ancient & noisy | quiet & modern,bright & dark,0,"‘Bright’ and ‘dark’ are direct opposites, representing opposite ends of the light spectrum.",,
+84642f45-ff13-4f3d-b302-cc32bf374925,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, swift) (dull, modern, slow)",bright & dull | ancient & modern | swift & slow | bright & modern | ancient & dull,bright & dull,0,"‘Bright’ means giving a lot of light or being vivid, while ‘dull’ means lacking brightness or vividness. They are direct opposites in meaning.",,
+853edeb0-17af-47c3-ab66-bb269f54af68,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(boiling, good, over) (under, silent, low)",boiling & silent | boiling & low | over & silent | over & under | good & low,over & under,3,'over' and 'under' are antonyms - they have opposite meanings.,,
+85b4e4f3-4c9f-469b-b03b-098c9933d5e6,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(often, clean, good) (bad, feeble, cold)",often & feeble | good & feeble | often & cold | clean & cold | good & bad,good & bad,4,'good' and 'bad' are antonyms - they have opposite meanings.,,
+87a1b5f5-d536-482c-afa5-f8809aa55115,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, narrow, silent) (dark, wide, noisy)",bright & dark | bright & wide | narrow & dark | narrow & noisy | silent & wide,bright & dark,0,"These words are antonyms because 'bright' means full of light, while 'dark' means lacking light, making them direct opposites.",,
+89d0a375-b391-49e7-beae-e1b132e8217e,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, soft) (dark, modern, hard)",bright & dark | bright & modern | ancient & dark | ancient & hard | soft & modern,bright & dark,0,"Bright and dark are direct opposites in meaning, representing high and low levels of light.",,
+8baa32df-6231-4e95-874c-9c423d0aa7f0,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(offer, tidy, thick) (cool, low, thin)",tidy & thin | thick & thin | offer & thin | thick & low | offer & low,thick & thin,1,'thick' and 'thin' are antonyms - they have opposite meanings.,,
+8bdd64f4-1485-4f0b-a46f-ef8fc6241711,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(elderly, rich, unlocked) (bottom, youthful, take)",elderly & take | unlocked & youthful | elderly & youthful | rich & bottom | rich & take,elderly & youthful,2,'elderly' and 'youthful' are antonyms - they have opposite meanings.,,
+8d03f89d-dd7e-48d5-a2a5-1286c948bf80,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(wet, warm, noisy) (dry, tiny, seldom)",wet & dry | warm & seldom | noisy & tiny | wet & seldom | warm & dry,wet & dry,0,'wet' and 'dry' are antonyms - they have opposite meanings.,,
+8d21643d-625d-45ea-920d-0e5915b997be,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(win, strong, offer) (lose, empty, quiet)",strong & quiet | win & quiet | strong & lose | win & lose | offer & empty,win & lose,3,'win' and 'lose' are antonyms - they have opposite meanings.,,
+90037d3e-2580-44d8-b0c6-a4326cd6d34b,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(rich, brilliant, powerful) (dull, under, arid)",rich & arid | brilliant & dull | brilliant & arid | powerful & under | rich & under,brilliant & dull,1,'brilliant' and 'dull' are antonyms - they have opposite meanings.,,
+92ec238c-74b6-4f8e-93c9-8128ab549300,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(strong, big, high) (weak, lose, vacant)",strong & weak | strong & vacant | big & weak | big & vacant | high & lose,strong & weak,0,'strong' and 'weak' are antonyms - they have opposite meanings.,,
+956f5b2a-a267-407f-ab9e-cb4c74e11e97,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(packed, quick, spotless) (slow, rarely, trade)",packed & trade | spotless & rarely | quick & slow | packed & rarely | quick & trade,quick & slow,2,'quick' and 'slow' are antonyms - they have opposite meanings.,,
+96f0d7eb-be6a-4a53-84e3-4ebfdce6e01d,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(full, wet, moist) (parched, young, silent)",wet & silent | moist & parched | moist & young | full & silent | full & young,moist & parched,1,'moist' and 'parched' are antonyms - they have opposite meanings.,,
+9e82f4e4-5288-4cd5-82a6-6fbd8d99b46d,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, gentle, noisy) (dark, harsh, silent)",bright & dark | bright & harsh | gentle & dark | gentle & silent | noisy & harsh,bright & dark,0,"‘Bright’ means full of light or cheerful, while ‘dark’ means lacking light or gloomy. These two words are direct opposites, making them the correct antonym pair.",,
+9ed4d9ca-34ad-46e5-9664-36a796621e6f,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, silent, ancient) (dark, noisy, modern)",bright & dark | bright & noisy | silent & dark | silent & modern | ancient & noisy,bright & dark,0,"‘Bright’ and ‘dark’ are direct opposites in meaning, representing opposite levels of light. The other pairs do not have such a clear antonym relationship.",,
+a0035a4b-5189-4daa-9335-6d4ed258c7c3,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(old, elderly, always) (awful, young, locked)",old & young | old & locked | elderly & locked | elderly & awful | always & young,old & young,0,'old' and 'young' are antonyms - they have opposite meanings.,,
+a1e0ca53-5fdb-49d4-a3ec-b4224be56c87,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(pretty, easy, full) (difficult, cold, dull)",easy & dull | full & cold | easy & difficult | pretty & dull | pretty & cold,easy & difficult,2,'easy' and 'difficult' are antonyms - they have opposite meanings.,,
+a5e91c28-2f41-4631-961d-559e819d49d1,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(wonderful, tall, adore) (youthful, slow, short)",wonderful & short | adore & slow | tall & short | wonderful & slow,tall & short,2,'tall' and 'short' are antonyms - they have opposite meanings.,,
+b73ff57a-ba0d-4326-bdf2-368c329ad360,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(give, smart, right) (slow, take, miniature)",right & take | smart & slow | smart & miniature | give & miniature | give & take,give & take,4,'give' and 'take' are antonyms - they have opposite meanings.,,
+b9a67beb-3fd0-4837-9f23-fa3715b388a0,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(spotless, love, start) (finish, parched, modern)",start & finish | love & modern | spotless & modern | spotless & parched | start & parched,start & finish,0,'start' and 'finish' are antonyms - they have opposite meanings.,,
+bcc85672-b154-43da-9e9e-6eb590434b4a,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, fragile) (dark, modern, sturdy)",bright & dark | bright & modern | ancient & dark | ancient & sturdy | fragile & modern,bright & dark,0,"‘Bright’ means giving a lot of light, while ‘dark’ means lacking light. They represent opposite ends of the same spectrum, making them antonyms.",,
+c0526a74-3c9d-40cc-af07-a650d19a8081,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(beautiful, damp, brilliant) (trade, receive, arid)",beautiful & arid | brilliant & receive | beautiful & receive | damp & arid,damp & arid,3,'damp' and 'arid' are antonyms - they have opposite meanings.,,
+c1de4f3b-8855-4d08-91da-c7f1dd0d0bc1,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(huge, tall, purchase) (trade, receive, slim)",purchase & receive | tall & slim | purchase & trade | huge & slim | huge & receive,purchase & trade,2,'purchase' and 'trade' are antonyms - they have opposite meanings.,,
+c2ecc855-4a38-4636-89c6-ec04670134d7,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, silent, ancient) (dark, noisy, modern)",bright & dark | bright & noisy | silent & dark | silent & modern | ancient & noisy,bright & dark,0,"‘Bright’ and ‘dark’ are direct opposites in meaning, making them the correct pair of antonyms.",,
+c8a1050b-0e4b-4e1d-b8d0-e6f73f2dac43,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(hot, excellent, open) (terrible, cold, never)",excellent & terrible | hot & cold | excellent & never | open & cold | hot & never,excellent & terrible,0,'excellent' and 'terrible' are antonyms - they have opposite meanings.,,
+ca6e9026-d56a-4d1a-840c-eb8b15a66587,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(modern, correct, moist) (silent, cold, parched)",modern & parched | moist & cold | correct & parched | modern & cold | moist & parched,moist & parched,4,'moist' and 'parched' are antonyms - they have opposite meanings.,,
+cb0fd3bf-4b85-4c85-b780-cbf929144a93,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(wide, above, highest) (below, short, accept)",wide & short | above & below | highest & short | wide & accept | above & accept,above & below,1,'above' and 'below' are antonyms - they have opposite meanings.,,
+ce2bdeeb-ea59-40ed-8f8c-05a3f3c364a6,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(front, huge, wide) (rarely, minute, hideous)",huge & minute | wide & minute | front & hideous | front & minute | huge & hideous,huge & minute,0,'huge' and 'minute' are antonyms - they have opposite meanings.,,
+cf1fdec1-c425-4554-91ed-86eaca1e51aa,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(generous, ancient, bright) (stingy, modern, dull)",generous & stingy | generous & modern | ancient & stingy | ancient & dull | bright & modern,generous & stingy,0,"Generous means giving freely, while stingy means unwilling to give or spend; they are direct opposites.",,
+d415b0d4-6c58-43ba-afb8-8ff7062b461d,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, soft) (dark, modern, hard)",bright & dark | bright & modern | ancient & dark | ancient & hard | soft & modern,bright & dark,0,"These words are antonyms because 'bright' means giving a lot of light, while 'dark' means lacking light; they represent opposite ends of the same spectrum.",,
+dde23942-5b05-480e-af6c-7b3105319358,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(happy, cold, fast) (sad, hot, slow)",happy & sad | happy & hot | cold & sad | cold & slow | fast & hot,happy & sad,0,"These words are antonyms because 'happy' means feeling pleasure or joy, while 'sad' means feeling sorrow or unhappiness; they represent opposite emotional states.",,
+f03a4899-f39b-46f0-8b14-feaa750699be,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(always, old, modern) (ancient, dark, vacant)",modern & dark | modern & ancient | always & vacant | old & vacant | always & dark,modern & ancient,1,'modern' and 'ancient' are antonyms - they have opposite meanings.,,
+f0a74353-0214-496b-bc4a-3fc03216e80d,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(clever, brilliant, succeed) (hideous, stupid, impoverished)",brilliant & hideous | clever & stupid | clever & impoverished | brilliant & impoverished | succeed & stupid,clever & stupid,1,'clever' and 'stupid' are antonyms - they have opposite meanings.,,
+f24de312-3021-4654-a216-2c298fabd3e6,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, silent) (dark, modern, noisy)",bright & dark | bright & modern | ancient & dark | ancient & noisy | silent & modern,bright & dark,0,"‘Bright’ and ‘dark’ are direct opposites in meaning, making them the correct antonym pair.",,
+f33f2ee9-035c-4dbb-83c0-0b500de2fb2b,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(true, giant, in) (out, destitute, gloomy)",true & gloomy | in & out | true & destitute | in & destitute | giant & gloomy,in & out,1,'in' and 'out' are antonyms - they have opposite meanings.,,
+f89916ee-a6e4-4332-8477-da5aa2058786,verbal_reasoning,antonyms,2,"Find two words, one from each group, that are most opposite in meaning.
+(full, elderly, quick) (empty, dry, external)",elderly & empty | full & external | full & empty | quick & dry | elderly & external,full & empty,2,'full' and 'empty' are antonyms - they have opposite meanings.,,
+fbf8dbdf-2585-487c-a710-5d5e951ac054,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(bright, ancient, soft) (dark, modern, hard)",bright & dark | bright & modern | ancient & dark | ancient & hard | soft & modern,bright & dark,0,"‘Bright’ means full of light, while ‘dark’ means lacking light. These two words are direct opposites, making them antonyms.",,
+fc4e6f74-468a-4566-b08e-266668cb7002,verbal_reasoning,antonyms,3,"Find two words, one from each group, that are most opposite in meaning.
+(top, rich, offer) (rarely, light, receive)",rich & receive | top & light | offer & receive | top & receive | offer & light,offer & receive,2,'offer' and 'receive' are antonyms - they have opposite meanings.,,

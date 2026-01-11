@@ -1,0 +1,89 @@
+subject: mathematics
+topic: sequences
+title: Number Sequences
+is_free: true
+
+explanation: |
+  Number sequences are ordered lists of numbers that follow a pattern or rule. In the 11+ exam, you'll need to identify the pattern and find missing numbers.
+
+  COMMON SEQUENCE TYPES:
+
+  1. ARITHMETIC SEQUENCES (add or subtract same number)
+     - 2, 5, 8, 11, 14... (add 3 each time)
+     - 50, 45, 40, 35... (subtract 5 each time)
+
+  2. GEOMETRIC SEQUENCES (multiply or divide by same number)
+     - 2, 4, 8, 16, 32... (multiply by 2)
+     - 81, 27, 9, 3... (divide by 3)
+
+  3. SQUARE NUMBERS
+     - 1, 4, 9, 16, 25, 36... (1x1, 2x2, 3x3...)
+
+  4. TRIANGULAR NUMBERS
+     - 1, 3, 6, 10, 15, 21... (add 2, add 3, add 4...)
+
+  5. FIBONACCI-STYLE (add previous two numbers)
+     - 1, 1, 2, 3, 5, 8, 13... (each = sum of previous two)
+
+  6. TWO-STEP RULES
+     - 1, 4, 7, 10... (multiply by 3, add 1? No - just add 3!)
+     - 3, 7, 15, 31... (multiply by 2, add 1)
+
+key_points:
+  - Look at the DIFFERENCES between consecutive numbers
+  - If differences are constant, it's arithmetic
+  - If differences are changing, look at the pattern in the differences
+  - Check for multiplication/division patterns
+  - Some sequences combine operations (x2 then +1)
+
+common_mistakes:
+  - Only looking at the first few numbers
+  - Not calculating all the differences
+  - Assuming all sequences add the same amount
+  - Missing two-step rules
+  - Arithmetic errors when finding differences
+
+tips:
+  - Write out the differences between each pair of numbers
+  - If differences aren't constant, look at differences of differences
+  - Know your square and cube numbers
+  - Check your answer by continuing the pattern
+  - Look for familiar number patterns (primes, squares, powers of 2)
+
+worked_examples:
+  - question: "Find the next number: 7, 12, 17, 22, ___"
+    answer: "27"
+    explanation: |
+      Find the differences:
+      12 - 7 = 5
+      17 - 12 = 5
+      22 - 17 = 5
+
+      Pattern: Add 5 each time
+      Next: 22 + 5 = 27
+
+  - question: "Find the next number: 3, 6, 12, 24, ___"
+    answer: "48"
+    explanation: |
+      Check differences: 3, 6, 12 - not constant
+      Check ratios: 6/3 = 2, 12/6 = 2, 24/12 = 2
+
+      Pattern: Multiply by 2 each time
+      Next: 24 x 2 = 48
+
+  - question: "Find the missing number: 2, 5, 11, ___, 47"
+    answer: "23"
+    explanation: |
+      Look at gaps and work backwards from 47:
+      5 - 2 = 3
+      11 - 5 = 6
+      Notice: 6 = 3 x 2
+
+      Check if differences double:
+      ? - 11 should be 12 (6 x 2)
+      47 - ? should be 24 (12 x 2)
+
+      47 - 24 = 23
+      Check: 23 - 11 = 12 (correct!)
+
+      Pattern: Each difference is double the previous

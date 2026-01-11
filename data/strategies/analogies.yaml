@@ -1,0 +1,94 @@
+question_type: analogies
+subject: verbal_reasoning
+title: "Solving Analogies"
+is_free: true
+
+what_is_it: |
+  Analogies test your ability to see relationships between words.
+  The format is: "A is to B as C is to ?"
+
+  You need to identify the relationship between the first pair,
+  then apply that same relationship to find the answer.
+
+  Example: "Cat is to kitten as dog is to puppy"
+  Relationship: Adult animal → Baby animal
+
+approach:
+  - "Step 1: Identify the relationship in the first pair"
+  - "Step 2: Put it into words: 'A is the ___ of B'"
+  - "Step 3: Apply the same relationship to the second pair"
+  - "Step 4: Check your answer fits the pattern exactly"
+
+common_mistakes:
+  - "Focusing on surface similarities instead of relationships"
+  - "Not identifying the EXACT relationship"
+  - "Picking an answer that's related but doesn't match the pattern"
+  - "Reversing the relationship direction"
+
+time_tips:
+  - "Spend 5 seconds identifying the relationship clearly"
+  - "If stuck, try each answer and see which fits best"
+  - "Common relationships: opposites, part-whole, size, category"
+
+relationship_types:
+  - type: "Synonyms"
+    example: "big : large :: small : tiny"
+  - type: "Antonyms"
+    example: "hot : cold :: up : down"
+  - type: "Part to Whole"
+    example: "finger : hand :: toe : foot"
+  - type: "Category"
+    example: "apple : fruit :: carrot : vegetable"
+  - type: "Degree/Size"
+    example: "warm : hot :: cool : cold"
+  - type: "Function"
+    example: "pen : write :: knife : cut"
+  - type: "Cause & Effect"
+    example: "rain : wet :: sun : dry"
+
+worked_examples:
+  - question: "Glove is to hand as sock is to ?"
+    options: ["arm", "leg", "foot", "shoe"]
+    answer: "foot"
+    walkthrough: |
+      Step 1: What's the relationship?
+      - A glove covers/protects a hand
+      - A glove is worn ON the hand
+
+      Step 2: Apply to sock:
+      - What does a sock cover/protect?
+      - What is a sock worn ON?
+      - Answer: foot ✓
+
+      Why not "shoe"? A shoe is worn over a sock, but it's not what
+      the sock covers directly.
+
+  - question: "Book is to read as food is to ?"
+    options: ["cook", "eat", "buy", "taste"]
+    answer: "eat"
+    walkthrough: |
+      Step 1: Relationship between book and read?
+      - You READ a book (that's its primary purpose/use)
+      - Book → action you do with it
+
+      Step 2: What do you DO with food?
+      - The primary action with food is to EAT it
+
+      Why not "cook"? Not all food is cooked, but all food is eaten.
+      Why not "taste"? Tasting is part of eating, but eating is the main action.
+
+  - question: "Bird is to nest as bee is to ?"
+    options: ["honey", "flower", "hive", "sting"]
+    answer: "hive"
+    walkthrough: |
+      Step 1: What's a nest to a bird?
+      - A nest is where a bird LIVES/makes its home
+
+      Step 2: Where does a bee live?
+      - A bee lives in a hive ✓
+
+      Why not "honey"? Bees make honey, but that's not where they live.
+      Why not "flower"? Bees visit flowers, but don't live there.
+
+typical_time_seconds: 35
+difficulty_range: "2-4"

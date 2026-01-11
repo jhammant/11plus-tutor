@@ -1,0 +1,87 @@
+question_type: odd_one_out
+subject: verbal_reasoning
+title: "Finding the Odd One Out"
+is_free: true
+
+what_is_it: |
+  In odd one out questions, you're given a group of words and must find
+  the one that doesn't belong with the others.
+
+  The other words share something in common - a category, meaning,
+  or characteristic - while one word is different.
+
+  Example: apple, banana, carrot, orange
+  Odd one out: carrot (it's a vegetable, the others are fruits)
+
+approach:
+  - "Step 1: Look at all the words and ask 'What could link them?'"
+  - "Step 2: Find the common theme (category, meaning, letters, sounds)"
+  - "Step 3: Identify which word DOESN'T fit that theme"
+  - "Step 4: Double-check by confirming the others DO share the link"
+
+common_mistakes:
+  - "Picking a word that's different in an obvious but wrong way"
+  - "Not considering ALL possible groupings"
+  - "Missing subtle categories (e.g., all have double letters except one)"
+  - "Overthinking when the answer is simple"
+
+time_tips:
+  - "Start by looking for obvious categories (animals, colours, etc.)"
+  - "If no obvious category, look at word structure (letters, syllables)"
+  - "Trust your first instinct if 4 words clearly group together"
+
+category_types:
+  - type: "Meaning/Category"
+    example: "dog, cat, table, rabbit → table (not an animal)"
+  - type: "Part of Speech"
+    example: "run, jump, quickly, swim → quickly (adverb, not verb)"
+  - type: "Word Structure"
+    example: "book, look, cook, food → food (doesn't rhyme with -ook)"
+  - type: "Number of Syllables"
+    example: "cat, dog, elephant, rat → elephant (3 syllables vs 1)"
+
+worked_examples:
+  - question: "Which word is the odd one out?\npiano, violin, trumpet, drum, guitar"
+    answer: "trumpet"
+    walkthrough: |
+      What do these have in common? They're all musical instruments.
+      But what KIND of instruments?
+
+      - piano: You press keys (strings inside) - STRING instrument
+      - violin: You use a bow on strings - STRING instrument
+      - trumpet: You blow into it - BRASS/WIND instrument ← DIFFERENT!
+      - drum: You hit it - PERCUSSION... wait, let's reconsider
+
+      Actually, let's group by how you play them:
+      - piano, violin, guitar: All have STRINGS
+      - drum: Hit with sticks
+      - trumpet: Blow air
+
+      The question might want: trumpet (only BRASS instrument)
+      Or: drum (only PERCUSSION instrument)
+
+      Most likely answer: trumpet (only wind instrument among string/percussion)
+
+  - question: "Which word is the odd one out?\nred, blue, green, happy, yellow"
+    answer: "happy"
+    walkthrough: |
+      This one is straightforward:
+      - red, blue, green, yellow: All COLOURS
+      - happy: An EMOTION, not a colour ✓
+
+      Answer: happy
+
+  - question: "Which word is the odd one out?\nbook, look, cook, food, hook"
+    answer: "food"
+    walkthrough: |
+      Look at the word structure:
+      - book: ends in -ook
+      - look: ends in -ook
+      - cook: ends in -ook
+      - food: ends in -ood ← DIFFERENT!
+      - hook: ends in -ook
+
+      Answer: food (different spelling pattern)
+
+typical_time_seconds: 30
+difficulty_range: "2-3"

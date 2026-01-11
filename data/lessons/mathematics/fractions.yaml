@@ -1,0 +1,87 @@
+subject: mathematics
+topic: fractions
+title: Working with Fractions
+is_free: true
+
+explanation: |
+  Fractions represent parts of a whole. Understanding fractions is crucial for the 11+ exam as they appear in many question types.
+
+  A fraction has two parts:
+  - NUMERATOR (top number): How many parts you have
+  - DENOMINATOR (bottom number): How many equal parts the whole is divided into
+
+  For example, 3/4 means "3 out of 4 equal parts"
+
+  KEY CONCEPTS:
+
+  Equivalent fractions: Different fractions that represent the same amount
+  - 1/2 = 2/4 = 4/8 = 50/100
+  - Multiply or divide both top and bottom by the same number
+
+  Simplifying fractions: Reducing to lowest terms
+  - 8/12 = 2/3 (divide both by 4)
+  - Find the highest common factor (HCF)
+
+  Comparing fractions: Which is bigger?
+  - Same denominator: Compare numerators (3/8 < 5/8)
+  - Different denominators: Find common denominator first
+
+  Mixed numbers and improper fractions:
+  - Mixed number: 2 3/4 (two and three-quarters)
+  - Improper fraction: 11/4 (numerator bigger than denominator)
+
+key_points:
+  - To add/subtract fractions, they must have the SAME denominator
+  - To multiply fractions, multiply top x top and bottom x bottom
+  - To divide fractions, flip the second fraction and multiply
+  - Always simplify your final answer
+  - Know common fraction-decimal-percentage conversions
+
+common_mistakes:
+  - Adding denominators when adding fractions (wrong!)
+  - Forgetting to find a common denominator before adding
+  - Not simplifying the final answer
+  - Confusing mixed numbers with improper fractions
+  - Forgetting to flip when dividing fractions
+
+tips:
+  - Learn common equivalent fractions (1/2 = 2/4 = 3/6 = 4/8)
+  - Know fraction-decimal conversions (1/2 = 0.5, 1/4 = 0.25)
+  - Draw pictures to visualize fraction problems
+  - Always check if your answer can be simplified
+
+worked_examples:
+  - question: "Calculate 2/5 + 1/3"
+    answer: "11/15"
+    explanation: |
+      Step 1: Find common denominator
+      - LCM of 5 and 3 is 15
+
+      Step 2: Convert fractions
+      - 2/5 = 6/15 (multiply top and bottom by 3)
+      - 1/3 = 5/15 (multiply top and bottom by 5)
+
+      Step 3: Add numerators
+      - 6/15 + 5/15 = 11/15
+
+      The answer 11/15 cannot be simplified further.
+
+  - question: "Calculate 3/4 x 2/5"
+    answer: "3/10"
+    explanation: |
+      To multiply fractions:
+      - Multiply numerators: 3 x 2 = 6
+      - Multiply denominators: 4 x 5 = 20
+      - Result: 6/20
+
+      Simplify: 6/20 = 3/10 (divide both by 2)
+
+  - question: "Which is larger: 3/5 or 5/8?"
+    answer: "5/8"
+    explanation: |
+      Find a common denominator (LCM of 5 and 8 is 40):
+      - 3/5 = 24/40 (multiply by 8)
+      - 5/8 = 25/40 (multiply by 5)
+
+      Compare: 25/40 > 24/40
+      Therefore 5/8 > 3/5

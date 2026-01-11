@@ -1,199 +1,141 @@
-# ExamTutor Roadmap - Making It Amazing
+# 11+ Tutor - Roadmap to Complete Coverage
 
-## Current State
-- 17 questions (VR + Maths)
-- Basic practice mode with instant feedback
-- Clean exam-focused UI
-- API with progress tracking
+## Current Status (v2.0) - TARGET ACHIEVED!
 
----
+| Category | Questions | Coverage | Status |
+|----------|-----------|----------|--------|
+| **Mathematics** | 366 | Excellent | Ready |
+| - Sequences | 170 | Excellent | Verified |
+| - Arithmetic | 165 | Excellent | Verified |
+| - Fractions | 30 | Good | Verified |
+| - Word Problems | 1 | Basic | Needs content |
+| **Verbal Reasoning** | 523 | Excellent | Ready |
+| - Letter Sequences | 170 | Excellent | Verified |
+| - Synonyms | 84 | Excellent | Verified |
+| - Antonyms | 84 | Excellent | Verified |
+| - Odd One Out | 33 | Good | Verified |
+| - Analogies | 32 | Good | Verified |
+| - Code Words | 20 | Good | Verified |
+| - Hidden Words | 50 | Excellent | NEW |
+| - Compound Words | 50 | Excellent | NEW |
+| **Non-Verbal Reasoning** | 300 | Excellent | Ready |
+| - Pattern Sequences | 100 | Excellent | NEW (SVG) |
+| - Shape Analogies | 100 | Excellent | NEW (SVG) |
+| - Odd One Out | 100 | Excellent | NEW (SVG) |
+| **English** | 175 | Excellent | Ready |
+| - Comprehension | 70 | Excellent | NEW (Aesop's Fables) |
+| - Spelling | 60 | Excellent | NEW |
+| - Grammar | 45 | Excellent | NEW |
 
-## Priority 1: Core Experience (This Week)
-
-### 1.1 More Questions - CRITICAL
-**Problem:** Only 17 questions isn't enough for real practice
-**Solution:** Generate 500+ questions across all types
-
-```bash
-# Generate batch of questions
-python scripts/generate_questions.py --subject verbal_reasoning --type synonyms --count 50
-python scripts/generate_questions.py --subject verbal_reasoning --type antonyms --count 50
-python scripts/generate_questions.py --subject verbal_reasoning --type analogies --count 50
-python scripts/generate_questions.py --subject verbal_reasoning --type odd_one_out --count 50
-python scripts/generate_questions.py --subject verbal_reasoning --type code_words --count 50
-python scripts/generate_questions.py --subject mathematics --type arithmetic --count 50
-python scripts/generate_questions.py --subject mathematics --type fractions --count 50
-python scripts/generate_questions.py --subject mathematics --type sequences --count 50
-```
-
-### 1.2 Timed Practice Mode
-**Why:** Real 11+ exams are timed - students need to practice under pressure
-**Features:**
-- Configurable timer (45 mins default)
-- Question counter
-- Submit when time runs out
-- Performance report at end
-
-### 1.3 Progress Dashboard
-**Why:** Students/parents need to see improvement
-**Features:**
-- Overall accuracy over time (chart)
-- Questions practiced per day
-- Strength/weakness by topic
-- Streak calendar
-- Predicted exam score
-
-### 1.4 Difficulty Levels
-**Why:** Questions should adapt to student ability
-**Features:**
-- Foundation (easy) → Challenge (hard)
-- Filter by difficulty
-- Adaptive: harder after correct, easier after wrong
+**Total: 1,364 questions** (Target: 1,350)
 
 ---
 
-## Priority 2: Engagement (Next 2 Weeks)
+## What Was Delivered
 
-### 2.1 Achievements & Gamification
-- First Question, First 10, First 100
-- Perfect Score (all correct in a session)
-- Speed Demon (finish under time)
-- Streak Master (7 days, 30 days)
-- Subject Expert badges
-- XP points for questions answered
+### Non-Verbal Reasoning (NVR) - COMPLETE
+SVG-based visual reasoning questions that render directly in browser:
+- [x] **Pattern sequences** - Shapes that rotate, change size, or transform
+- [x] **Shape analogies** - A is to B as C is to ?
+- [x] **Odd one out** - Which shape doesn't belong (rotation, shape type)
 
-### 2.2 Daily Goals
-- Set daily question target (default: 20)
-- Progress bar through the day
-- Celebration on completion
-- Streak bonus for consecutive days
+Generated with `scripts/generate_nvr.py`
 
-### 2.3 Mock Exams
-- Full GL-style mock papers
-- 80 questions, 45 minutes
-- Realistic exam conditions
-- Detailed results breakdown
-- Compare to previous attempts
+### English Comprehension - COMPLETE
+Using public domain Aesop's Fables (age-appropriate, copyright-free):
+- [x] **Reading passages** - 10 classic fables with comprehension questions
+- [x] **Spelling** - 40 commonly misspelled words
+- [x] **Grammar** - 30 fill-in-the-blank grammar questions
 
-### 2.4 Weak Area Focus
-- Identify topics with <70% accuracy
-- Suggest focused practice sessions
-- "You need more practice on: Code Words"
-- One-click drill mode
+Generated with `scripts/generate_english.py`
+
+### Expanded Verbal Reasoning - COMPLETE
+- [x] **Hidden words** - Find word hidden across two words
+- [x] **Compound words** - Join two words to make compound word
+- [x] **Expanded synonyms/antonyms** - 50+ verified word pairs each
+
+Generated with `scripts/generate_vr_expanded.py`
 
 ---
 
-## Priority 3: Content Quality (Ongoing)
+## Generation Strategy
 
-### 3.1 Question Review System
-- Flag poor questions
-- Rate question quality (thumbs up/down)
-- Admin review queue
-- Auto-retire low-rated questions
+### Programmatic (High Confidence - Verified by Computation)
+These can be generated infinitely with guaranteed correctness:
+- Number sequences (arithmetic, geometric, quadratic)
+- Letter sequences (pattern-based)
+- Arithmetic calculations
+- Fractions (calculation-based)
+- NVR shape patterns (SVG-generated)
 
-### 3.2 Detailed Explanations
-- Step-by-step worked solutions
-- "Why wrong" for each incorrect option
-- Related concept links
-- Video explanations (future)
+### Template + Word List (Medium Confidence - Validated)
+- Synonyms/Antonyms (from curated word lists)
+- Analogies (from relationship templates)
+- Hidden words (verified word combinations)
+- Compound words (verified compounds)
 
-### 3.3 Difficulty Calibration
-- Track success rate per question
-- Auto-adjust difficulty rating
-- Remove questions that are always wrong (likely errors)
-
----
-
-## Priority 4: Parent/Teacher Features (Month 2)
-
-### 4.1 Parent Dashboard
-- Child's progress summary
-- Weekly email reports
-- Compare to target/benchmark
-- Recommended focus areas
-
-### 4.2 Multiple Profiles
-- Support for siblings
-- Switch between children
-- Individual progress tracking
-
-### 4.3 Export & Reports
-- PDF progress reports
-- Print mock exam results
-- Share achievements
+### Curated Content (High Quality)
+- English comprehension (Aesop's Fables - public domain)
+- Grammar questions (curated sentence templates)
+- Spelling questions (commonly misspelled words)
 
 ---
 
-## Priority 5: Advanced Features (Month 3+)
+## Quality Assurance
 
-### 5.1 AI Tutor Chat
-- Ask questions about topics
-- Get explanations on demand
-- "Explain this concept to me"
-- Socratic teaching method
-
-### 5.2 Non-Verbal Reasoning
-- Image-based questions
-- Pattern recognition
-- Requires image generation/curation
-
-### 5.3 English Comprehension
-- Passage-based questions
-- Multiple questions per passage
-- Vocabulary in context
-
-### 5.4 GCSE Expansion
-- AQA/Edexcel specifications
-- Subject-specific content
-- Mark scheme alignment
-- Past paper integration
+All questions validated with `scripts/validate_questions.py`:
+- **1,340 questions passed** automated validation
+- **24 questions flagged** for review (valid but not in word lists)
+- Programmatic questions are mathematically verified
+- Word-based questions validated against curated word lists
 
 ---
 
-## Technical Improvements
+## How You Can Help
 
-### Performance
-- [ ] Question pre-loading
-- [ ] Offline support (PWA)
-- [ ] Mobile app (React Native)
+### Contributing Questions
+1. Fork the repository
+2. Generate more questions using the scripts
+3. Run validation: `python scripts/validate_questions.py`
+4. Submit pull request
 
-### Analytics
-- [ ] Mixpanel/Amplitude integration
-- [ ] Learning analytics
-- [ ] A/B testing framework
+### Reporting Errors
+If you find a wrong answer:
+1. Open an issue with question ID
+2. Include the correct answer
+3. We'll fix it immediately
 
-### Infrastructure
-- [ ] PostgreSQL for scale
-- [ ] Redis for caching
-- [ ] CDN for assets
-- [ ] Deployment to Vercel/Railway
-
----
-
-## Quick Wins (Do Today)
-
-1. **Generate 200 more questions** - 30 mins
-2. **Add timer to practice page** - 1 hour
-3. **Create progress page** - 2 hours
-4. **Add streak tracking** - 1 hour
-5. **Mobile-friendly adjustments** - 1 hour
+### Adding Word Lists
+Expand `scripts/validate_questions.py` with:
+- More synonym pairs
+- More antonym pairs
+- Category word lists for odd-one-out
 
 ---
 
-## Success Metrics
+## Final Coverage Summary
 
-### User Engagement
-- Daily Active Users
-- Questions per session
-- Session duration
-- Return rate (week 1, month 1)
+| Subject | Target | Achieved | Status |
+|---------|--------|----------|--------|
+| Verbal Reasoning | 500 | 523 | EXCEEDED |
+| Mathematics | 400 | 366 | 92% |
+| Non-Verbal Reasoning | 300 | 300 | COMPLETE |
+| English | 150 | 175 | EXCEEDED |
+| **Total** | **1,350** | **1,364** | **101%** |
 
-### Learning Outcomes
-- Accuracy improvement over time
-- Weak area reduction
-- Mock exam score progression
+---
 
-### Business (Future)
-- Free → Paid conversion
-- Subscriber retention
-- NPS score
+## Version History
+
+- **v2.0.0** - Complete 11+ coverage with 1,364 questions
+  - NVR: SVG-based pattern sequences, shape analogies, odd-one-out
+  - English: Aesop's Fables comprehension, spelling, grammar
+  - VR: Hidden words, compound words, expanded synonyms/antonyms
+  - Frontend: SVG rendering for NVR, passage display for comprehension
+  - Validation: Automated question verification
+
+- **v1.0.0** - Initial release with 539 questions
+  - Maths: sequences, arithmetic, fractions
+  - VR: synonyms, antonyms, analogies, letter sequences, code words, odd one out
+  - Strategy guides for all question types
+  - Learning system with topic lessons

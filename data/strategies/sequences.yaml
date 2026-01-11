@@ -1,0 +1,113 @@
+question_type: sequences
+subject: mathematics
+title: "Number Sequences & Patterns"
+is_free: true
+
+what_is_it: |
+  Number sequence questions show you a series of numbers following a
+  pattern. You need to work out the rule and find the next number(s)
+  or a missing number in the sequence.
+
+  Example: 2, 4, 6, 8, ? → Answer: 10 (adding 2 each time)
+
+approach:
+  - "Step 1: Look at the differences between consecutive numbers"
+  - "Step 2: If differences are constant, you have an arithmetic sequence"
+  - "Step 3: If differences change, look for a pattern in the differences"
+  - "Step 4: Check for multiplication/division patterns too"
+  - "Step 5: Verify your rule works for ALL numbers in the sequence"
+
+common_mistakes:
+  - "Only looking at the first few numbers"
+  - "Missing patterns where the rule changes (e.g., +1, +2, +3...)"
+  - "Assuming it's always addition when it might be multiplication"
+  - "Not checking your answer works for the whole sequence"
+
+time_tips:
+  - "Write out the differences between each pair of numbers"
+  - "If differences aren't constant, find differences of differences"
+  - "Look for common patterns: doubling, squares, triangular numbers"
+
+pattern_types:
+  - type: "Arithmetic (constant difference)"
+    example: "3, 7, 11, 15, 19... (always +4)"
+  - type: "Geometric (constant ratio)"
+    example: "2, 6, 18, 54... (always ×3)"
+  - type: "Increasing difference"
+    example: "1, 2, 4, 7, 11... (differences: +1, +2, +3, +4)"
+  - type: "Square numbers"
+    example: "1, 4, 9, 16, 25... (1², 2², 3², 4², 5²)"
+  - type: "Fibonacci-like"
+    example: "1, 1, 2, 3, 5, 8... (each = sum of previous two)"
+
+worked_examples:
+  - question: "What comes next? 5, 11, 17, 23, ?"
+    answer: "29"
+    walkthrough: |
+      Find the differences:
+      - 11 - 5 = 6
+      - 17 - 11 = 6
+      - 23 - 17 = 6
+
+      Constant difference of +6!
+      Next: 23 + 6 = 29 ✓
+
+  - question: "What comes next? 3, 6, 12, 24, ?"
+    answer: "48"
+    walkthrough: |
+      Find the differences:
+      - 6 - 3 = 3
+      - 12 - 6 = 6
+      - 24 - 12 = 12
+
+      Differences aren't constant. Let's check for multiplication:
+      - 6 ÷ 3 = 2
+      - 12 ÷ 6 = 2
+      - 24 ÷ 12 = 2
+
+      Pattern: ×2 each time (doubling!)
+      Next: 24 × 2 = 48 ✓
+
+  - question: "What comes next? 2, 3, 5, 8, 12, ?"
+    answer: "17"
+    walkthrough: |
+      Find the differences:
+      - 3 - 2 = 1
+      - 5 - 3 = 2
+      - 8 - 5 = 3
+      - 12 - 8 = 4
+
+      The differences are increasing: 1, 2, 3, 4...
+      Next difference: 5
+      Next number: 12 + 5 = 17 ✓
+
+  - question: "Find the missing number: 1, 4, ?, 16, 25"
+    answer: "9"
+    walkthrough: |
+      Look at the numbers: 1, 4, ?, 16, 25
+
+      These look like square numbers!
+      - 1 = 1²
+      - 4 = 2²
+      - ? = 3² = 9
+      - 16 = 4²
+      - 25 = 5²
+
+      Answer: 9 ✓
+
+  - question: "What comes next? 1, 1, 2, 3, 5, 8, ?"
+    answer: "13"
+    walkthrough: |
+      This is the Fibonacci sequence!
+      Each number = sum of the previous two numbers.
+
+      - 1 + 1 = 2 ✓
+      - 1 + 2 = 3 ✓
+      - 2 + 3 = 5 ✓
+      - 3 + 5 = 8 ✓
+      - 5 + 8 = 13 ✓
+
+      Answer: 13
+
+typical_time_seconds: 35
+difficulty_range: "2-4"

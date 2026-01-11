@@ -1,0 +1,101 @@
+ID,Subject,Type,Difficulty,Question,Options,Correct Answer,Correct Index,Worked Solution,VERIFIED (Y/N),ISSUES/NOTES
+10f48a9d-2db6-4cfc-90cb-c248f7aa5af6,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+COST   AGE",start | stand | stage | stone | start,stage,2,The hidden word is 'stage' - found in cost+age: OSTAGE,,
+134584ea-4fa3-48a6-b1c4-8037b65a7e74,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+CAST   INK",start | stink | stage | stair | stair,stink,1,The hidden word is 'stink' - found in cast+ink: ASTINK,,
+1d202f3f-5bc3-48a8-b00d-93fe7a63c3a4,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEST   AND",stink | stand | stone | start | stable,stand,1,The hidden word is 'stand' - found in best+and: ESTAND,,
+1e9c1cbf-8033-4a8f-ac0b-2fda6882bb7d,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FIRST   ATE",start | stone | stand | state | stone,state,3,The hidden word is 'state' - found in first+ate: RSTATE,,
+2a100e30-d1fb-4700-93f8-05f5361ada26,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+MOST   ART",stamp | start | stand | stage | stone,start,1,The hidden word is 'start' - found in most+art: OSTART,,
+2b92c790-c627-4f92-961f-71f2e08e1953,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+ROAST   ABLE",stand | start | stable | state | stair,stable,2,The hidden word is 'stable' - found in roast+able: ASTABLE,,
+3120ffae-41aa-43fd-abbd-6f55043b8221,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+CAST   INK",start | start | stone | stink | start,stink,3,The hidden word is 'stink' - found in cast+ink: ASTINK,,
+370a27cf-c607-4005-8fbc-1b422020534a,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FIRST   ATE",stone | stair | stand | state | stage,state,3,The hidden word is 'state' - found in first+ate: RSTATE,,
+3992dc96-f3d1-4d9e-bb9c-4c4c89e05eae,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEAST   AND",start | start | stair | stand | start,stand,3,The hidden word is 'stand' - found in beast+and: ASTAND,,
+3fa10668-e16e-4185-8489-c298d298d5dd,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+TEST   ONE",start | stand | stone | state | stand,stone,2,The hidden word is 'stone' - found in test+one: ESTONE,,
+4022c736-7d3a-4ace-ab1b-b5ab691a94f8,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FAST   ART",stand | stink | stage | stone | start,start,4,The hidden word is 'start' - found in fast+art: ASTART,,
+46bbf944-36cc-44f8-87a9-7edc61aed3e8,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+CAST   INK",stand | stand | stage | stink | stable,stink,3,The hidden word is 'stink' - found in cast+ink: ASTINK,,
+49524734-bee2-4102-9f94-4f6959e164c5,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+TRUST   ONE",start | stand | start | stone | stamp,stone,3,The hidden word is 'stone' - found in trust+one: USTONE,,
+4959ab17-d827-4fc8-80bf-8cfccf6d8342,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+LIST   ONE",stage | stand | stable | stand | stone,stone,4,The hidden word is 'stone' - found in list+one: ISTONE,,
+4a943f7f-b007-4f56-a1da-2d4181d6a8c4,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+TRUST   ONE",stand | stone | state | stamp | stand,stone,1,The hidden word is 'stone' - found in trust+one: USTONE,,
+4b77ccc2-ecb1-434e-8746-61f001abb734,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+LAST   AMP",stage | stair | stand | stamp | start,stamp,3,The hidden word is 'stamp' - found in last+amp: ASTAMP,,
+5b57e1d4-aae8-46ae-874c-77fe6edf81f8,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FEAST   ART",stink | stair | stone | stable | start,start,4,The hidden word is 'start' - found in feast+art: ASTART,,
+5c4f384d-7bb9-4795-9c45-c24751143b1c,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FIRST   ATE",state | stage | stand | start | stone,state,0,The hidden word is 'state' - found in first+ate: RSTATE,,
+5c835d78-5895-4200-8e42-eaa632137ed1,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+TEST   ONE",stand | stable | stamp | stone | start,stone,3,The hidden word is 'stone' - found in test+one: ESTONE,,
+649d0b11-9352-4aa5-8548-238bd2ecc5fc,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+MIST   AND",stair | state | stand | stage | stable,stand,2,The hidden word is 'stand' - found in mist+and: ISTAND,,
+691e210c-fd52-4129-8d05-d06e4aad2222,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+PAST   AIR",stair | stand | stamp | start | start,stair,0,The hidden word is 'stair' - found in past+air: ASTAIR,,
+6dacb807-ed3b-4b0f-a562-58cd57cd1d7e,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+WAIST   ONE",start | stone | stable | stand | stink,stone,1,The hidden word is 'stone' - found in waist+one: ISTONE,,
+6de2d513-b27f-443e-a323-3b7e25d6f2fe,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+MIST   AND",stage | stair | stand | stone | stink,stand,2,The hidden word is 'stand' - found in mist+and: ISTAND,,
+74b0f89a-4623-4048-8d84-08f0b63eb4f0,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+MOST   ART",stamp | stand | start | stone | stand,start,2,The hidden word is 'start' - found in most+art: OSTART,,
+7ce0cb76-3597-4f72-b427-e417d900f1af,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+COST   AGE",start | stage | stair | stand | stink,stage,1,The hidden word is 'stage' - found in cost+age: OSTAGE,,
+860f8246-9743-4dab-ae4c-af042bad1812,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEAST   AND",stand | stage | stamp | stair | start,stand,0,The hidden word is 'stand' - found in beast+and: ASTAND,,
+86210bc1-3e6e-49e7-add8-18e48bba57c2,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEST   AND",start | stone | start | stand | start,stand,3,The hidden word is 'stand' - found in best+and: ESTAND,,
+87faaabb-16a8-460d-b7d6-593f0094819b,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FAST   ART",stink | start | stone | stamp | stable,start,1,The hidden word is 'start' - found in fast+art: ASTART,,
+9334f85f-c02a-4c1d-825a-d75be1fad0da,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+LIST   ONE",stone | stamp | stand | start | stand,stone,0,The hidden word is 'stone' - found in list+one: ISTONE,,
+95113ed2-68e3-49a9-a6a7-46c9e3df845b,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEST   AND",stone | stand | stone | stone | state,stand,1,The hidden word is 'stand' - found in best+and: ESTAND,,
+9d751813-24a3-4a5d-a221-c826ab45c060,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+MIST   AND",stone | start | state | stand | stair,stand,3,The hidden word is 'stand' - found in mist+and: ISTAND,,
+a2fdeba0-7684-499c-a260-3c309fecb490,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+DUST   AIR",stink | stable | stand | stair | state,stair,3,The hidden word is 'stair' - found in dust+air: USTAIR,,
+a4ba4a0d-0648-47a5-bb6c-1e760d2f466d,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FEAST   ART",start | stink | stair | stone | stone,start,0,The hidden word is 'start' - found in feast+art: ASTART,,
+a644be49-d8f2-4cb6-b798-d96acf7c4396,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+MOST   ART",stink | stone | stone | start | state,start,3,The hidden word is 'start' - found in most+art: OSTART,,
+a9c96e9f-f566-43ac-915c-9161a337bb4f,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+PAST   AIR",stable | stair | stand | stone | stand,stair,1,The hidden word is 'stair' - found in past+air: ASTAIR,,
+acddc5cc-6a09-4f37-98d5-f3f25f7c72de,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+WEST   AND",stand | stone | stair | stone | stink,stand,0,The hidden word is 'stand' - found in west+and: ESTAND,,
+b789d0d0-cb30-4b2d-a1ae-35aca5a51ed9,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FAST   ART",stage | stand | start | stone | stone,start,2,The hidden word is 'start' - found in fast+art: ASTART,,
+c4062595-92b6-4779-964c-195e6eb4780c,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+TEST   ONE",state | stand | stone | stable | start,stone,2,The hidden word is 'stone' - found in test+one: ESTONE,,
+c91cd5ea-468d-4c92-9994-1780497ba91b,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FEAST   ART",stink | stair | stone | start | stable,start,3,The hidden word is 'start' - found in feast+art: ASTART,,
+ce73caf8-fcef-4691-890a-3938ab9f08f9,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+MOST   ART",start | stink | stone | stand | stone,start,0,The hidden word is 'start' - found in most+art: OSTART,,
+dc7329d8-ea36-4d06-8f38-f45f10e42d7a,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+LIST   ONE",stone | stand | start | stink | stage,stone,0,The hidden word is 'stone' - found in list+one: ISTONE,,
+dcdb31af-bc3a-44c6-a713-4a9d18ef4b7a,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEST   AND",stink | start | stone | stand | stone,stand,3,The hidden word is 'stand' - found in best+and: ESTAND,,
+dd983815-5c74-4b7b-9fb1-681c36b977fa,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+WEST   AND",start | start | stone | stone | stand,stand,4,The hidden word is 'stand' - found in west+and: ESTAND,,
+e92b3a9a-4327-4039-82f0-50f89d4c6797,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+MIST   AND",state | stand | stone | start | stable,stand,1,The hidden word is 'stand' - found in mist+and: ISTAND,,
+ee99e16e-0d19-41d2-aa8d-46816306e260,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FAST   ART",stage | start | stand | stamp | stable,start,1,The hidden word is 'start' - found in fast+art: ASTART,,
+efbd276e-8764-4819-bb90-fb41483b3548,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEST   AND",stone | stage | state | start | stand,stand,4,The hidden word is 'stand' - found in best+and: ESTAND,,
+f1047ce8-f7cd-44f2-b33c-5870070594a9,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+FEAST   ART",stand | state | start | stand | stair,start,2,The hidden word is 'start' - found in feast+art: ASTART,,
+f5fcdf7a-c78a-42e3-bba2-d72fd8ac8a8a,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+TRUST   ONE",stone | stand | start | stage | stand,stone,0,The hidden word is 'stone' - found in trust+one: USTONE,,
+fc430aa3-aecd-4dd4-8473-f2c647eb4d61,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEAST   AND",stand | stone | stair | stone | stone,stand,0,The hidden word is 'stand' - found in beast+and: ASTAND,,
+ffff8efc-bc36-44eb-aed8-90a8056f7dac,verbal_reasoning,hidden_words,3,"Find the word hidden across these two words:
+BEST   AND",stage | stand | state | stair | stone,stand,1,The hidden word is 'stand' - found in best+and: ESTAND,,

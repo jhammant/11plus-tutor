@@ -15,6 +15,10 @@ import {
   Puzzle,
   BarChart3,
   Clock,
+  Lightbulb,
+  Route,
+  HelpCircle,
+  Sparkles,
 } from "lucide-react";
 
 export default function Sidebar() {
@@ -26,6 +30,14 @@ export default function Sidebar() {
       items: [
         { name: "Dashboard", href: "/", icon: LayoutDashboard },
         { name: "Practice Questions", href: "/practice", icon: Target },
+        { name: "Getting Started", href: "/getting-started", icon: Sparkles },
+      ],
+    },
+    {
+      name: "Learn",
+      items: [
+        { name: "Topic Lessons", href: "/learn", icon: BookOpen },
+        { name: "Strategy Guides", href: "/strategies", icon: Lightbulb },
       ],
     },
     {
