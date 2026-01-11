@@ -7,6 +7,22 @@
 ![Questions](https://img.shields.io/badge/questions-1364-brightgreen.svg)
 ![Tests](https://img.shields.io/badge/tests-57%20passing-success.svg)
 
+### Install in One Command
+
+**Mac / Linux:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/jhammant/11plus-tutor/main/scripts/install.sh | bash
+```
+
+**Windows (PowerShell):**
+```powershell
+irm https://raw.githubusercontent.com/jhammant/11plus-tutor/main/scripts/install.ps1 | iex
+```
+
+No AI/LLM required - all 1,364 questions work immediately!
+
+---
+
 ## Why This Exists
 
 11+ tutoring costs £40-80/hour. Practice books cost £10-15 each and run out quickly. Many families can't afford proper preparation, putting their children at a disadvantage.
