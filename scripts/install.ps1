@@ -1,5 +1,5 @@
 # 11+ Tutor - Easy Installer for Windows
-# Run with: irm https://raw.githubusercontent.com/yourusername/11plus-tutor/main/scripts/install.ps1 | iex
+# Run with: irm https://raw.githubusercontent.com/jhammant/11plus-tutor/main/scripts/install.ps1 | iex
 
 $ErrorActionPreference = "Stop"
 
@@ -110,7 +110,7 @@ if (Test-Path $installDir) {
     git pull origin main
 } else {
     Write-Host "Downloading 11+ Tutor..." -ForegroundColor Blue
-    git clone https://github.com/yourusername/11plus-tutor.git $installDir
+    git clone https://github.com/jhammant/11plus-tutor.git $installDir
     Set-Location $installDir
 }
 

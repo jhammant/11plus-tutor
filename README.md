@@ -46,12 +46,12 @@
 
 **Mac / Linux:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/11plus-tutor/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/jhammant/11plus-tutor/main/scripts/install.sh | bash
 ```
 
 **Windows (PowerShell):**
 ```powershell
-irm https://raw.githubusercontent.com/yourusername/11plus-tutor/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/jhammant/11plus-tutor/main/scripts/install.ps1 | iex
 ```
 
 The installer will:
@@ -70,7 +70,7 @@ If you prefer to install manually:
 
 ```bash
 # 1. Download the code
-git clone https://github.com/yourusername/11plus-tutor.git
+git clone https://github.com/jhammant/11plus-tutor.git
 cd 11plus-tutor
 
 # 2. Set up Python

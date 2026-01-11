@@ -1,6 +1,6 @@
 #!/bin/bash
 # 11+ Tutor - Easy Installer for Mac/Linux
-# Run with: curl -fsSL https://raw.githubusercontent.com/yourusername/11plus-tutor/main/scripts/install.sh | bash
+# Run with: curl -fsSL https://raw.githubusercontent.com/jhammant/11plus-tutor/main/scripts/install.sh | bash
 
 set -e
 
@@ -123,7 +123,7 @@ if [ -d "$INSTALL_DIR" ]; then
     git pull origin main
 else
     echo -e "${BLUE}Downloading 11+ Tutor...${NC}"
-    git clone https://github.com/yourusername/11plus-tutor.git "$INSTALL_DIR"
+    git clone https://github.com/jhammant/11plus-tutor.git "$INSTALL_DIR"
     cd "$INSTALL_DIR"
 fi
 
