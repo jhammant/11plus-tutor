@@ -1,10 +1,8 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-  // Move dev indicator to bottom-right corner
-  devIndicators: {
-    position: "bottom-right",
-  },
+  // Hide dev indicator (the "N" in corner) - cleaner for non-technical users
+  devIndicators: false,
 
   // Transpile mermaid and related packages for proper ESM handling
   transpilePackages: ["mermaid"],

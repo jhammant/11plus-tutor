@@ -40,14 +40,33 @@
 
 ---
 
-## Quick Start (5 minutes)
+## Quick Start
 
-### What You Need
-- Python 3.12+ ([download](https://python.org))
-- Node.js 18+ ([download](https://nodejs.org))
-- **No LLM required!** (optional for AI tutor features)
+### One-Line Install (Recommended)
 
-### Install & Run
+**Mac / Linux:**
+```bash
+curl -fsSL https://raw.githubusercontent.com/yourusername/11plus-tutor/main/scripts/install.sh | bash
+```
+
+**Windows (PowerShell):**
+```powershell
+irm https://raw.githubusercontent.com/yourusername/11plus-tutor/main/scripts/install.ps1 | iex
+```
+
+The installer will:
+- ✅ Check for Python & Node.js (help you install if missing)
+- ✅ Download 11+ Tutor
+- ✅ Set up everything automatically
+- ✅ Create a simple `start.sh` or `start.bat` to launch anytime
+
+**No LLM required!** All 1,364 questions work immediately.
+
+---
+
+### Manual Install (Alternative)
+
+If you prefer to install manually:
 
 ```bash
 # 1. Download the code
