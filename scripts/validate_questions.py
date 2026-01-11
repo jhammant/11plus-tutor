@@ -427,9 +427,65 @@ class QuestionValidator:
         result['issues'].append("Analogy - needs manual review")
 
     def _validate_code_words(self, q: dict, result: dict):
-        """Validate code word questions."""
-        result['confidence'] = 'medium'
-        result['issues'].append("Code words - needs manual review")
+        """Validate code word questions by verifying cipher logic."""
+        text = q.get('question_text', '')
+        answer = q.get('correct_answer', '')
+        options = q.get('options', [])
+
+        # Parse: "If WORD is coded as CODE, what is the code for TARGET?"
+        match = re.search(r'If\s+(\w+)\s+is\s+coded\s+as\s+(\w+).*code\s+for\s+(\w+)', text, re.IGNORECASE)
+        if not match:
+            result['confidence'] = 'low'
+            result['issues'].append("Could not parse code_words question format")
+            return
+
+        example_word = match.group(1).upper()
+        coded_word = match.group(2).upper()
+        target_word = match.group(3).upper()
+
+        # Extract shift from example
+        if len(example_word) != len(coded_word):
+            result['valid'] = False
+            result['confidence'] = 'high'
+            result['issues'].append(f"Example word length mismatch: {example_word}({len(example_word)}) vs {coded_word}({len(coded_word)})")
+            return
+
+        shifts = []
+        for i, c in enumerate(example_word):
+            if c.isalpha():
+                shift = (ord(coded_word[i]) - ord(c)) % 26
+                shifts.append(shift)
+
+        if not shifts or len(set(shifts)) != 1:
+            result['valid'] = False
+            result['confidence'] = 'high'
+            result['issues'].append(f"Inconsistent cipher shift in example: {example_word} -> {coded_word}")
+            return
+
+        shift = shifts[0]
+
+        # Calculate correct answer
+        correct_answer = ''.join(
+            chr((ord(c) - ord('A') + shift) % 26 + ord('A')) if c.isalpha() else c
+            for c in target_word
+        )
+
+        # Verify stored answer matches calculated answer
+        if answer.upper() != correct_answer:
+            result['valid'] = False
+            result['confidence'] = 'high'
+            result['issues'].append(f"Wrong answer: stored '{answer}', should be '{correct_answer}' (shift +{shift})")
+            return
+
+        # Verify answer is in options
+        if correct_answer not in [o.upper() for o in options]:
+            result['valid'] = False
+            result['confidence'] = 'high'
+            result['issues'].append(f"Correct answer '{correct_answer}' not in options")
+            return
+
+        result['valid'] = True
+        result['confidence'] = 'high'
 
     def _validate_odd_one_out(self, q: dict, result: dict):
         """Validate odd one out questions."""

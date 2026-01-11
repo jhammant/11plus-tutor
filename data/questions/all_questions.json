@@ -420,90 +420,6 @@
     "hint": null
   },
   {
-    "id": "6349c47c-9135-4607-a888-4874b4f5d7f9",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIGV",
-      "XDUJHW",
-      "UCSHFT",
-      "WDRIUX",
-      "TCQFES"
-    ],
-    "correct_answer": "VCTIGV",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V, giving VCTIGV.",
-    "hint": null
-  },
-  {
-    "id": "d59e4fcb-824f-4376-bf0d-aad42ab2824d",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIGV",
-      "UCSHFU",
-      "WDUJHW",
-      "XEVKIX",
-      "YFWMJY"
-    ],
-    "correct_answer": "VCTIGV",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by 2 places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V, giving VCTIGV.",
-    "hint": null
-  },
-  {
-    "id": "bd5fd26f-d0e3-43bb-8714-85396f07f664",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If BRIGHT is coded as VJKITD, what is the code for TARGET?",
-    "options": [
-      "VGTICV",
-      "VGTCIV",
-      "VGITCV",
-      "VCGTIV",
-      "VTGCIV"
-    ],
-    "correct_answer": "VGITCV",
-    "correct_index": 2,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B) and then the whole string is reversed. Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V gives VCTIGV; reversing yields VGITCV.",
-    "hint": null
-  },
-  {
-    "id": "1f65b167-71fb-451c-9bec-5e324c8556b8",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIGV",
-      "UCSHFU",
-      "WDUJHW",
-      "TBRFET",
-      "XDVKIX"
-    ],
-    "correct_answer": "VCTIGV",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V, giving VCTIGV.",
-    "hint": null
-  },
-  {
     "id": "0afcda93-ccf0-4621-8612-57dbf40b9bc3",
     "exam_type": "11plus_gl",
     "subject": "verbal_reasoning",
@@ -522,132 +438,6 @@
     "correct_index": 0,
     "marks_available": 1,
     "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to SMART: S\u2192U, M\u2192O, A\u2192C, R\u2192T, T\u2192V, giving UOCTV.",
-    "hint": null
-  },
-  {
-    "id": "e94e736d-51f2-4f96-aeb0-02188c022c16",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIG",
-      "UCSHF",
-      "WDUJH",
-      "XDVJK",
-      "YEVKL"
-    ],
-    "correct_answer": "VCTIG",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, giving VCTIG.",
-    "hint": null
-  },
-  {
-    "id": "1ac0f4ee-3a0f-4a9d-bf26-ae78cba8d4b0",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIGV",
-      "XBVJHW",
-      "UCSFHU",
-      "WDTJHV",
-      "YDSKJW"
-    ],
-    "correct_answer": "VCTIGV",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V, giving VCTIGV.",
-    "hint": null
-  },
-  {
-    "id": "d9ec797f-0569-4fa3-a18b-a5b9a8eebe73",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VGTCF",
-      "VCTHG",
-      "VCTIG",
-      "WDTJH",
-      "UCSHF"
-    ],
-    "correct_answer": "VCTIG",
-    "correct_index": 2,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G. Therefore TARGET becomes VCTIG.",
-    "hint": null
-  },
-  {
-    "id": "345bea76-43e6-4530-a7c8-b8eb71fef206",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIG",
-      "WDUJH",
-      "XEVIK",
-      "YFWJL",
-      "ZG XKM"
-    ],
-    "correct_answer": "VCTIG",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, giving VCTIG.",
-    "hint": null
-  },
-  {
-    "id": "914de971-79f1-4866-9ef3-90aecbddab2b",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIG",
-      "XCVJH",
-      "WDUHJ",
-      "UCSGF",
-      "ZDWKH"
-    ],
-    "correct_answer": "VCTIG",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by 2 places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, giving VCTIG.",
-    "hint": null
-  },
-  {
-    "id": "0de5d73f-8ea2-47cd-9635-e58b05457dfa",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIGV",
-      "UCSHFU",
-      "WDUJHW",
-      "XEVKIW",
-      "TBSFET"
-    ],
-    "correct_answer": "VCTIGV",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V, giving VCTIGV.",
     "hint": null
   },
   {
@@ -693,27 +483,6 @@
     "hint": null
   },
   {
-    "id": "d2ef0e98-e5c7-4bd7-9c95-1e0354bd126b",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIGV",
-      "UCSHFU",
-      "WDUJHW",
-      "XEVKIX",
-      "YFWLJY"
-    ],
-    "correct_answer": "VCTIGV",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by 2 places in the alphabet (A\u2192C, B\u2192D, \u2026, Y\u2192A, Z\u2192B). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V, giving VCTIGV.",
-    "hint": null
-  },
-  {
     "id": "1e7578c6-fdde-4a2c-b7c8-2c3b494895e9",
     "exam_type": "11plus_gl",
     "subject": "verbal_reasoning",
@@ -732,27 +501,6 @@
     "correct_index": 0,
     "marks_available": 1,
     "worked_solution": "The rule is: each letter is shifted three places backwards in the alphabet (with wrap\u2011around). C\u2192Z, A\u2192X, T\u2192Q. Applying the same shift to DOG gives D\u2192A, O\u2192L, G\u2192D, so the code is ALD.",
-    "hint": null
-  },
-  {
-    "id": "de127304-f35e-4cba-9230-36599afb9598",
-    "exam_type": "11plus_gl",
-    "subject": "verbal_reasoning",
-    "topic": "general",
-    "question_type": "code_words",
-    "difficulty": 3,
-    "question_text": "If WORD is coded as YQTF, what is the code for TARGET?",
-    "options": [
-      "VCTIGV",
-      "XEVJHW",
-      "UCRFHU",
-      "WDUJIV",
-      "YDWKJW"
-    ],
-    "correct_answer": "VCTIGV",
-    "correct_index": 0,
-    "marks_available": 1,
-    "worked_solution": "Each letter is shifted forward by two places in the alphabet (A\u2192C, B\u2192D, \u2026). Applying this to TARGET: T\u2192V, A\u2192C, R\u2192T, G\u2192I, E\u2192G, T\u2192V, giving VCTIGV.",
     "hint": null
   },
   {
