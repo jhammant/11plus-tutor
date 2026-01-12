@@ -1,33 +1,33 @@
-# 11+ Tutor - Docker Compose
-# Usage: docker-compose up
-# Then open http://localhost:3783
-
-version: '3.8'
+# Docker Compose for 11+ Tutor Application
+# Usage: docker compose up -d
 
 services:
-  tutor:
-    build: .
+  11plus-tutor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: 11plus-tutor
     ports:
-      - "3783:3783"
-      - "8002:8002"
+      - "3783:3783"   # Frontend
+      - "8002:8002"   # Backend API
     volumes:
-      # Persist the database so progress is saved
-      - ./elevenplustutor.db:/app/elevenplustutor.db
+      # Persist database across container restarts
+      - tutor-data:/app/data
     environment:
-      - NEXT_PUBLIC_API_BASE=http://localhost:8002
-      - NODE_ENV=production
+      # Optional: Configure LLM (uncomment and set your values)
+      # - LLM_BINDING=openai
+      # - LLM_HOST=http://host.docker.internal:1234/v1
+      # - LLM_MODEL=local-model
+      # - LLM_API_KEY=lm-studio
+      - PYTHONUNBUFFERED=1
     restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3783"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
 
-  # Optional: Add Ollama for AI features
-  # Uncomment below to enable
-  #
-  # ollama:
-  #   image: ollama/ollama
-  #   ports:
-  #     - "11434:11434"
-  #   volumes:
-  #     - ollama_data:/root/.ollama
-  #   # After starting, run: docker exec -it ollama ollama pull llama3.2
-
-# volumes:
-#   ollama_data:
+volumes:
+  tutor-data:
+    name: 11plus-tutor-data

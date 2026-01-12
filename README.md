@@ -105,6 +105,46 @@ Open http://localhost:3783 in your browser. That's it!
 
 ---
 
+### Docker Install (No Dependencies Required)
+
+Run 11+ Tutor in a Docker container - no need to install Python or Node.js locally.
+
+**Build and run with Docker Compose (recommended):**
+```bash
+# Clone the repository
+git clone https://github.com/jhammant/11plus-tutor.git
+cd 11plus-tutor
+
+# Build and start the container
+docker compose up -d
+```
+
+**Or use the build script:**
+```bash
+# Build the Docker image
+./scripts/build_docker.sh
+
+# Run the container
+docker run -d -p 3783:3783 -p 8002:8002 --name 11plus-tutor 11plus-tutor
+```
+
+**Or build manually:**
+```bash
+docker build -t 11plus-tutor .
+docker run -d -p 3783:3783 -p 8002:8002 --name 11plus-tutor 11plus-tutor
+```
+
+Open http://localhost:3783 in your browser.
+
+**Docker commands:**
+```bash
+docker compose up -d      # Start the container
+docker compose down       # Stop the container
+docker compose logs -f    # View logs
+```
+
+---
+
 ## LLM Setup Options
 
 ### Do I Need an LLM?
@@ -320,7 +360,7 @@ python scripts/test_harness.py  # Should show 57/57 passing
 - [ ] Shuffled sentences
 
 ### Features We Need
-- [ ] Docker for one-command setup
+- [x] Docker for one-command setup
 - [ ] Printable worksheet generator
 - [ ] Mobile app (React Native?)
 - [ ] Spaced repetition scheduling
