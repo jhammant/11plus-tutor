@@ -1,0 +1,21 @@
+# ExamTutor Main Configuration
+# Server ports and core settings
+
+server:
+  # Backend API server (FastAPI)
+  backend_port: 8002
+  backend_host: "0.0.0.0"
+
+  # Frontend web server (Next.js)
+  frontend_port: 3783
+  frontend_host: "localhost"
+
+# API URL configuration
+# This is used by the frontend to connect to the backend
+api:
+  base_url: "http://localhost:8002"
+
+# Development settings
+development:
+  reload: true
+  debug: false
