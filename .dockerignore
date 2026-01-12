@@ -1,0 +1,43 @@
+# Git
+.git
+.gitignore
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Node
+web/node_modules/
+web/.next/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment files (will be set in container)
+.env
+.env.local
+web/.env.local
+
+# Build artifacts
+dist/
+build/
+*.egg
+
+# Test coverage
+htmlcov/
+.coverage
