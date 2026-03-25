@@ -266,3 +266,115 @@ NVR_QUESTION_TYPES = [
     "code_breakers",
     "spatial_reasoning",
 ]
+
+
+# New dataclasses for teaching strategies and adaptive difficulty
+
+@dataclass
+class TeachingStrategy:
+    """Teaching strategy for a specific question type"""
+    question_type: str
+    subject: str  # e.g., "verbal_reasoning"
+    title: str
+    what_is_it: str  # Explanation of the question type
+    approach: List[str]  # Step-by-step approach
+    common_mistakes: List[str]
+    time_tips: List[str]
+    worked_examples: List["WorkedExample"]
+    typical_time_seconds: int
+    difficulty_range: str  # e.g., "Easy to Medium"
+    is_free: bool = True
+
+
+@dataclass
+class WorkedExample:
+    """A worked example for a question type"""
+    question: str
+    answer: str
+    walkthrough: Optional[str] = None
+    options: Optional[List[str]] = None
+
+
+@dataclass
+class AdaptiveDifficultyConfig:
+    """Configuration for adaptive difficulty adjustment"""
+    initial_difficulty: Difficulty = Difficulty.MEDIUM
+    min_difficulty: Difficulty = Difficulty.FOUNDATION
+    max_difficulty: Difficulty = Difficulty.CHALLENGE
+    correct_streak_threshold: int = 3  # Increase difficulty after this many correct answers in a row
+    incorrect_streak_threshold: int = 2  # Decrease difficulty after this many incorrect answers in a row
+    difficulty_step: float = 0.5  # How much to adjust difficulty per streak
+
+
+@dataclass
+class QuestionBank:
+    """A collection of questions with metadata"""
+    questions: List[Question] = field(default_factory=list)
+    strategies: Dict[str, TeachingStrategy] = field(default_factory=dict)  # question_type -> strategy
+    difficulty_config: AdaptiveDifficultyConfig = field(default_factory=AdaptiveDifficultyConfig)
+
+    def get_question_by_id(self, question_id: str) -> Optional[Question]:
+        """Retrieve a question by its ID"""
+        for q in self.questions:
+            if q.id == question_id:
+                return q
+        return None
+
+    def get_questions_by_subject(self, subject: Subject) -> List[Question]:
+        """Get all questions for a specific subject"""
+        return [q for q in self.questions if q.subject == subject]
+
+    def get_questions_by_type(self, question_type: str) -> List[Question]:
+        """Get all questions of a specific type"""
+        return [q for q in self.questions if q.question_type == question_type]
+
+    def get_next_question(self, student_progress: StudentProgress) -> Optional[Question]:
+        """Get the next question based on adaptive difficulty and progress"""
+        # Start with questions the student hasn't attempted
+        unattempted = [q for q in self.questions if not any(
+            ar.question_id == q.id for ar in student_progress.total_questions_attempted
+        )]
+
+        if not unattempted:
+            # If all questions attempted, use any question
+            unattempted = self.questions
+
+        # Filter by difficulty based on student's performance
+        current_difficulty = self._calculate_current_difficulty(student_progress)
+        filtered_questions = [
+            q for q in unattempted
+            if abs(q.difficulty.value - current_difficulty) <= 1
+        ]
+
+        # If no questions in the desired difficulty range, fall back to any question
+        if not filtered_questions:
+            filtered_questions = unattempted
+
+        # Return a random question from the filtered list
+        import random
+        return random.choice(filtered_questions) if filtered_questions else None
+
+    def _calculate_current_difficulty(self, student_progress: StudentProgress) -> int:
+        """Calculate the current difficulty level based on student performance"""
+        config = self.difficulty_config
+        correct_streak = 0
+        incorrect_streak = 0
+
+        # Calculate streaks from recent attempts (simplified for now)
+        # In a real implementation, you'd analyze the student's recent attempts
+        if student_progress.total_questions_attempted > 0:
+            accuracy = student_progress.total_correct / student_progress.total_questions_attempted
+            if accuracy >= 0.8:
+                correct_streak = config.correct_streak_threshold
+            elif accuracy <= 0.4:
+                incorrect_streak = config.incorrect_streak_threshold
+
+        # Calculate difficulty based on streaks
+        base_difficulty = config.initial_difficulty.value
+        if correct_streak >= config.correct_streak_threshold:
+            base_difficulty += 1
+        elif incorrect_streak >= config.incorrect_streak_threshold:
+            base_difficulty -= 1
+
+        # Clamp difficulty within bounds
+        return max(config.min_difficulty.value, min(config.max_difficulty.value, base_difficulty))

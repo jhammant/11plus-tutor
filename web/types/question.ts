@@ -260,3 +260,42 @@ export interface MimicConfig {
   selectedKb: string;
   maxQuestions?: number;
 }
+
+// Teaching strategies types
+export interface WorkedExample {
+  question: string;
+  answer: string;
+  walkthrough?: string;
+  options?: string[];
+}
+
+export interface TeachingStrategy {
+  question_type: string;
+  subject: string;
+  title: string;
+  what_is_it: string;
+  approach: string[];
+  common_mistakes: string[];
+  time_tips: string[];
+  worked_examples: WorkedExample[];
+  typical_time_seconds: number;
+  difficulty_range: string;
+  is_free?: boolean;
+}
+
+// Adaptive difficulty config
+export interface AdaptiveDifficultyConfig {
+  initial_difficulty: "easy" | "medium" | "hard";
+  min_difficulty: "easy" | "medium" | "hard";
+  max_difficulty: "easy" | "medium" | "hard";
+  correct_streak_threshold: number;
+  incorrect_streak_threshold: number;
+  difficulty_step: number;
+}
+
+// Question bank types
+export interface QuestionBank {
+  questions: GeneratedQuestion[];
+  strategies: Record<string, TeachingStrategy>;
+  difficulty_config: AdaptiveDifficultyConfig;
+}
