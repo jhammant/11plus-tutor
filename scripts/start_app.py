@@ -120,11 +120,21 @@ def start_frontend():
     env["PORT"] = str(FRONTEND_PORT)
     env["NEXT_PUBLIC_API_BASE"] = f"http://localhost:{BACKEND_PORT}"
 
-    process = subprocess.Popen(
-        ["npm", "run", "dev", "--", "-p", str(FRONTEND_PORT)],
-        cwd=FRONTEND_DIR,
-        env=env,
-    )
+    # On Windows, use shell=True so npm.cmd is resolved correctly
+    if sys.platform.startswith("win"):
+        cmd = f"npm run dev -- -p {FRONTEND_PORT}"
+        process = subprocess.Popen(
+            cmd,
+            cwd=FRONTEND_DIR,
+            env=env,
+            shell=True,
+        )
+    else:
+        process = subprocess.Popen(
+            ["npm", "run", "dev", "--", "-p", str(FRONTEND_PORT)],
+            cwd=FRONTEND_DIR,
+            env=env,
+        )
     processes.append(process)
     return process
 
